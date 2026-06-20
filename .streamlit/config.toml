@@ -1,16 +1,5 @@
-# Shared Streamlit theme — keeps the whole team's dashboard visually consistent.
-# Edit colours here once; every page inherits them.
-
 [theme]
-primaryColor = "#2563EB"          # accent (buttons, sliders, highlights)
-backgroundColor = "#FFFFFF"       # main canvas
-secondaryBackgroundColor = "#F1F5F9"  # sidebar / cards
-textColor = "#0F172A"
-font = "sans serif"
-
-[server]
-headless = true
-runOnSave = true
+primaryColor = "#2563EB"
 
 [browser]
 gatherUsageStats = false
