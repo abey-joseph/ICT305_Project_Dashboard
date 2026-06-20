@@ -1,7 +1,7 @@
 # ICT305 — Interactive Data Dashboard
 
-Base Streamlit template for the group project. It's intentionally empty — each
-member fills in their own section.
+Base Streamlit template for the group project. 
+Each member works on their own dedicated branch. Five branches have been set up — member_1 through member_5 — and each person is responsible for filling in their assigned section within their respective branch.
 
 ## Run
 
