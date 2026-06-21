@@ -1,0 +1,2830 @@
+period,series,unit,value
+1962,All Items,Per Cent,0.4
+1963,All Items,Per Cent,2.1
+1964,All Items,Per Cent,1.6
+1965,All Items,Per Cent,0.2
+1966,All Items,Per Cent,2
+1967,All Items,Per Cent,3.2
+1968,All Items,Per Cent,0.7
+1969,All Items,Per Cent,-0.1
+1970,All Items,Per Cent,0.3
+1971,All Items,Per Cent,1.9
+1972,All Items,Per Cent,2.1
+1973,All Items,Per Cent,19.6
+1974,All Items,Per Cent,22.4
+1975,All Items,Per Cent,2.6
+1976,All Items,Per Cent,-1.9
+1977,All Items,Per Cent,3.2
+1978,All Items,Per Cent,4.1
+1979,All Items,Per Cent,4
+1980,All Items,Per Cent,8.5
+1981,All Items,Per Cent,8.2
+1982,All Items,Per Cent,3.9
+1983,All Items,Per Cent,1
+1984,All Items,Per Cent,2.6
+1985,All Items,Per Cent,0.5
+1986,All Items,Per Cent,-1.4
+1987,All Items,Per Cent,0.5
+1988,All Items,Per Cent,1.5
+1989,All Items,Per Cent,2.3
+1990,All Items,Per Cent,3.5
+1991,All Items,Per Cent,3.4
+1992,All Items,Per Cent,2.2
+1993,All Items,Per Cent,2.3
+1994,All Items,Per Cent,3.1
+1995,All Items,Per Cent,1.7
+1996,All Items,Per Cent,1.4
+1997,All Items,Per Cent,2
+1998,All Items,Per Cent,-0.3
+1999,All Items,Per Cent,0
+2000,All Items,Per Cent,1.3
+2001,All Items,Per Cent,1
+2002,All Items,Per Cent,-0.4
+2003,All Items,Per Cent,0.5
+2004,All Items,Per Cent,1.7
+2005,All Items,Per Cent,0.5
+2006,All Items,Per Cent,1
+2007,All Items,Per Cent,2.1
+2008,All Items,Per Cent,6.6
+2009,All Items,Per Cent,0.6
+2010,All Items,Per Cent,2.8
+2011,All Items,Per Cent,5.3
+2012,All Items,Per Cent,4.6
+2013,All Items,Per Cent,2.4
+2014,All Items,Per Cent,1
+2015,All Items,Per Cent,-0.5
+2016,All Items,Per Cent,-0.5
+2017,All Items,Per Cent,0.6
+2018,All Items,Per Cent,0.4
+2019,All Items,Per Cent,0.6
+2020,All Items,Per Cent,-0.2
+2021,All Items,Per Cent,2.3
+2022,All Items,Per Cent,6.1
+2023,All Items,Per Cent,4.8
+2024,All Items,Per Cent,2.4
+2025,All Items,Per Cent,0.9
+1962,Food,Per Cent,0.7
+1963,Food,Per Cent,3.7
+1964,Food,Per Cent,2.5
+1965,Food,Per Cent,-0.5
+1966,Food,Per Cent,2.8
+1967,Food,Per Cent,4.6
+1968,Food,Per Cent,0.2
+1969,Food,Per Cent,-1.7
+1970,Food,Per Cent,-0.6
+1971,Food,Per Cent,2.3
+1972,Food,Per Cent,2.5
+1973,Food,Per Cent,33.1
+1974,Food,Per Cent,25.7
+1975,Food,Per Cent,1.1
+1976,Food,Per Cent,-6.1
+1977,Food,Per Cent,4.9
+1978,Food,Per Cent,4.8
+1979,Food,Per Cent,2.8
+1980,Food,Per Cent,7.7
+1981,Food,Per Cent,9.6
+1982,Food,Per Cent,5
+1983,Food,Per Cent,0.4
+1984,Food,Per Cent,1.5
+1985,Food,Per Cent,-1.2
+1986,Food,Per Cent,-1.5
+1987,Food,Per Cent,-0.2
+1988,Food,Per Cent,1.4
+1989,Food,Per Cent,1.1
+1990,Food,Per Cent,0.8
+1991,Food,Per Cent,1.6
+1992,Food,Per Cent,1.2
+1993,Food,Per Cent,1
+1994,Food,Per Cent,3.5
+1995,Food,Per Cent,2.3
+1996,Food,Per Cent,2.1
+1997,Food,Per Cent,2
+1998,Food,Per Cent,0.2
+1999,Food,Per Cent,0.9
+2000,Food,Per Cent,0.5
+2001,Food,Per Cent,0.5
+2002,Food,Per Cent,0
+2003,Food,Per Cent,0.6
+2004,Food,Per Cent,2
+2005,Food,Per Cent,1.3
+2006,Food,Per Cent,1.6
+2007,Food,Per Cent,3
+2008,Food,Per Cent,7.7
+2009,Food,Per Cent,2.3
+2010,Food,Per Cent,1.4
+2011,Food,Per Cent,3.1
+2012,Food,Per Cent,2.3
+2013,Food,Per Cent,2.1
+2014,Food,Per Cent,2.9
+2015,Food,Per Cent,1.9
+2016,Food,Per Cent,2.1
+2017,Food,Per Cent,1.4
+2018,Food,Per Cent,1.4
+2019,Food,Per Cent,1.5
+2020,Food,Per Cent,1.9
+2021,Food,Per Cent,1.5
+2022,Food,Per Cent,5.3
+2023,Food,Per Cent,5.8
+2024,Food,Per Cent,2.8
+2025,Food,Per Cent,1.2
+1991,Food Excl Food & Beverage Serving Services,Per Cent,1.1
+1992,Food Excl Food & Beverage Serving Services,Per Cent,1.1
+1993,Food Excl Food & Beverage Serving Services,Per Cent,0
+1994,Food Excl Food & Beverage Serving Services,Per Cent,3.1
+1995,Food Excl Food & Beverage Serving Services,Per Cent,1.5
+1996,Food Excl Food & Beverage Serving Services,Per Cent,1.6
+1997,Food Excl Food & Beverage Serving Services,Per Cent,2.4
+1998,Food Excl Food & Beverage Serving Services,Per Cent,-1
+1999,Food Excl Food & Beverage Serving Services,Per Cent,1.3
+2000,Food Excl Food & Beverage Serving Services,Per Cent,0.5
+2001,Food Excl Food & Beverage Serving Services,Per Cent,-0.4
+2002,Food Excl Food & Beverage Serving Services,Per Cent,-1.1
+2003,Food Excl Food & Beverage Serving Services,Per Cent,0.6
+2004,Food Excl Food & Beverage Serving Services,Per Cent,3.3
+2005,Food Excl Food & Beverage Serving Services,Per Cent,2
+2006,Food Excl Food & Beverage Serving Services,Per Cent,1.9
+2007,Food Excl Food & Beverage Serving Services,Per Cent,4
+2008,Food Excl Food & Beverage Serving Services,Per Cent,9.7
+2009,Food Excl Food & Beverage Serving Services,Per Cent,2.5
+2010,Food Excl Food & Beverage Serving Services,Per Cent,2.3
+2011,Food Excl Food & Beverage Serving Services,Per Cent,3.5
+2012,Food Excl Food & Beverage Serving Services,Per Cent,2.4
+2013,Food Excl Food & Beverage Serving Services,Per Cent,2.2
+2014,Food Excl Food & Beverage Serving Services,Per Cent,2.9
+2015,Food Excl Food & Beverage Serving Services,Per Cent,1.2
+2016,Food Excl Food & Beverage Serving Services,Per Cent,2.3
+2017,Food Excl Food & Beverage Serving Services,Per Cent,1.3
+2018,Food Excl Food & Beverage Serving Services,Per Cent,1.3
+2019,Food Excl Food & Beverage Serving Services,Per Cent,1.1
+2020,Food Excl Food & Beverage Serving Services,Per Cent,2.9
+2021,Food Excl Food & Beverage Serving Services,Per Cent,1.6
+2022,Food Excl Food & Beverage Serving Services,Per Cent,5.3
+2023,Food Excl Food & Beverage Serving Services,Per Cent,5.1
+2024,Food Excl Food & Beverage Serving Services,Per Cent,1.2
+2025,Food Excl Food & Beverage Serving Services,Per Cent,1.1
+2006,Rice & Cereal Products,Per Cent,1.2
+2007,Rice & Cereal Products,Per Cent,3.3
+2008,Rice & Cereal Products,Per Cent,16
+2009,Rice & Cereal Products,Per Cent,3.6
+2010,Rice & Cereal Products,Per Cent,2.1
+2011,Rice & Cereal Products,Per Cent,1.7
+2012,Rice & Cereal Products,Per Cent,1.8
+2013,Rice & Cereal Products,Per Cent,1.4
+2014,Rice & Cereal Products,Per Cent,1.5
+2015,Rice & Cereal Products,Per Cent,1.2
+2016,Rice & Cereal Products,Per Cent,1.3
+2017,Rice & Cereal Products,Per Cent,0.6
+2018,Rice & Cereal Products,Per Cent,1.4
+2019,Rice & Cereal Products,Per Cent,1.6
+2020,Rice & Cereal Products,Per Cent,2
+2021,Rice & Cereal Products,Per Cent,0.7
+2022,Rice & Cereal Products,Per Cent,4
+2023,Rice & Cereal Products,Per Cent,6.9
+2024,Rice & Cereal Products,Per Cent,3.6
+2025,Rice & Cereal Products,Per Cent,1.6
+2016,Rice,Per Cent,0.8
+2017,Rice,Per Cent,-0.5
+2018,Rice,Per Cent,1.4
+2019,Rice,Per Cent,3.9
+2020,Rice,Per Cent,1.8
+2021,Rice,Per Cent,-1.9
+2022,Rice,Per Cent,-1.4
+2023,Rice,Per Cent,3
+2024,Rice,Per Cent,2.2
+2025,Rice,Per Cent,0.6
+2016,Flour,Per Cent,1.1
+2017,Flour,Per Cent,0.3
+2018,Flour,Per Cent,-1.9
+2019,Flour,Per Cent,-0.2
+2020,Flour,Per Cent,-2.1
+2021,Flour,Per Cent,-2
+2022,Flour,Per Cent,2.1
+2023,Flour,Per Cent,10.8
+2024,Flour,Per Cent,-0.3
+2025,Flour,Per Cent,-2.5
+2016,Bread,Per Cent,1.9
+2017,Bread,Per Cent,0.6
+2018,Bread,Per Cent,1.6
+2019,Bread,Per Cent,1.1
+2020,Bread,Per Cent,0.9
+2021,Bread,Per Cent,1.3
+2022,Bread,Per Cent,5.2
+2023,Bread,Per Cent,8.3
+2024,Bread,Per Cent,4.5
+2025,Bread,Per Cent,2.6
+2016,"Macaroni, Noodles & Similar Pasta Products",Per Cent,1
+2017,"Macaroni, Noodles & Similar Pasta Products",Per Cent,0.1
+2018,"Macaroni, Noodles & Similar Pasta Products",Per Cent,0.5
+2019,"Macaroni, Noodles & Similar Pasta Products",Per Cent,-0.7
+2020,"Macaroni, Noodles & Similar Pasta Products",Per Cent,2
+2021,"Macaroni, Noodles & Similar Pasta Products",Per Cent,1.2
+2022,"Macaroni, Noodles & Similar Pasta Products",Per Cent,6.7
+2023,"Macaroni, Noodles & Similar Pasta Products",Per Cent,6.5
+2024,"Macaroni, Noodles & Similar Pasta Products",Per Cent,1.1
+2025,"Macaroni, Noodles & Similar Pasta Products",Per Cent,-0.1
+2016,Biscuits & Cookies,Per Cent,2.1
+2017,Biscuits & Cookies,Per Cent,1.1
+2018,Biscuits & Cookies,Per Cent,1.6
+2019,Biscuits & Cookies,Per Cent,1.3
+2020,Biscuits & Cookies,Per Cent,4.2
+2021,Biscuits & Cookies,Per Cent,0.4
+2022,Biscuits & Cookies,Per Cent,7.4
+2023,Biscuits & Cookies,Per Cent,6.8
+2024,Biscuits & Cookies,Per Cent,1.9
+2025,Biscuits & Cookies,Per Cent,2.9
+2016,Cakes & Pastries,Per Cent,0.8
+2017,Cakes & Pastries,Per Cent,1.6
+2018,Cakes & Pastries,Per Cent,2.1
+2019,Cakes & Pastries,Per Cent,1.6
+2020,Cakes & Pastries,Per Cent,2.4
+2021,Cakes & Pastries,Per Cent,1.5
+2022,Cakes & Pastries,Per Cent,4.3
+2023,Cakes & Pastries,Per Cent,6.9
+2024,Cakes & Pastries,Per Cent,4.8
+2025,Cakes & Pastries,Per Cent,1.8
+2016,Breakfast Cereals,Per Cent,1.1
+2017,Breakfast Cereals,Per Cent,-1.2
+2018,Breakfast Cereals,Per Cent,-0.7
+2019,Breakfast Cereals,Per Cent,0.6
+2020,Breakfast Cereals,Per Cent,1.9
+2021,Breakfast Cereals,Per Cent,1
+2022,Breakfast Cereals,Per Cent,2.2
+2023,Breakfast Cereals,Per Cent,12
+2024,Breakfast Cereals,Per Cent,4.4
+2025,Breakfast Cereals,Per Cent,-1.3
+2016,Other Cereal Products Nec,Per Cent,1.3
+2017,Other Cereal Products Nec,Per Cent,0.5
+2018,Other Cereal Products Nec,Per Cent,0.5
+2019,Other Cereal Products Nec,Per Cent,1.7
+2020,Other Cereal Products Nec,Per Cent,2.3
+2021,Other Cereal Products Nec,Per Cent,1.6
+2022,Other Cereal Products Nec,Per Cent,1.4
+2023,Other Cereal Products Nec,Per Cent,8.2
+2024,Other Cereal Products Nec,Per Cent,8
+2025,Other Cereal Products Nec,Per Cent,1.2
+2006,Meat,Per Cent,1.2
+2007,Meat,Per Cent,2.4
+2008,Meat,Per Cent,10.9
+2009,Meat,Per Cent,5.1
+2010,Meat,Per Cent,1.8
+2011,Meat,Per Cent,2.9
+2012,Meat,Per Cent,1.9
+2013,Meat,Per Cent,0.8
+2014,Meat,Per Cent,1.7
+2015,Meat,Per Cent,0.7
+2016,Meat,Per Cent,2.2
+2017,Meat,Per Cent,0.6
+2018,Meat,Per Cent,-0.1
+2019,Meat,Per Cent,0.1
+2020,Meat,Per Cent,5.6
+2021,Meat,Per Cent,0.3
+2022,Meat,Per Cent,9.6
+2023,Meat,Per Cent,6.6
+2024,Meat,Per Cent,0
+2025,Meat,Per Cent,0.5
+2016,"Pork, Chilled Or Frozen",Per Cent,2.9
+2017,"Pork, Chilled Or Frozen",Per Cent,0.2
+2018,"Pork, Chilled Or Frozen",Per Cent,0.1
+2019,"Pork, Chilled Or Frozen",Per Cent,-0.5
+2020,"Pork, Chilled Or Frozen",Per Cent,8.7
+2021,"Pork, Chilled Or Frozen",Per Cent,-0.6
+2022,"Pork, Chilled Or Frozen",Per Cent,1.8
+2023,"Pork, Chilled Or Frozen",Per Cent,5.5
+2024,"Pork, Chilled Or Frozen",Per Cent,-0.5
+2025,"Pork, Chilled Or Frozen",Per Cent,0.2
+2016,"Beef, Chilled Or Frozen",Per Cent,2
+2017,"Beef, Chilled Or Frozen",Per Cent,2.4
+2018,"Beef, Chilled Or Frozen",Per Cent,-0.9
+2019,"Beef, Chilled Or Frozen",Per Cent,0.3
+2020,"Beef, Chilled Or Frozen",Per Cent,3.5
+2021,"Beef, Chilled Or Frozen",Per Cent,4.2
+2022,"Beef, Chilled Or Frozen",Per Cent,5.3
+2023,"Beef, Chilled Or Frozen",Per Cent,2.3
+2024,"Beef, Chilled Or Frozen",Per Cent,2.8
+2025,"Beef, Chilled Or Frozen",Per Cent,5.2
+2016,"Mutton, Chilled Or Frozen",Per Cent,-0.6
+2017,"Mutton, Chilled Or Frozen",Per Cent,0.9
+2018,"Mutton, Chilled Or Frozen",Per Cent,2.9
+2019,"Mutton, Chilled Or Frozen",Per Cent,3.7
+2020,"Mutton, Chilled Or Frozen",Per Cent,10.1
+2021,"Mutton, Chilled Or Frozen",Per Cent,-1.2
+2022,"Mutton, Chilled Or Frozen",Per Cent,13.2
+2023,"Mutton, Chilled Or Frozen",Per Cent,6.7
+2024,"Mutton, Chilled Or Frozen",Per Cent,-0.7
+2025,"Mutton, Chilled Or Frozen",Per Cent,3
+2016,"Poultry, Chilled Or Frozen",Per Cent,2.5
+2017,"Poultry, Chilled Or Frozen",Per Cent,0.1
+2018,"Poultry, Chilled Or Frozen",Per Cent,-1
+2019,"Poultry, Chilled Or Frozen",Per Cent,0.1
+2020,"Poultry, Chilled Or Frozen",Per Cent,1.9
+2021,"Poultry, Chilled Or Frozen",Per Cent,0
+2022,"Poultry, Chilled Or Frozen",Per Cent,24.1
+2023,"Poultry, Chilled Or Frozen",Per Cent,9.8
+2024,"Poultry, Chilled Or Frozen",Per Cent,-1.4
+2025,"Poultry, Chilled Or Frozen",Per Cent,-0.8
+2016,"Meat, Preserved Or Prepared",Per Cent,1
+2017,"Meat, Preserved Or Prepared",Per Cent,1.3
+2018,"Meat, Preserved Or Prepared",Per Cent,1
+2019,"Meat, Preserved Or Prepared",Per Cent,0.4
+2020,"Meat, Preserved Or Prepared",Per Cent,5.9
+2021,"Meat, Preserved Or Prepared",Per Cent,0.7
+2022,"Meat, Preserved Or Prepared",Per Cent,2.9
+2023,"Meat, Preserved Or Prepared",Per Cent,4.5
+2024,"Meat, Preserved Or Prepared",Per Cent,2.6
+2025,"Meat, Preserved Or Prepared",Per Cent,-0.8
+2006,Fish & Other Seafood,Per Cent,3.2
+2007,Fish & Other Seafood,Per Cent,2.1
+2008,Fish & Other Seafood,Per Cent,4.6
+2009,Fish & Other Seafood,Per Cent,1.6
+2010,Fish & Other Seafood,Per Cent,2.5
+2011,Fish & Other Seafood,Per Cent,6
+2012,Fish & Other Seafood,Per Cent,4
+2013,Fish & Other Seafood,Per Cent,3.2
+2014,Fish & Other Seafood,Per Cent,2.8
+2015,Fish & Other Seafood,Per Cent,1.5
+2016,Fish & Other Seafood,Per Cent,4.4
+2017,Fish & Other Seafood,Per Cent,2.5
+2018,Fish & Other Seafood,Per Cent,2.6
+2019,Fish & Other Seafood,Per Cent,1.4
+2020,Fish & Other Seafood,Per Cent,1
+2021,Fish & Other Seafood,Per Cent,0.5
+2022,Fish & Other Seafood,Per Cent,5.2
+2023,Fish & Other Seafood,Per Cent,5.3
+2024,Fish & Other Seafood,Per Cent,-3.7
+2025,Fish & Other Seafood,Per Cent,-1.4
+2016,"Fish, Fresh Or Chilled",Per Cent,5
+2017,"Fish, Fresh Or Chilled",Per Cent,3.3
+2018,"Fish, Fresh Or Chilled",Per Cent,2.8
+2019,"Fish, Fresh Or Chilled",Per Cent,1.5
+2020,"Fish, Fresh Or Chilled",Per Cent,0.9
+2021,"Fish, Fresh Or Chilled",Per Cent,0.3
+2022,"Fish, Fresh Or Chilled",Per Cent,6.9
+2023,"Fish, Fresh Or Chilled",Per Cent,2.6
+2024,"Fish, Fresh Or Chilled",Per Cent,-2.9
+2025,"Fish, Fresh Or Chilled",Per Cent,-2
+2016,"Fish, Frozen",Per Cent,8.2
+2017,"Fish, Frozen",Per Cent,5.6
+2018,"Fish, Frozen",Per Cent,2.3
+2019,"Fish, Frozen",Per Cent,-1.3
+2020,"Fish, Frozen",Per Cent,0
+2021,"Fish, Frozen",Per Cent,1
+2022,"Fish, Frozen",Per Cent,9.2
+2023,"Fish, Frozen",Per Cent,6.9
+2024,"Fish, Frozen",Per Cent,-3.7
+2025,"Fish, Frozen",Per Cent,-0.8
+2016,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,3.3
+2017,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,1.7
+2018,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,2
+2019,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,1.2
+2020,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,-0.2
+2021,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,0.9
+2022,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,0.7
+2023,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,10.6
+2024,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,-11.1
+2025,"Other Seafood, Fresh, Chilled Or Frozen",Per Cent,-0.7
+2016,Seafood Preparations,Per Cent,3.4
+2017,Seafood Preparations,Per Cent,0.9
+2018,Seafood Preparations,Per Cent,2.5
+2019,Seafood Preparations,Per Cent,1.4
+2020,Seafood Preparations,Per Cent,3.1
+2021,Seafood Preparations,Per Cent,0.4
+2022,Seafood Preparations,Per Cent,4.3
+2023,Seafood Preparations,Per Cent,8.2
+2024,Seafood Preparations,Per Cent,2.7
+2025,Seafood Preparations,Per Cent,-0.5
+2006,"Milk, Other Dairy Products & Eggs",Per Cent,1.8
+2007,"Milk, Other Dairy Products & Eggs",Per Cent,6.2
+2008,"Milk, Other Dairy Products & Eggs",Per Cent,11.8
+2009,"Milk, Other Dairy Products & Eggs",Per Cent,1.9
+2010,"Milk, Other Dairy Products & Eggs",Per Cent,2.5
+2011,"Milk, Other Dairy Products & Eggs",Per Cent,4.6
+2012,"Milk, Other Dairy Products & Eggs",Per Cent,4.3
+2013,"Milk, Other Dairy Products & Eggs",Per Cent,4.3
+2014,"Milk, Other Dairy Products & Eggs",Per Cent,5.1
+2015,"Milk, Other Dairy Products & Eggs",Per Cent,2
+2016,"Milk, Other Dairy Products & Eggs",Per Cent,1.6
+2017,"Milk, Other Dairy Products & Eggs",Per Cent,0.5
+2018,"Milk, Other Dairy Products & Eggs",Per Cent,1.6
+2019,"Milk, Other Dairy Products & Eggs",Per Cent,0.4
+2020,"Milk, Other Dairy Products & Eggs",Per Cent,1.9
+2021,"Milk, Other Dairy Products & Eggs",Per Cent,1.5
+2022,"Milk, Other Dairy Products & Eggs",Per Cent,5.9
+2023,"Milk, Other Dairy Products & Eggs",Per Cent,5.8
+2024,"Milk, Other Dairy Products & Eggs",Per Cent,1.6
+2025,"Milk, Other Dairy Products & Eggs",Per Cent,0.4
+2016,Milk,Per Cent,0.4
+2017,Milk,Per Cent,0.8
+2018,Milk,Per Cent,1.9
+2019,Milk,Per Cent,0
+2020,Milk,Per Cent,4.3
+2021,Milk,Per Cent,1.3
+2022,Milk,Per Cent,1.7
+2023,Milk,Per Cent,5.2
+2024,Milk,Per Cent,1.6
+2025,Milk,Per Cent,-1.1
+2016,Other Milk & Cream,Per Cent,2.8
+2017,Other Milk & Cream,Per Cent,1
+2018,Other Milk & Cream,Per Cent,0.7
+2019,Other Milk & Cream,Per Cent,-0.2
+2020,Other Milk & Cream,Per Cent,0.4
+2021,Other Milk & Cream,Per Cent,0.2
+2022,Other Milk & Cream,Per Cent,3.1
+2023,Other Milk & Cream,Per Cent,5
+2024,Other Milk & Cream,Per Cent,3
+2025,Other Milk & Cream,Per Cent,1.9
+2016,Dairy Products Nec,Per Cent,2
+2017,Dairy Products Nec,Per Cent,1
+2018,Dairy Products Nec,Per Cent,3.8
+2019,Dairy Products Nec,Per Cent,0.5
+2020,Dairy Products Nec,Per Cent,5.4
+2021,Dairy Products Nec,Per Cent,1.9
+2022,Dairy Products Nec,Per Cent,2.5
+2023,Dairy Products Nec,Per Cent,1
+2024,Dairy Products Nec,Per Cent,2.3
+2025,Dairy Products Nec,Per Cent,0.7
+2016,Eggs,Per Cent,-1.8
+2017,Eggs,Per Cent,-2.5
+2018,Eggs,Per Cent,2.3
+2019,Eggs,Per Cent,4
+2020,Eggs,Per Cent,-0.2
+2021,Eggs,Per Cent,5.2
+2022,Eggs,Per Cent,22.9
+2023,Eggs,Per Cent,12.5
+2024,Eggs,Per Cent,-2.2
+2025,Eggs,Per Cent,-1
+2006,Oils & Fats,Per Cent,1.6
+2007,Oils & Fats,Per Cent,8.1
+2008,Oils & Fats,Per Cent,36
+2009,Oils & Fats,Per Cent,-0.9
+2010,Oils & Fats,Per Cent,-2.2
+2011,Oils & Fats,Per Cent,4.6
+2012,Oils & Fats,Per Cent,1.4
+2013,Oils & Fats,Per Cent,-1.2
+2014,Oils & Fats,Per Cent,0.6
+2015,Oils & Fats,Per Cent,-0.6
+2016,Oils & Fats,Per Cent,-1.5
+2017,Oils & Fats,Per Cent,0.1
+2018,Oils & Fats,Per Cent,3.6
+2019,Oils & Fats,Per Cent,0.5
+2020,Oils & Fats,Per Cent,2
+2021,Oils & Fats,Per Cent,0.9
+2022,Oils & Fats,Per Cent,7.6
+2023,Oils & Fats,Per Cent,3.2
+2024,Oils & Fats,Per Cent,3.1
+2025,Oils & Fats,Per Cent,3.6
+2016,Vegetable Oils,Per Cent,-2
+2017,Vegetable Oils,Per Cent,-0.9
+2018,Vegetable Oils,Per Cent,1.4
+2019,Vegetable Oils,Per Cent,0.6
+2020,Vegetable Oils,Per Cent,2.4
+2021,Vegetable Oils,Per Cent,1
+2022,Vegetable Oils,Per Cent,7.7
+2023,Vegetable Oils,Per Cent,1.1
+2024,Vegetable Oils,Per Cent,2.9
+2025,Vegetable Oils,Per Cent,4.2
+2016,Butter & Other Fats,Per Cent,-0.2
+2017,Butter & Other Fats,Per Cent,3
+2018,Butter & Other Fats,Per Cent,9.4
+2019,Butter & Other Fats,Per Cent,0.3
+2020,Butter & Other Fats,Per Cent,0.6
+2021,Butter & Other Fats,Per Cent,0.5
+2022,Butter & Other Fats,Per Cent,7.1
+2023,Butter & Other Fats,Per Cent,10.5
+2024,Butter & Other Fats,Per Cent,3.5
+2025,Butter & Other Fats,Per Cent,1.9
+2006,Fruits & Nuts,Per Cent,1.3
+2007,Fruits & Nuts,Per Cent,5
+2008,Fruits & Nuts,Per Cent,6.5
+2009,Fruits & Nuts,Per Cent,2.6
+2010,Fruits & Nuts,Per Cent,1.9
+2011,Fruits & Nuts,Per Cent,3.7
+2012,Fruits & Nuts,Per Cent,2.5
+2013,Fruits & Nuts,Per Cent,4.4
+2014,Fruits & Nuts,Per Cent,7.7
+2015,Fruits & Nuts,Per Cent,1.8
+2016,Fruits & Nuts,Per Cent,2.4
+2017,Fruits & Nuts,Per Cent,2.6
+2018,Fruits & Nuts,Per Cent,1.9
+2019,Fruits & Nuts,Per Cent,2
+2020,Fruits & Nuts,Per Cent,1.7
+2021,Fruits & Nuts,Per Cent,2.7
+2022,Fruits & Nuts,Per Cent,3.3
+2023,Fruits & Nuts,Per Cent,3.6
+2024,Fruits & Nuts,Per Cent,1.8
+2025,Fruits & Nuts,Per Cent,2.9
+2016,"Tropical Fruits, Fresh",Per Cent,5.6
+2017,"Tropical Fruits, Fresh",Per Cent,3.1
+2018,"Tropical Fruits, Fresh",Per Cent,3.4
+2019,"Tropical Fruits, Fresh",Per Cent,3
+2020,"Tropical Fruits, Fresh",Per Cent,2.4
+2021,"Tropical Fruits, Fresh",Per Cent,0.9
+2022,"Tropical Fruits, Fresh",Per Cent,2
+2023,"Tropical Fruits, Fresh",Per Cent,2.2
+2024,"Tropical Fruits, Fresh",Per Cent,2
+2025,"Tropical Fruits, Fresh",Per Cent,1
+2016,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,0.4
+2017,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,2.5
+2018,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,1.4
+2019,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,1.9
+2020,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,1.5
+2021,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,4.4
+2022,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,4.2
+2023,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,4
+2024,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,1.7
+2025,"Citrus, Beries, Stone & Other Fruits, Fresh",Per Cent,4.5
+2016,"Fruit, Dried & Dehydrated",Per Cent,1.5
+2017,"Fruit, Dried & Dehydrated",Per Cent,3.3
+2018,"Fruit, Dried & Dehydrated",Per Cent,1.2
+2019,"Fruit, Dried & Dehydrated",Per Cent,1.4
+2020,"Fruit, Dried & Dehydrated",Per Cent,2.8
+2021,"Fruit, Dried & Dehydrated",Per Cent,0.3
+2022,"Fruit, Dried & Dehydrated",Per Cent,4.1
+2023,"Fruit, Dried & Dehydrated",Per Cent,6.9
+2024,"Fruit, Dried & Dehydrated",Per Cent,1.4
+2025,"Fruit, Dried & Dehydrated",Per Cent,0.9
+2016,"Fruits, Canned Or Bottled",Per Cent,-1.3
+2017,"Fruits, Canned Or Bottled",Per Cent,2
+2018,"Fruits, Canned Or Bottled",Per Cent,3.7
+2019,"Fruits, Canned Or Bottled",Per Cent,0.3
+2020,"Fruits, Canned Or Bottled",Per Cent,3.4
+2021,"Fruits, Canned Or Bottled",Per Cent,0.9
+2022,"Fruits, Canned Or Bottled",Per Cent,9.2
+2023,"Fruits, Canned Or Bottled",Per Cent,0.5
+2024,"Fruits, Canned Or Bottled",Per Cent,1.2
+2025,"Fruits, Canned Or Bottled",Per Cent,2.9
+2016,"Nuts & Seed, In Shell Or Shelled",Per Cent,4.7
+2017,"Nuts & Seed, In Shell Or Shelled",Per Cent,0.8
+2018,"Nuts & Seed, In Shell Or Shelled",Per Cent,-0.5
+2019,"Nuts & Seed, In Shell Or Shelled",Per Cent,-0.6
+2020,"Nuts & Seed, In Shell Or Shelled",Per Cent,-0.4
+2021,"Nuts & Seed, In Shell Or Shelled",Per Cent,0.5
+2022,"Nuts & Seed, In Shell Or Shelled",Per Cent,1.2
+2023,"Nuts & Seed, In Shell Or Shelled",Per Cent,5
+2024,"Nuts & Seed, In Shell Or Shelled",Per Cent,1.6
+2025,"Nuts & Seed, In Shell Or Shelled",Per Cent,1.5
+2006,Vegetables,Per Cent,1.2
+2007,Vegetables,Per Cent,6.4
+2008,Vegetables,Per Cent,6
+2009,Vegetables,Per Cent,1
+2010,Vegetables,Per Cent,5.6
+2011,Vegetables,Per Cent,3.8
+2012,Vegetables,Per Cent,1.2
+2013,Vegetables,Per Cent,2.8
+2014,Vegetables,Per Cent,3.3
+2015,Vegetables,Per Cent,1
+2016,Vegetables,Per Cent,4
+2017,Vegetables,Per Cent,1.5
+2018,Vegetables,Per Cent,-0.1
+2019,Vegetables,Per Cent,2
+2020,Vegetables,Per Cent,5
+2021,Vegetables,Per Cent,5.2
+2022,Vegetables,Per Cent,4.8
+2023,Vegetables,Per Cent,1.8
+2024,Vegetables,Per Cent,2.4
+2025,Vegetables,Per Cent,0.5
+2016,"Leafy Vegetables, Fresh Or Chilled",Per Cent,5.9
+2017,"Leafy Vegetables, Fresh Or Chilled",Per Cent,-0.1
+2018,"Leafy Vegetables, Fresh Or Chilled",Per Cent,-0.1
+2019,"Leafy Vegetables, Fresh Or Chilled",Per Cent,2.5
+2020,"Leafy Vegetables, Fresh Or Chilled",Per Cent,3.7
+2021,"Leafy Vegetables, Fresh Or Chilled",Per Cent,9.1
+2022,"Leafy Vegetables, Fresh Or Chilled",Per Cent,6
+2023,"Leafy Vegetables, Fresh Or Chilled",Per Cent,-0.8
+2024,"Leafy Vegetables, Fresh Or Chilled",Per Cent,1.6
+2025,"Leafy Vegetables, Fresh Or Chilled",Per Cent,2.3
+2016,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,2.9
+2017,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,1.5
+2018,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,1
+2019,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,3.1
+2020,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,6.3
+2021,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,7.8
+2022,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,6.2
+2023,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,2.2
+2024,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,-3.9
+2025,"Fruit-Bearing Vegetables, Fresh Or Chilled",Per Cent,-1.4
+2016,"Root Vegetables, Fresh Or Chilled",Per Cent,6.2
+2017,"Root Vegetables, Fresh Or Chilled",Per Cent,3.5
+2018,"Root Vegetables, Fresh Or Chilled",Per Cent,-1
+2019,"Root Vegetables, Fresh Or Chilled",Per Cent,1.4
+2020,"Root Vegetables, Fresh Or Chilled",Per Cent,5.7
+2021,"Root Vegetables, Fresh Or Chilled",Per Cent,0.5
+2022,"Root Vegetables, Fresh Or Chilled",Per Cent,0.4
+2023,"Root Vegetables, Fresh Or Chilled",Per Cent,3
+2024,"Root Vegetables, Fresh Or Chilled",Per Cent,8.8
+2025,"Root Vegetables, Fresh Or Chilled",Per Cent,-0.7
+2016,"Other Vegetables, Fresh Or Chilled",Per Cent,1.9
+2017,"Other Vegetables, Fresh Or Chilled",Per Cent,-0.5
+2018,"Other Vegetables, Fresh Or Chilled",Per Cent,3.3
+2019,"Other Vegetables, Fresh Or Chilled",Per Cent,0.5
+2020,"Other Vegetables, Fresh Or Chilled",Per Cent,1.8
+2021,"Other Vegetables, Fresh Or Chilled",Per Cent,-0.1
+2022,"Other Vegetables, Fresh Or Chilled",Per Cent,3.8
+2023,"Other Vegetables, Fresh Or Chilled",Per Cent,3.1
+2024,"Other Vegetables, Fresh Or Chilled",Per Cent,0.3
+2025,"Other Vegetables, Fresh Or Chilled",Per Cent,-1.6
+2016,"Vegetables, Frozen",Per Cent,-2.1
+2017,"Vegetables, Frozen",Per Cent,1.1
+2018,"Vegetables, Frozen",Per Cent,1.2
+2019,"Vegetables, Frozen",Per Cent,0.6
+2020,"Vegetables, Frozen",Per Cent,6.2
+2021,"Vegetables, Frozen",Per Cent,1.3
+2022,"Vegetables, Frozen",Per Cent,11.4
+2023,"Vegetables, Frozen",Per Cent,7.2
+2024,"Vegetables, Frozen",Per Cent,6.5
+2025,"Vegetables, Frozen",Per Cent,1.3
+2016,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,1.1
+2017,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,1.5
+2018,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,1.1
+2019,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,3.2
+2020,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,3.6
+2021,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,1.1
+2022,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,3.6
+2023,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,7.9
+2024,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,4.9
+2025,"Vegetables, Dried, Salted, Steamed Or Smoked",Per Cent,-2.5
+2016,"Vegetables, Canned Or Bottled",Per Cent,2.4
+2017,"Vegetables, Canned Or Bottled",Per Cent,5.7
+2018,"Vegetables, Canned Or Bottled",Per Cent,-8.5
+2019,"Vegetables, Canned Or Bottled",Per Cent,1.9
+2020,"Vegetables, Canned Or Bottled",Per Cent,4.3
+2021,"Vegetables, Canned Or Bottled",Per Cent,0.4
+2022,"Vegetables, Canned Or Bottled",Per Cent,2.2
+2023,"Vegetables, Canned Or Bottled",Per Cent,3.9
+2024,"Vegetables, Canned Or Bottled",Per Cent,3.9
+2025,"Vegetables, Canned Or Bottled",Per Cent,1.4
+2016,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,0.8
+2017,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,1.7
+2018,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,1.9
+2019,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,0.1
+2020,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,8.3
+2021,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,2.1
+2022,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,6.5
+2023,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,4.3
+2024,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,3.5
+2025,"Vegetables, Preserved Or Prepared, Other Forms",Per Cent,1
+2006,"Sugar, Confectionery & Desserts",Per Cent,7.8
+2007,"Sugar, Confectionery & Desserts",Per Cent,5.2
+2008,"Sugar, Confectionery & Desserts",Per Cent,5.2
+2009,"Sugar, Confectionery & Desserts",Per Cent,0.8
+2010,"Sugar, Confectionery & Desserts",Per Cent,3
+2011,"Sugar, Confectionery & Desserts",Per Cent,1.7
+2012,"Sugar, Confectionery & Desserts",Per Cent,0.9
+2013,"Sugar, Confectionery & Desserts",Per Cent,0
+2014,"Sugar, Confectionery & Desserts",Per Cent,-0.8
+2015,"Sugar, Confectionery & Desserts",Per Cent,1
+2016,"Sugar, Confectionery & Desserts",Per Cent,1.7
+2017,"Sugar, Confectionery & Desserts",Per Cent,1.8
+2018,"Sugar, Confectionery & Desserts",Per Cent,1.3
+2019,"Sugar, Confectionery & Desserts",Per Cent,-0.3
+2020,"Sugar, Confectionery & Desserts",Per Cent,4.4
+2021,"Sugar, Confectionery & Desserts",Per Cent,0.9
+2022,"Sugar, Confectionery & Desserts",Per Cent,2.8
+2023,"Sugar, Confectionery & Desserts",Per Cent,4.1
+2024,"Sugar, Confectionery & Desserts",Per Cent,0.5
+2025,"Sugar, Confectionery & Desserts",Per Cent,3.8
+2016,Sugar,Per Cent,-0.2
+2017,Sugar,Per Cent,3.7
+2018,Sugar,Per Cent,0.5
+2019,Sugar,Per Cent,-0.4
+2020,Sugar,Per Cent,0.7
+2021,Sugar,Per Cent,0.9
+2022,Sugar,Per Cent,3.7
+2023,Sugar,Per Cent,6.5
+2024,Sugar,Per Cent,5
+2025,Sugar,Per Cent,0.4
+2016,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,0.5
+2017,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,2.4
+2018,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,1.5
+2019,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,-0.9
+2020,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,1.1
+2021,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,1.5
+2022,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,3.1
+2023,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,4
+2024,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,1.4
+2025,"Jams, Fruit Jellies, Fruit Puree & Pastes, Honey",Per Cent,-0.5
+2016,Nut Butter & Paste,Per Cent,-1.3
+2017,Nut Butter & Paste,Per Cent,0.6
+2018,Nut Butter & Paste,Per Cent,-0.6
+2019,Nut Butter & Paste,Per Cent,2.6
+2020,Nut Butter & Paste,Per Cent,-0.8
+2021,Nut Butter & Paste,Per Cent,5.9
+2022,Nut Butter & Paste,Per Cent,1.3
+2023,Nut Butter & Paste,Per Cent,1.1
+2024,Nut Butter & Paste,Per Cent,-2.1
+2025,Nut Butter & Paste,Per Cent,-1.2
+2016,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,2.5
+2017,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,1.2
+2018,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,1.1
+2019,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,-0.4
+2020,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,4.2
+2021,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,1.2
+2022,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,2.9
+2023,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,7.1
+2024,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,-0.2
+2025,"Chocolate, Cocoa, & Cocoa-Based Food Products",Per Cent,7.7
+2016,Ice & Ice Cream,Per Cent,2.3
+2017,Ice & Ice Cream,Per Cent,1.6
+2018,Ice & Ice Cream,Per Cent,2.2
+2019,Ice & Ice Cream,Per Cent,0.2
+2020,Ice & Ice Cream,Per Cent,9.4
+2021,Ice & Ice Cream,Per Cent,-0.4
+2022,Ice & Ice Cream,Per Cent,2
+2023,Ice & Ice Cream,Per Cent,-0.5
+2024,Ice & Ice Cream,Per Cent,-0.9
+2025,Ice & Ice Cream,Per Cent,3.6
+2016,Sugar Confectionery & Desserts Nec,Per Cent,2.6
+2017,Sugar Confectionery & Desserts Nec,Per Cent,1.7
+2018,Sugar Confectionery & Desserts Nec,Per Cent,0.5
+2019,Sugar Confectionery & Desserts Nec,Per Cent,-0.8
+2020,Sugar Confectionery & Desserts Nec,Per Cent,2.4
+2021,Sugar Confectionery & Desserts Nec,Per Cent,0.8
+2022,Sugar Confectionery & Desserts Nec,Per Cent,4.3
+2023,Sugar Confectionery & Desserts Nec,Per Cent,8.4
+2024,Sugar Confectionery & Desserts Nec,Per Cent,2.7
+2025,Sugar Confectionery & Desserts Nec,Per Cent,3.7
+2006,Ready-Made Food & Other Food Products Nec,Per Cent,1.2
+2007,Ready-Made Food & Other Food Products Nec,Per Cent,2.3
+2008,Ready-Made Food & Other Food Products Nec,Per Cent,8.8
+2009,Ready-Made Food & Other Food Products Nec,Per Cent,3.4
+2010,Ready-Made Food & Other Food Products Nec,Per Cent,0.9
+2011,Ready-Made Food & Other Food Products Nec,Per Cent,3.2
+2012,Ready-Made Food & Other Food Products Nec,Per Cent,1.8
+2013,Ready-Made Food & Other Food Products Nec,Per Cent,1.5
+2014,Ready-Made Food & Other Food Products Nec,Per Cent,2
+2015,Ready-Made Food & Other Food Products Nec,Per Cent,1.8
+2016,Ready-Made Food & Other Food Products Nec,Per Cent,2.1
+2017,Ready-Made Food & Other Food Products Nec,Per Cent,1.2
+2018,Ready-Made Food & Other Food Products Nec,Per Cent,1.6
+2019,Ready-Made Food & Other Food Products Nec,Per Cent,0.6
+2020,Ready-Made Food & Other Food Products Nec,Per Cent,1.2
+2021,Ready-Made Food & Other Food Products Nec,Per Cent,1
+2022,Ready-Made Food & Other Food Products Nec,Per Cent,3.4
+2023,Ready-Made Food & Other Food Products Nec,Per Cent,5.7
+2024,Ready-Made Food & Other Food Products Nec,Per Cent,3.6
+2025,Ready-Made Food & Other Food Products Nec,Per Cent,0.7
+2016,Ready-Made Food,Per Cent,-0.1
+2017,Ready-Made Food,Per Cent,1.5
+2018,Ready-Made Food,Per Cent,1.6
+2019,Ready-Made Food,Per Cent,1.2
+2020,Ready-Made Food,Per Cent,2.6
+2021,Ready-Made Food,Per Cent,2.6
+2022,Ready-Made Food,Per Cent,5.5
+2023,Ready-Made Food,Per Cent,7.6
+2024,Ready-Made Food,Per Cent,3.7
+2025,Ready-Made Food,Per Cent,1.3
+2016,Baby Food,Per Cent,1.8
+2017,Baby Food,Per Cent,0.1
+2018,Baby Food,Per Cent,1.1
+2019,Baby Food,Per Cent,-0.5
+2020,Baby Food,Per Cent,-0.5
+2021,Baby Food,Per Cent,1.2
+2022,Baby Food,Per Cent,2.5
+2023,Baby Food,Per Cent,2.2
+2024,Baby Food,Per Cent,5.4
+2025,Baby Food,Per Cent,1.8
+2016,"Salt, Condiments & Sauces",Per Cent,4.1
+2017,"Salt, Condiments & Sauces",Per Cent,1.6
+2018,"Salt, Condiments & Sauces",Per Cent,1.2
+2019,"Salt, Condiments & Sauces",Per Cent,-0.4
+2020,"Salt, Condiments & Sauces",Per Cent,1.1
+2021,"Salt, Condiments & Sauces",Per Cent,0.6
+2022,"Salt, Condiments & Sauces",Per Cent,3.7
+2023,"Salt, Condiments & Sauces",Per Cent,6.5
+2024,"Salt, Condiments & Sauces",Per Cent,5.7
+2025,"Salt, Condiments & Sauces",Per Cent,0.9
+2016,"Spices, Culinary Herbs & Seeds",Per Cent,4
+2017,"Spices, Culinary Herbs & Seeds",Per Cent,1.4
+2018,"Spices, Culinary Herbs & Seeds",Per Cent,2.5
+2019,"Spices, Culinary Herbs & Seeds",Per Cent,-0.2
+2020,"Spices, Culinary Herbs & Seeds",Per Cent,1.2
+2021,"Spices, Culinary Herbs & Seeds",Per Cent,0.9
+2022,"Spices, Culinary Herbs & Seeds",Per Cent,2.1
+2023,"Spices, Culinary Herbs & Seeds",Per Cent,5.9
+2024,"Spices, Culinary Herbs & Seeds",Per Cent,3
+2025,"Spices, Culinary Herbs & Seeds",Per Cent,1.3
+2025,"Food Hampers, Incl Fruits",Per Cent,-4.2
+2016,Other Food Products Nec,Per Cent,0.4
+2017,Other Food Products Nec,Per Cent,0.4
+2018,Other Food Products Nec,Per Cent,1.7
+2019,Other Food Products Nec,Per Cent,1.8
+2020,Other Food Products Nec,Per Cent,0.3
+2021,Other Food Products Nec,Per Cent,-0.5
+2022,Other Food Products Nec,Per Cent,2.6
+2023,Other Food Products Nec,Per Cent,3.7
+2024,Other Food Products Nec,Per Cent,1.3
+2025,Other Food Products Nec,Per Cent,-0.4
+2006,Non-Alcoholic Beverages,Per Cent,2
+2007,Non-Alcoholic Beverages,Per Cent,5.7
+2008,Non-Alcoholic Beverages,Per Cent,6.8
+2009,Non-Alcoholic Beverages,Per Cent,0.5
+2010,Non-Alcoholic Beverages,Per Cent,0.4
+2011,Non-Alcoholic Beverages,Per Cent,2.7
+2012,Non-Alcoholic Beverages,Per Cent,2
+2013,Non-Alcoholic Beverages,Per Cent,1.1
+2014,Non-Alcoholic Beverages,Per Cent,1
+2015,Non-Alcoholic Beverages,Per Cent,0.3
+2016,Non-Alcoholic Beverages,Per Cent,0.2
+2017,Non-Alcoholic Beverages,Per Cent,0.5
+2018,Non-Alcoholic Beverages,Per Cent,1.2
+2019,Non-Alcoholic Beverages,Per Cent,1.5
+2020,Non-Alcoholic Beverages,Per Cent,3.6
+2021,Non-Alcoholic Beverages,Per Cent,1.6
+2022,Non-Alcoholic Beverages,Per Cent,4.3
+2023,Non-Alcoholic Beverages,Per Cent,6
+2024,Non-Alcoholic Beverages,Per Cent,2.8
+2025,Non-Alcoholic Beverages,Per Cent,2.7
+2016,Fruit & Vegetable Juices,Per Cent,1
+2017,Fruit & Vegetable Juices,Per Cent,0.4
+2018,Fruit & Vegetable Juices,Per Cent,2.2
+2019,Fruit & Vegetable Juices,Per Cent,0.6
+2020,Fruit & Vegetable Juices,Per Cent,5.5
+2021,Fruit & Vegetable Juices,Per Cent,2
+2022,Fruit & Vegetable Juices,Per Cent,2.4
+2023,Fruit & Vegetable Juices,Per Cent,7.1
+2024,Fruit & Vegetable Juices,Per Cent,4.8
+2025,Fruit & Vegetable Juices,Per Cent,1.6
+2016,Coffee & Coffee Substitutes,Per Cent,0.3
+2017,Coffee & Coffee Substitutes,Per Cent,-0.1
+2018,Coffee & Coffee Substitutes,Per Cent,2.2
+2019,Coffee & Coffee Substitutes,Per Cent,1
+2020,Coffee & Coffee Substitutes,Per Cent,0.9
+2021,Coffee & Coffee Substitutes,Per Cent,2.4
+2022,Coffee & Coffee Substitutes,Per Cent,3.4
+2023,Coffee & Coffee Substitutes,Per Cent,4.6
+2024,Coffee & Coffee Substitutes,Per Cent,3.2
+2025,Coffee & Coffee Substitutes,Per Cent,8
+2016,Tea,Per Cent,0.8
+2017,Tea,Per Cent,-1.2
+2018,Tea,Per Cent,0.9
+2019,Tea,Per Cent,1.6
+2020,Tea,Per Cent,2.9
+2021,Tea,Per Cent,1.8
+2022,Tea,Per Cent,3.8
+2023,Tea,Per Cent,4.8
+2024,Tea,Per Cent,3.4
+2025,Tea,Per Cent,-0.8
+2016,Cocoa & Malt-Based Drinks,Per Cent,-0.3
+2017,Cocoa & Malt-Based Drinks,Per Cent,3.2
+2018,Cocoa & Malt-Based Drinks,Per Cent,0.1
+2019,Cocoa & Malt-Based Drinks,Per Cent,0.9
+2020,Cocoa & Malt-Based Drinks,Per Cent,1.1
+2021,Cocoa & Malt-Based Drinks,Per Cent,0.1
+2022,Cocoa & Malt-Based Drinks,Per Cent,6.3
+2023,Cocoa & Malt-Based Drinks,Per Cent,10.2
+2024,Cocoa & Malt-Based Drinks,Per Cent,3.5
+2025,Cocoa & Malt-Based Drinks,Per Cent,4.5
+2016,Water,Per Cent,1.3
+2017,Water,Per Cent,-0.8
+2018,Water,Per Cent,0.6
+2019,Water,Per Cent,0.9
+2020,Water,Per Cent,13.1
+2021,Water,Per Cent,3.3
+2022,Water,Per Cent,1.4
+2023,Water,Per Cent,6.8
+2024,Water,Per Cent,-3.4
+2025,Water,Per Cent,2.9
+2016,Soft Drinks,Per Cent,-1
+2017,Soft Drinks,Per Cent,1.7
+2018,Soft Drinks,Per Cent,0.3
+2019,Soft Drinks,Per Cent,3.5
+2020,Soft Drinks,Per Cent,5.7
+2021,Soft Drinks,Per Cent,1.2
+2022,Soft Drinks,Per Cent,7.2
+2023,Soft Drinks,Per Cent,6.6
+2024,Soft Drinks,Per Cent,1.7
+2025,Soft Drinks,Per Cent,0.2
+2016,Non-Alcoholic Beverages Nec,Per Cent,-1.1
+2017,Non-Alcoholic Beverages Nec,Per Cent,0.6
+2018,Non-Alcoholic Beverages Nec,Per Cent,0.4
+2019,Non-Alcoholic Beverages Nec,Per Cent,2.7
+2020,Non-Alcoholic Beverages Nec,Per Cent,8.7
+2021,Non-Alcoholic Beverages Nec,Per Cent,-1.9
+2022,Non-Alcoholic Beverages Nec,Per Cent,9.2
+2023,Non-Alcoholic Beverages Nec,Per Cent,1.3
+2024,Non-Alcoholic Beverages Nec,Per Cent,-1.8
+2025,Non-Alcoholic Beverages Nec,Per Cent,-0.6
+1962,Clothing & Footwear,Per Cent,-0.5
+1963,Clothing & Footwear,Per Cent,-0.3
+1964,Clothing & Footwear,Per Cent,0.6
+1965,Clothing & Footwear,Per Cent,1.2
+1966,Clothing & Footwear,Per Cent,1.7
+1967,Clothing & Footwear,Per Cent,0.2
+1968,Clothing & Footwear,Per Cent,0.6
+1969,Clothing & Footwear,Per Cent,2.1
+1970,Clothing & Footwear,Per Cent,0.5
+1971,Clothing & Footwear,Per Cent,2.7
+1972,Clothing & Footwear,Per Cent,1.8
+1973,Clothing & Footwear,Per Cent,16.5
+1974,Clothing & Footwear,Per Cent,10.1
+1975,Clothing & Footwear,Per Cent,-1.3
+1976,Clothing & Footwear,Per Cent,0.7
+1977,Clothing & Footwear,Per Cent,1.5
+1978,Clothing & Footwear,Per Cent,1.9
+1979,Clothing & Footwear,Per Cent,3.5
+1980,Clothing & Footwear,Per Cent,1.9
+1981,Clothing & Footwear,Per Cent,1.8
+1982,Clothing & Footwear,Per Cent,0.4
+1983,Clothing & Footwear,Per Cent,-0.1
+1984,Clothing & Footwear,Per Cent,-0.4
+1985,Clothing & Footwear,Per Cent,-2.5
+1986,Clothing & Footwear,Per Cent,-2.3
+1987,Clothing & Footwear,Per Cent,0.4
+1988,Clothing & Footwear,Per Cent,3.4
+1989,Clothing & Footwear,Per Cent,1.8
+1990,Clothing & Footwear,Per Cent,0.9
+1991,Clothing & Footwear,Per Cent,1.8
+1992,Clothing & Footwear,Per Cent,2.4
+1993,Clothing & Footwear,Per Cent,1.3
+1994,Clothing & Footwear,Per Cent,2.3
+1995,Clothing & Footwear,Per Cent,1.5
+1996,Clothing & Footwear,Per Cent,0.6
+1997,Clothing & Footwear,Per Cent,0.9
+1998,Clothing & Footwear,Per Cent,-1.4
+1999,Clothing & Footwear,Per Cent,-2
+2000,Clothing & Footwear,Per Cent,-0.9
+2001,Clothing & Footwear,Per Cent,0.4
+2002,Clothing & Footwear,Per Cent,0.5
+2003,Clothing & Footwear,Per Cent,0.6
+2004,Clothing & Footwear,Per Cent,0.2
+2005,Clothing & Footwear,Per Cent,0.1
+2006,Clothing & Footwear,Per Cent,0.7
+2007,Clothing & Footwear,Per Cent,0.7
+2008,Clothing & Footwear,Per Cent,1.5
+2009,Clothing & Footwear,Per Cent,0.9
+2010,Clothing & Footwear,Per Cent,0.6
+2011,Clothing & Footwear,Per Cent,0.2
+2012,Clothing & Footwear,Per Cent,1.5
+2013,Clothing & Footwear,Per Cent,0.3
+2014,Clothing & Footwear,Per Cent,-0.8
+2015,Clothing & Footwear,Per Cent,0.1
+2016,Clothing & Footwear,Per Cent,0.2
+2017,Clothing & Footwear,Per Cent,0.6
+2018,Clothing & Footwear,Per Cent,1.4
+2019,Clothing & Footwear,Per Cent,-0.8
+2020,Clothing & Footwear,Per Cent,-3.6
+2021,Clothing & Footwear,Per Cent,-5.1
+2022,Clothing & Footwear,Per Cent,2.9
+2023,Clothing & Footwear,Per Cent,2.4
+2024,Clothing & Footwear,Per Cent,-0.6
+2025,Clothing & Footwear,Per Cent,-0.9
+2006,Clothing,Per Cent,1.2
+2007,Clothing,Per Cent,0.3
+2008,Clothing,Per Cent,1.5
+2009,Clothing,Per Cent,1.7
+2010,Clothing,Per Cent,0.7
+2011,Clothing,Per Cent,0.3
+2012,Clothing,Per Cent,1.6
+2013,Clothing,Per Cent,0.3
+2014,Clothing,Per Cent,-1.1
+2015,Clothing,Per Cent,-0.3
+2016,Clothing,Per Cent,0.9
+2017,Clothing,Per Cent,0.3
+2018,Clothing,Per Cent,1.1
+2019,Clothing,Per Cent,-1.1
+2020,Clothing,Per Cent,-3.4
+2021,Clothing,Per Cent,-5.1
+2022,Clothing,Per Cent,3.1
+2023,Clothing,Per Cent,1.3
+2024,Clothing,Per Cent,-0.4
+2025,Clothing,Per Cent,-0.9
+2016,Garments,Per Cent,0.9
+2017,Garments,Per Cent,0.2
+2018,Garments,Per Cent,1.1
+2019,Garments,Per Cent,-1.1
+2020,Garments,Per Cent,-3.5
+2021,Garments,Per Cent,-5.3
+2022,Garments,Per Cent,3
+2023,Garments,Per Cent,0.8
+2024,Garments,Per Cent,-0.6
+2025,Garments,Per Cent,-1
+2025,Other Articles Of Clothing & Clothing Accessories,Per Cent,3.7
+2025,"Cleaning, Repair, Tailoring & Rental Of Clothing",Per Cent,-1.3
+2006,Footwear,Per Cent,-1
+2007,Footwear,Per Cent,2.1
+2008,Footwear,Per Cent,1.4
+2009,Footwear,Per Cent,-2.3
+2010,Footwear,Per Cent,0.2
+2011,Footwear,Per Cent,-0.4
+2012,Footwear,Per Cent,1.3
+2013,Footwear,Per Cent,0.3
+2014,Footwear,Per Cent,0.6
+2015,Footwear,Per Cent,1.5
+2016,Footwear,Per Cent,-2.1
+2017,Footwear,Per Cent,1.8
+2018,Footwear,Per Cent,2.7
+2019,Footwear,Per Cent,0.5
+2020,Footwear,Per Cent,-4.3
+2021,Footwear,Per Cent,-5.3
+2022,Footwear,Per Cent,2.3
+2023,Footwear,Per Cent,6.1
+2024,Footwear,Per Cent,-1
+2025,Footwear,Per Cent,-0.9
+1962,Housing & Utilities,Per Cent,0.6
+1963,Housing & Utilities,Per Cent,0.2
+1964,Housing & Utilities,Per Cent,1.8
+1965,Housing & Utilities,Per Cent,1.8
+1966,Housing & Utilities,Per Cent,-0.6
+1967,Housing & Utilities,Per Cent,2.5
+1968,Housing & Utilities,Per Cent,1.2
+1969,Housing & Utilities,Per Cent,2.2
+1970,Housing & Utilities,Per Cent,0.7
+1971,Housing & Utilities,Per Cent,2.2
+1972,Housing & Utilities,Per Cent,1.6
+1973,Housing & Utilities,Per Cent,3.5
+1974,Housing & Utilities,Per Cent,14.1
+1975,Housing & Utilities,Per Cent,7
+1976,Housing & Utilities,Per Cent,6.7
+1977,Housing & Utilities,Per Cent,1.1
+1978,Housing & Utilities,Per Cent,0
+1979,Housing & Utilities,Per Cent,5.1
+1980,Housing & Utilities,Per Cent,13.6
+1981,Housing & Utilities,Per Cent,5.3
+1982,Housing & Utilities,Per Cent,3.7
+1983,Housing & Utilities,Per Cent,0.8
+1984,Housing & Utilities,Per Cent,3.5
+1985,Housing & Utilities,Per Cent,3.5
+1986,Housing & Utilities,Per Cent,-2.3
+1987,Housing & Utilities,Per Cent,-1.5
+1988,Housing & Utilities,Per Cent,0
+1989,Housing & Utilities,Per Cent,1.8
+1990,Housing & Utilities,Per Cent,7.2
+1991,Housing & Utilities,Per Cent,2.3
+1992,Housing & Utilities,Per Cent,2.6
+1993,Housing & Utilities,Per Cent,3.7
+1994,Housing & Utilities,Per Cent,1.4
+1995,Housing & Utilities,Per Cent,1
+1996,Housing & Utilities,Per Cent,0.9
+1997,Housing & Utilities,Per Cent,2.9
+1998,Housing & Utilities,Per Cent,2.6
+1999,Housing & Utilities,Per Cent,-1.3
+2000,Housing & Utilities,Per Cent,2.8
+2001,Housing & Utilities,Per Cent,1.9
+2002,Housing & Utilities,Per Cent,-2.2
+2003,Housing & Utilities,Per Cent,-0.3
+2004,Housing & Utilities,Per Cent,-0.1
+2005,Housing & Utilities,Per Cent,1.3
+2006,Housing & Utilities,Per Cent,3.3
+2007,Housing & Utilities,Per Cent,0.2
+2008,Housing & Utilities,Per Cent,15
+2009,Housing & Utilities,Per Cent,2
+2010,Housing & Utilities,Per Cent,2.2
+2011,Housing & Utilities,Per Cent,9
+2012,Housing & Utilities,Per Cent,8.4
+2013,Housing & Utilities,Per Cent,2.8
+2014,Housing & Utilities,Per Cent,0.1
+2015,Housing & Utilities,Per Cent,-3.5
+2016,Housing & Utilities,Per Cent,-4.1
+2017,Housing & Utilities,Per Cent,-2.5
+2018,Housing & Utilities,Per Cent,-1.3
+2019,Housing & Utilities,Per Cent,-1
+2020,Housing & Utilities,Per Cent,-0.3
+2021,Housing & Utilities,Per Cent,1.4
+2022,Housing & Utilities,Per Cent,5.2
+2023,Housing & Utilities,Per Cent,4.3
+2024,Housing & Utilities,Per Cent,3.3
+2025,Housing & Utilities,Per Cent,0.7
+2006,Accommodation,Per Cent,0.7
+2007,Accommodation,Per Cent,1.6
+2008,Accommodation,Per Cent,14.2
+2009,Accommodation,Per Cent,5.4
+2010,Accommodation,Per Cent,0.9
+2011,Accommodation,Per Cent,9.4
+2012,Accommodation,Per Cent,8.9
+2013,Accommodation,Per Cent,4.1
+2014,Accommodation,Per Cent,0.3
+2015,Accommodation,Per Cent,-2.6
+2016,Accommodation,Per Cent,-3.5
+2017,Accommodation,Per Cent,-4
+2018,Accommodation,Per Cent,-3.1
+2019,Accommodation,Per Cent,-0.9
+2020,Accommodation,Per Cent,0.4
+2021,Accommodation,Per Cent,1.4
+2022,Accommodation,Per Cent,4.2
+2023,Accommodation,Per Cent,4.5
+2024,Accommodation,Per Cent,3
+2025,Accommodation,Per Cent,0.8
+2016,Actual Rentals For Housing,Per Cent,-3.6
+2017,Actual Rentals For Housing,Per Cent,-3.8
+2018,Actual Rentals For Housing,Per Cent,-2.9
+2019,Actual Rentals For Housing,Per Cent,-0.9
+2020,Actual Rentals For Housing,Per Cent,0
+2021,Actual Rentals For Housing,Per Cent,1.2
+2022,Actual Rentals For Housing,Per Cent,3.7
+2023,Actual Rentals For Housing,Per Cent,4.2
+2024,Actual Rentals For Housing,Per Cent,2.8
+2025,Actual Rentals For Housing,Per Cent,0.9
+2016,Imputed Rentals For Housing,Per Cent,-4.1
+2017,Imputed Rentals For Housing,Per Cent,-4.7
+2018,Imputed Rentals For Housing,Per Cent,-3.7
+2019,Imputed Rentals For Housing,Per Cent,-1.2
+2020,Imputed Rentals For Housing,Per Cent,0.5
+2021,Imputed Rentals For Housing,Per Cent,1.6
+2022,Imputed Rentals For Housing,Per Cent,4.6
+2023,Imputed Rentals For Housing,Per Cent,4.7
+2024,Imputed Rentals For Housing,Per Cent,3
+2025,Imputed Rentals For Housing,Per Cent,0.6
+2016,Housing Maintenance & Repairs,Per Cent,2.2
+2017,Housing Maintenance & Repairs,Per Cent,2.2
+2018,Housing Maintenance & Repairs,Per Cent,2.1
+2019,Housing Maintenance & Repairs,Per Cent,1.3
+2020,Housing Maintenance & Repairs,Per Cent,0.3
+2021,Housing Maintenance & Repairs,Per Cent,0.4
+2022,Housing Maintenance & Repairs,Per Cent,1.7
+2023,Housing Maintenance & Repairs,Per Cent,3.4
+2024,Housing Maintenance & Repairs,Per Cent,3.1
+2025,Housing Maintenance & Repairs,Per Cent,2.6
+2006,Utilities & Other Fuels,Per Cent,10.7
+2007,Utilities & Other Fuels,Per Cent,-1.8
+2008,Utilities & Other Fuels,Per Cent,17.8
+2009,Utilities & Other Fuels,Per Cent,-13.6
+2010,Utilities & Other Fuels,Per Cent,9.7
+2011,Utilities & Other Fuels,Per Cent,7
+2012,Utilities & Other Fuels,Per Cent,5.8
+2013,Utilities & Other Fuels,Per Cent,-3.8
+2014,Utilities & Other Fuels,Per Cent,-1.3
+2015,Utilities & Other Fuels,Per Cent,-9.8
+2016,Utilities & Other Fuels,Per Cent,-8.2
+2017,Utilities & Other Fuels,Per Cent,8.7
+2018,Utilities & Other Fuels,Per Cent,10.4
+2019,Utilities & Other Fuels,Per Cent,-1.3
+2020,Utilities & Other Fuels,Per Cent,-5.5
+2021,Utilities & Other Fuels,Per Cent,1
+2022,Utilities & Other Fuels,Per Cent,13.5
+2023,Utilities & Other Fuels,Per Cent,2.7
+2024,Utilities & Other Fuels,Per Cent,5.4
+2025,Utilities & Other Fuels,Per Cent,-0.6
+2016,Water Supply,Per Cent,0
+2017,Water Supply,Per Cent,7.6
+2018,Water Supply,Per Cent,14.9
+2019,Water Supply,Per Cent,6.8
+2020,Water Supply,Per Cent,0
+2021,Water Supply,Per Cent,0
+2022,Water Supply,Per Cent,0
+2023,Water Supply,Per Cent,1
+2024,Water Supply,Per Cent,6.3
+2025,Water Supply,Per Cent,9.6
+2016,Refuse Collection,Per Cent,0
+2017,Refuse Collection,Per Cent,10.2
+2018,Refuse Collection,Per Cent,0
+2019,Refuse Collection,Per Cent,0
+2020,Refuse Collection,Per Cent,0
+2021,Refuse Collection,Per Cent,0
+2022,Refuse Collection,Per Cent,16.7
+2023,Refuse Collection,Per Cent,0.9
+2024,Refuse Collection,Per Cent,2.9
+2025,Refuse Collection,Per Cent,2
+2016,Electricity,Per Cent,-13
+2017,Electricity,Per Cent,9.3
+2018,Electricity,Per Cent,10.4
+2019,Electricity,Per Cent,-5.6
+2020,Electricity,Per Cent,-9.2
+2021,Electricity,Per Cent,0.7
+2022,Electricity,Per Cent,21.6
+2023,Electricity,Per Cent,4.4
+2024,Electricity,Per Cent,5.2
+2025,Electricity,Per Cent,-4.5
+2016,Gas,Per Cent,-4.4
+2017,Gas,Per Cent,7.6
+2018,Gas,Per Cent,4.9
+2019,Gas,Per Cent,0
+2020,Gas,Per Cent,-3.7
+2021,Gas,Per Cent,5.9
+2022,Gas,Per Cent,9.7
+2023,Gas,Per Cent,-1.4
+2024,Gas,Per Cent,5.7
+2025,Gas,Per Cent,-1.6
+1962,Household Durables & Services,Per Cent,0.1
+1963,Household Durables & Services,Per Cent,-2
+1964,Household Durables & Services,Per Cent,0.2
+1965,Household Durables & Services,Per Cent,2.4
+1966,Household Durables & Services,Per Cent,6.9
+1967,Household Durables & Services,Per Cent,6.3
+1968,Household Durables & Services,Per Cent,2
+1969,Household Durables & Services,Per Cent,-0.5
+1970,Household Durables & Services,Per Cent,1.8
+1971,Household Durables & Services,Per Cent,1
+1972,Household Durables & Services,Per Cent,1
+1973,Household Durables & Services,Per Cent,15.9
+1974,Household Durables & Services,Per Cent,28.6
+1975,Household Durables & Services,Per Cent,5.3
+1976,Household Durables & Services,Per Cent,-0.8
+1977,Household Durables & Services,Per Cent,2.3
+1978,Household Durables & Services,Per Cent,2.2
+1979,Household Durables & Services,Per Cent,4.5
+1980,Household Durables & Services,Per Cent,6.4
+1981,Household Durables & Services,Per Cent,4
+1982,Household Durables & Services,Per Cent,2
+1983,Household Durables & Services,Per Cent,0.8
+1984,Household Durables & Services,Per Cent,0.1
+1985,Household Durables & Services,Per Cent,0.9
+1986,Household Durables & Services,Per Cent,0.3
+1987,Household Durables & Services,Per Cent,0.7
+1988,Household Durables & Services,Per Cent,1.4
+1989,Household Durables & Services,Per Cent,1.7
+1990,Household Durables & Services,Per Cent,3.7
+1991,Household Durables & Services,Per Cent,0.9
+1992,Household Durables & Services,Per Cent,2.4
+1993,Household Durables & Services,Per Cent,1.7
+1994,Household Durables & Services,Per Cent,0.9
+1995,Household Durables & Services,Per Cent,4.9
+1996,Household Durables & Services,Per Cent,0.6
+1997,Household Durables & Services,Per Cent,-0.2
+1998,Household Durables & Services,Per Cent,0.2
+1999,Household Durables & Services,Per Cent,-0.1
+2000,Household Durables & Services,Per Cent,-0.6
+2001,Household Durables & Services,Per Cent,-0.4
+2002,Household Durables & Services,Per Cent,-0.8
+2003,Household Durables & Services,Per Cent,-0.5
+2004,Household Durables & Services,Per Cent,-0.8
+2005,Household Durables & Services,Per Cent,-3.2
+2006,Household Durables & Services,Per Cent,-0.6
+2007,Household Durables & Services,Per Cent,0.3
+2008,Household Durables & Services,Per Cent,2.2
+2009,Household Durables & Services,Per Cent,1.2
+2010,Household Durables & Services,Per Cent,1
+2011,Household Durables & Services,Per Cent,6.5
+2012,Household Durables & Services,Per Cent,2.4
+2013,Household Durables & Services,Per Cent,5
+2014,Household Durables & Services,Per Cent,1.8
+2015,Household Durables & Services,Per Cent,-0.6
+2016,Household Durables & Services,Per Cent,1.8
+2017,Household Durables & Services,Per Cent,1.1
+2018,Household Durables & Services,Per Cent,0.7
+2019,Household Durables & Services,Per Cent,0.8
+2020,Household Durables & Services,Per Cent,0.3
+2021,Household Durables & Services,Per Cent,1.5
+2022,Household Durables & Services,Per Cent,1.9
+2023,Household Durables & Services,Per Cent,1.9
+2024,Household Durables & Services,Per Cent,0.7
+2025,Household Durables & Services,Per Cent,-0.4
+2006,Furniture & Furnishings,Per Cent,-1.5
+2007,Furniture & Furnishings,Per Cent,-0.4
+2008,Furniture & Furnishings,Per Cent,3
+2009,Furniture & Furnishings,Per Cent,1
+2010,Furniture & Furnishings,Per Cent,-0.1
+2011,Furniture & Furnishings,Per Cent,-0.2
+2012,Furniture & Furnishings,Per Cent,0.8
+2013,Furniture & Furnishings,Per Cent,1.2
+2014,Furniture & Furnishings,Per Cent,1.5
+2015,Furniture & Furnishings,Per Cent,1
+2016,Furniture & Furnishings,Per Cent,1.2
+2017,Furniture & Furnishings,Per Cent,-0.6
+2018,Furniture & Furnishings,Per Cent,0
+2019,Furniture & Furnishings,Per Cent,0.5
+2020,Furniture & Furnishings,Per Cent,0.3
+2021,Furniture & Furnishings,Per Cent,2.1
+2022,Furniture & Furnishings,Per Cent,3.7
+2023,Furniture & Furnishings,Per Cent,2.1
+2024,Furniture & Furnishings,Per Cent,1
+2025,Furniture & Furnishings,Per Cent,-0.7
+2006,Household Textiles,Per Cent,0.5
+2007,Household Textiles,Per Cent,-3.7
+2008,Household Textiles,Per Cent,-0.6
+2009,Household Textiles,Per Cent,-1
+2010,Household Textiles,Per Cent,1.2
+2011,Household Textiles,Per Cent,-0.5
+2012,Household Textiles,Per Cent,-0.5
+2013,Household Textiles,Per Cent,1.8
+2014,Household Textiles,Per Cent,0.5
+2015,Household Textiles,Per Cent,2
+2016,Household Textiles,Per Cent,-1.4
+2017,Household Textiles,Per Cent,-1.5
+2018,Household Textiles,Per Cent,-1.5
+2019,Household Textiles,Per Cent,-1.6
+2020,Household Textiles,Per Cent,-0.5
+2021,Household Textiles,Per Cent,-1.1
+2022,Household Textiles,Per Cent,0.2
+2023,Household Textiles,Per Cent,1.6
+2024,Household Textiles,Per Cent,-0.1
+2025,Household Textiles,Per Cent,-5.3
+2006,Household Appliances,Per Cent,1.3
+2007,Household Appliances,Per Cent,-0.2
+2008,Household Appliances,Per Cent,1.5
+2009,Household Appliances,Per Cent,-1.1
+2010,Household Appliances,Per Cent,-0.3
+2011,Household Appliances,Per Cent,0
+2012,Household Appliances,Per Cent,-1.1
+2013,Household Appliances,Per Cent,-0.7
+2014,Household Appliances,Per Cent,0.5
+2015,Household Appliances,Per Cent,-0.1
+2016,Household Appliances,Per Cent,0.1
+2017,Household Appliances,Per Cent,-1.9
+2018,Household Appliances,Per Cent,-1
+2019,Household Appliances,Per Cent,-1.4
+2020,Household Appliances,Per Cent,-0.7
+2021,Household Appliances,Per Cent,2.2
+2022,Household Appliances,Per Cent,2.7
+2023,Household Appliances,Per Cent,0.5
+2024,Household Appliances,Per Cent,-0.3
+2025,Household Appliances,Per Cent,-0.8
+2025,Major Household Appliances,Per Cent,-1.3
+2025,Small Household Appliances,Per Cent,-1
+2025,Repair & Installation Of Household Appliances,Per Cent,1.3
+2006,"Glassware, Tableware & Household Utensils",Per Cent,-0.8
+2007,"Glassware, Tableware & Household Utensils",Per Cent,1.8
+2008,"Glassware, Tableware & Household Utensils",Per Cent,11.4
+2009,"Glassware, Tableware & Household Utensils",Per Cent,0
+2010,"Glassware, Tableware & Household Utensils",Per Cent,-0.4
+2011,"Glassware, Tableware & Household Utensils",Per Cent,2.2
+2012,"Glassware, Tableware & Household Utensils",Per Cent,2.9
+2013,"Glassware, Tableware & Household Utensils",Per Cent,-0.7
+2014,"Glassware, Tableware & Household Utensils",Per Cent,0.5
+2015,"Glassware, Tableware & Household Utensils",Per Cent,-0.6
+2016,"Glassware, Tableware & Household Utensils",Per Cent,-0.5
+2017,"Glassware, Tableware & Household Utensils",Per Cent,-0.2
+2018,"Glassware, Tableware & Household Utensils",Per Cent,0.4
+2019,"Glassware, Tableware & Household Utensils",Per Cent,-0.5
+2020,"Glassware, Tableware & Household Utensils",Per Cent,1.5
+2021,"Glassware, Tableware & Household Utensils",Per Cent,-1.4
+2022,"Glassware, Tableware & Household Utensils",Per Cent,2.1
+2023,"Glassware, Tableware & Household Utensils",Per Cent,1.6
+2024,"Glassware, Tableware & Household Utensils",Per Cent,-0.4
+2025,"Glassware, Tableware & Household Utensils",Per Cent,-1
+2006,Tools & Equipment For House & Garden,Per Cent,-0.7
+2007,Tools & Equipment For House & Garden,Per Cent,1.2
+2008,Tools & Equipment For House & Garden,Per Cent,-3.9
+2009,Tools & Equipment For House & Garden,Per Cent,0.9
+2010,Tools & Equipment For House & Garden,Per Cent,0.5
+2011,Tools & Equipment For House & Garden,Per Cent,1.1
+2012,Tools & Equipment For House & Garden,Per Cent,1.2
+2013,Tools & Equipment For House & Garden,Per Cent,-0.1
+2014,Tools & Equipment For House & Garden,Per Cent,-2.2
+2015,Tools & Equipment For House & Garden,Per Cent,-1.9
+2016,Tools & Equipment For House & Garden,Per Cent,-0.4
+2017,Tools & Equipment For House & Garden,Per Cent,0.9
+2018,Tools & Equipment For House & Garden,Per Cent,1.9
+2019,Tools & Equipment For House & Garden,Per Cent,1.6
+2020,Tools & Equipment For House & Garden,Per Cent,2
+2021,Tools & Equipment For House & Garden,Per Cent,0.5
+2022,Tools & Equipment For House & Garden,Per Cent,5
+2023,Tools & Equipment For House & Garden,Per Cent,7.3
+2024,Tools & Equipment For House & Garden,Per Cent,1.2
+2025,Tools & Equipment For House & Garden,Per Cent,-0.9
+2006,Household Services & Supplies,Per Cent,-0.8
+2007,Household Services & Supplies,Per Cent,1
+2008,Household Services & Supplies,Per Cent,2
+2009,Household Services & Supplies,Per Cent,1.8
+2010,Household Services & Supplies,Per Cent,1.5
+2011,Household Services & Supplies,Per Cent,9.4
+2012,Household Services & Supplies,Per Cent,3.4
+2013,Household Services & Supplies,Per Cent,6.8
+2014,Household Services & Supplies,Per Cent,2.2
+2015,Household Services & Supplies,Per Cent,-1.3
+2016,Household Services & Supplies,Per Cent,2.9
+2017,Household Services & Supplies,Per Cent,2.4
+2018,Household Services & Supplies,Per Cent,1.4
+2019,Household Services & Supplies,Per Cent,1.5
+2020,Household Services & Supplies,Per Cent,0.5
+2021,Household Services & Supplies,Per Cent,1.5
+2022,Household Services & Supplies,Per Cent,1.2
+2023,Household Services & Supplies,Per Cent,2.1
+2024,Household Services & Supplies,Per Cent,1
+2025,Household Services & Supplies,Per Cent,0.2
+2016,Non-Durable Household Goods,Per Cent,-0.5
+2017,Non-Durable Household Goods,Per Cent,-0.6
+2018,Non-Durable Household Goods,Per Cent,0.1
+2019,Non-Durable Household Goods,Per Cent,-0.5
+2020,Non-Durable Household Goods,Per Cent,1.2
+2021,Non-Durable Household Goods,Per Cent,-0.8
+2022,Non-Durable Household Goods,Per Cent,2.8
+2023,Non-Durable Household Goods,Per Cent,5.3
+2024,Non-Durable Household Goods,Per Cent,1.3
+2025,Non-Durable Household Goods,Per Cent,0.4
+2016,Domestic Services & Household Services,Per Cent,3.5
+2017,Domestic Services & Household Services,Per Cent,2.9
+2018,Domestic Services & Household Services,Per Cent,1.6
+2019,Domestic Services & Household Services,Per Cent,1.8
+2020,Domestic Services & Household Services,Per Cent,0.4
+2021,Domestic Services & Household Services,Per Cent,1.8
+2022,Domestic Services & Household Services,Per Cent,1
+2023,Domestic Services & Household Services,Per Cent,1.6
+2024,Domestic Services & Household Services,Per Cent,0.8
+2025,Domestic Services & Household Services,Per Cent,0.2
+2025,Other Insurance Nec,Per Cent,3.4
+1962,Health,Per Cent,0
+1963,Health,Per Cent,0
+1964,Health,Per Cent,0
+1965,Health,Per Cent,0
+1966,Health,Per Cent,0
+1967,Health,Per Cent,0
+1968,Health,Per Cent,1.5
+1969,Health,Per Cent,8.3
+1970,Health,Per Cent,0
+1971,Health,Per Cent,-0.2
+1972,Health,Per Cent,-1.2
+1973,Health,Per Cent,2.8
+1974,Health,Per Cent,17.4
+1975,Health,Per Cent,6.5
+1976,Health,Per Cent,2.7
+1977,Health,Per Cent,1.6
+1978,Health,Per Cent,4.2
+1979,Health,Per Cent,3.6
+1980,Health,Per Cent,7.2
+1981,Health,Per Cent,6.2
+1982,Health,Per Cent,5.4
+1983,Health,Per Cent,8.4
+1984,Health,Per Cent,12.3
+1985,Health,Per Cent,1.4
+1986,Health,Per Cent,-0.3
+1987,Health,Per Cent,1.4
+1988,Health,Per Cent,2.1
+1989,Health,Per Cent,2.8
+1990,Health,Per Cent,5.3
+1991,Health,Per Cent,8.6
+1992,Health,Per Cent,2.5
+1993,Health,Per Cent,3.5
+1994,Health,Per Cent,3
+1995,Health,Per Cent,1.5
+1996,Health,Per Cent,2
+1997,Health,Per Cent,3.4
+1998,Health,Per Cent,3.8
+1999,Health,Per Cent,0.3
+2000,Health,Per Cent,1.1
+2001,Health,Per Cent,2.9
+2002,Health,Per Cent,2.9
+2003,Health,Per Cent,1.9
+2004,Health,Per Cent,5.8
+2005,Health,Per Cent,0.5
+2006,Health,Per Cent,0.9
+2007,Health,Per Cent,4
+2008,Health,Per Cent,5.5
+2009,Health,Per Cent,1.8
+2010,Health,Per Cent,1.8
+2011,Health,Per Cent,2.4
+2012,Health,Per Cent,4.5
+2013,Health,Per Cent,3.9
+2014,Health,Per Cent,2.9
+2015,Health,Per Cent,-0.2
+2016,Health,Per Cent,1
+2017,Health,Per Cent,2.5
+2018,Health,Per Cent,2.1
+2019,Health,Per Cent,1.2
+2020,Health,Per Cent,-1.5
+2021,Health,Per Cent,1.1
+2022,Health,Per Cent,2.2
+2023,Health,Per Cent,4.5
+2024,Health,Per Cent,3.9
+2025,Health,Per Cent,2.7
+2006,Medicines & Health Products,Per Cent,1.9
+2007,Medicines & Health Products,Per Cent,4.1
+2008,Medicines & Health Products,Per Cent,5.7
+2009,Medicines & Health Products,Per Cent,0.1
+2010,Medicines & Health Products,Per Cent,1.4
+2011,Medicines & Health Products,Per Cent,2.7
+2012,Medicines & Health Products,Per Cent,2.9
+2013,Medicines & Health Products,Per Cent,2.5
+2014,Medicines & Health Products,Per Cent,1
+2015,Medicines & Health Products,Per Cent,0.5
+2016,Medicines & Health Products,Per Cent,-0.4
+2017,Medicines & Health Products,Per Cent,-0.2
+2018,Medicines & Health Products,Per Cent,0
+2019,Medicines & Health Products,Per Cent,-0.8
+2020,Medicines & Health Products,Per Cent,-1.4
+2021,Medicines & Health Products,Per Cent,0
+2022,Medicines & Health Products,Per Cent,1.3
+2023,Medicines & Health Products,Per Cent,1.4
+2024,Medicines & Health Products,Per Cent,1.6
+2025,Medicines & Health Products,Per Cent,-0.9
+2016,Medicines & Health Supplements,Per Cent,-0.2
+2017,Medicines & Health Supplements,Per Cent,-0.2
+2018,Medicines & Health Supplements,Per Cent,0.2
+2019,Medicines & Health Supplements,Per Cent,-1.1
+2020,Medicines & Health Supplements,Per Cent,-1.8
+2021,Medicines & Health Supplements,Per Cent,0.4
+2022,Medicines & Health Supplements,Per Cent,1.5
+2023,Medicines & Health Supplements,Per Cent,1.8
+2024,Medicines & Health Supplements,Per Cent,1.9
+2025,Medicines & Health Supplements,Per Cent,-0.9
+2025,Medical Products,Per Cent,-3.5
+2025,Assistive Products,Per Cent,-0.5
+2006,Outpatient Care Services,Per Cent,0.7
+2007,Outpatient Care Services,Per Cent,4.1
+2008,Outpatient Care Services,Per Cent,5.6
+2009,Outpatient Care Services,Per Cent,2.8
+2010,Outpatient Care Services,Per Cent,2.7
+2011,Outpatient Care Services,Per Cent,2.2
+2012,Outpatient Care Services,Per Cent,5.1
+2013,Outpatient Care Services,Per Cent,3.4
+2014,Outpatient Care Services,Per Cent,2
+2015,Outpatient Care Services,Per Cent,-4.4
+2016,Outpatient Care Services,Per Cent,2.7
+2017,Outpatient Care Services,Per Cent,2.4
+2018,Outpatient Care Services,Per Cent,1.6
+2019,Outpatient Care Services,Per Cent,1.4
+2020,Outpatient Care Services,Per Cent,-4
+2021,Outpatient Care Services,Per Cent,0.3
+2022,Outpatient Care Services,Per Cent,2.9
+2023,Outpatient Care Services,Per Cent,5.8
+2024,Outpatient Care Services,Per Cent,4
+2025,Outpatient Care Services,Per Cent,-0.3
+2016,Fees At Polyclinics,Per Cent,1.9
+2017,Fees At Polyclinics,Per Cent,2
+2018,Fees At Polyclinics,Per Cent,0.6
+2019,Fees At Polyclinics,Per Cent,-0.2
+2020,Fees At Polyclinics,Per Cent,-10.9
+2021,Fees At Polyclinics,Per Cent,-0.5
+2022,Fees At Polyclinics,Per Cent,6.6
+2023,Fees At Polyclinics,Per Cent,13.9
+2024,Fees At Polyclinics,Per Cent,8.1
+2025,Fees At Polyclinics,Per Cent,3.5
+2016,Fees At General Practitioners (GP) Clinics,Per Cent,2.1
+2017,Fees At General Practitioners (GP) Clinics,Per Cent,2.3
+2018,Fees At General Practitioners (GP) Clinics,Per Cent,2
+2019,Fees At General Practitioners (GP) Clinics,Per Cent,0.9
+2020,Fees At General Practitioners (GP) Clinics,Per Cent,-22.4
+2021,Fees At General Practitioners (GP) Clinics,Per Cent,-5.5
+2022,Fees At General Practitioners (GP) Clinics,Per Cent,13
+2023,Fees At General Practitioners (GP) Clinics,Per Cent,19.2
+2024,Fees At General Practitioners (GP) Clinics,Per Cent,4.2
+2025,Fees At General Practitioners (GP) Clinics,Per Cent,0.8
+2016,Fees At Specialist Outpatient Clinics,Per Cent,2.9
+2017,Fees At Specialist Outpatient Clinics,Per Cent,2.2
+2018,Fees At Specialist Outpatient Clinics,Per Cent,2
+2019,Fees At Specialist Outpatient Clinics,Per Cent,2.3
+2020,Fees At Specialist Outpatient Clinics,Per Cent,-0.2
+2021,Fees At Specialist Outpatient Clinics,Per Cent,0.5
+2022,Fees At Specialist Outpatient Clinics,Per Cent,0.8
+2023,Fees At Specialist Outpatient Clinics,Per Cent,2.8
+2024,Fees At Specialist Outpatient Clinics,Per Cent,3.4
+2025,Fees At Specialist Outpatient Clinics,Per Cent,-1.3
+2016,Outpatient Dental Services,Per Cent,1.5
+2017,Outpatient Dental Services,Per Cent,1.4
+2018,Outpatient Dental Services,Per Cent,1.5
+2019,Outpatient Dental Services,Per Cent,0
+2020,Outpatient Dental Services,Per Cent,-4.8
+2021,Outpatient Dental Services,Per Cent,2.3
+2022,Outpatient Dental Services,Per Cent,3.6
+2023,Outpatient Dental Services,Per Cent,6.5
+2024,Outpatient Dental Services,Per Cent,3.9
+2025,Outpatient Dental Services,Per Cent,1.6
+2016,Outpatient Care Services Nec,Per Cent,5.3
+2017,Outpatient Care Services Nec,Per Cent,4.5
+2018,Outpatient Care Services Nec,Per Cent,0.2
+2019,Outpatient Care Services Nec,Per Cent,1.4
+2020,Outpatient Care Services Nec,Per Cent,0.8
+2021,Outpatient Care Services Nec,Per Cent,0.6
+2022,Outpatient Care Services Nec,Per Cent,3.2
+2023,Outpatient Care Services Nec,Per Cent,4.9
+2024,Outpatient Care Services Nec,Per Cent,4.9
+2025,Outpatient Care Services Nec,Per Cent,-0.8
+2006,Inpatient Care Services,Per Cent,0.7
+2007,Inpatient Care Services,Per Cent,5.5
+2008,Inpatient Care Services,Per Cent,6.8
+2009,Inpatient Care Services,Per Cent,1.9
+2010,Inpatient Care Services,Per Cent,2
+2011,Inpatient Care Services,Per Cent,3
+2012,Inpatient Care Services,Per Cent,6.9
+2013,Inpatient Care Services,Per Cent,4.6
+2014,Inpatient Care Services,Per Cent,5.4
+2015,Inpatient Care Services,Per Cent,3.1
+2016,Inpatient Care Services,Per Cent,0.1
+2017,Inpatient Care Services,Per Cent,4.5
+2018,Inpatient Care Services,Per Cent,3.9
+2019,Inpatient Care Services,Per Cent,2.2
+2020,Inpatient Care Services,Per Cent,1.5
+2021,Inpatient Care Services,Per Cent,1.5
+2022,Inpatient Care Services,Per Cent,1.9
+2023,Inpatient Care Services,Per Cent,4.5
+2024,Inpatient Care Services,Per Cent,4.8
+2025,Inpatient Care Services,Per Cent,-0.1
+2006,Other Health Services,Per Cent,1.3
+2007,Other Health Services,Per Cent,3.3
+2008,Other Health Services,Per Cent,6.7
+2009,Other Health Services,Per Cent,2.2
+2010,Other Health Services,Per Cent,0.9
+2011,Other Health Services,Per Cent,4
+2012,Other Health Services,Per Cent,5.6
+2013,Other Health Services,Per Cent,2
+2014,Other Health Services,Per Cent,3.3
+2015,Other Health Services,Per Cent,1
+2016,Other Health Services,Per Cent,5.6
+2017,Other Health Services,Per Cent,2.5
+2018,Other Health Services,Per Cent,2.1
+2019,Other Health Services,Per Cent,2.7
+2020,Other Health Services,Per Cent,1.3
+2021,Other Health Services,Per Cent,1.1
+2022,Other Health Services,Per Cent,2
+2023,Other Health Services,Per Cent,7.2
+2024,Other Health Services,Per Cent,3.3
+2025,Other Health Services,Per Cent,2.1
+2025,Diagnostic Imaging Services & Medical Laboratory Services,Per Cent,2
+2025,Patient Emergency Transportation Services & Emergency Rescue,Per Cent,2.3
+2006,Health Insurance,Per Cent,0
+2007,Health Insurance,Per Cent,-0.4
+2008,Health Insurance,Per Cent,0.3
+2009,Health Insurance,Per Cent,1.5
+2010,Health Insurance,Per Cent,0.4
+2011,Health Insurance,Per Cent,0.6
+2012,Health Insurance,Per Cent,0
+2013,Health Insurance,Per Cent,6.8
+2014,Health Insurance,Per Cent,2.5
+2015,Health Insurance,Per Cent,0
+2016,Health Insurance,Per Cent,0.5
+2017,Health Insurance,Per Cent,1.6
+2018,Health Insurance,Per Cent,0.4
+2019,Health Insurance,Per Cent,0.1
+2020,Health Insurance,Per Cent,0
+2021,Health Insurance,Per Cent,4.9
+2022,Health Insurance,Per Cent,1.9
+2023,Health Insurance,Per Cent,3.6
+2024,Health Insurance,Per Cent,5.1
+2025,Health Insurance,Per Cent,12.7
+1962,Transport,Per Cent,-0.1
+1963,Transport,Per Cent,0.1
+1964,Transport,Per Cent,0.5
+1965,Transport,Per Cent,0.7
+1966,Transport,Per Cent,0
+1967,Transport,Per Cent,0.1
+1968,Transport,Per Cent,0
+1969,Transport,Per Cent,0.2
+1970,Transport,Per Cent,-0.1
+1971,Transport,Per Cent,0
+1972,Transport,Per Cent,0
+1973,Transport,Per Cent,0.4
+1974,Transport,Per Cent,40.2
+1975,Transport,Per Cent,4.2
+1976,Transport,Per Cent,4.3
+1977,Transport,Per Cent,0.6
+1978,Transport,Per Cent,5.3
+1979,Transport,Per Cent,9.9
+1980,Transport,Per Cent,14.2
+1981,Transport,Per Cent,11.2
+1982,Transport,Per Cent,2.7
+1983,Transport,Per Cent,1.2
+1984,Transport,Per Cent,4.3
+1985,Transport,Per Cent,5.4
+1986,Transport,Per Cent,-3.7
+1987,Transport,Per Cent,1.2
+1988,Transport,Per Cent,1
+1989,Transport,Per Cent,5.2
+1990,Transport,Per Cent,8.4
+1991,Transport,Per Cent,7.6
+1992,Transport,Per Cent,3.2
+1993,Transport,Per Cent,3
+1994,Transport,Per Cent,7.6
+1995,Transport,Per Cent,1.1
+1996,Transport,Per Cent,0.5
+1997,Transport,Per Cent,4.6
+1998,Transport,Per Cent,-5.1
+1999,Transport,Per Cent,-0.3
+2000,Transport,Per Cent,3.5
+2001,Transport,Per Cent,-1.1
+2002,Transport,Per Cent,-1.1
+2003,Transport,Per Cent,-0.2
+2004,Transport,Per Cent,1.5
+2005,Transport,Per Cent,-2.5
+2006,Transport,Per Cent,-1.6
+2007,Transport,Per Cent,2.6
+2008,Transport,Per Cent,4.1
+2009,Transport,Per Cent,-3.1
+2010,Transport,Per Cent,10.3
+2011,Transport,Per Cent,11.9
+2012,Transport,Per Cent,7.1
+2013,Transport,Per Cent,2.3
+2014,Transport,Per Cent,-1.2
+2015,Transport,Per Cent,-1.4
+2016,Transport,Per Cent,-2.4
+2017,Transport,Per Cent,2.6
+2018,Transport,Per Cent,-0.5
+2019,Transport,Per Cent,0.8
+2020,Transport,Per Cent,-0.7
+2021,Transport,Per Cent,8.8
+2022,Transport,Per Cent,16.4
+2023,Transport,Per Cent,6.3
+2024,Transport,Per Cent,0.9
+2025,Transport,Per Cent,2.5
+2006,Private Transport,Per Cent,-3.6
+2007,Private Transport,Per Cent,2
+2008,Private Transport,Per Cent,3.4
+2009,Private Transport,Per Cent,-3.5
+2010,Private Transport,Per Cent,13.6
+2011,Private Transport,Per Cent,14.9
+2012,Private Transport,Per Cent,7.7
+2013,Private Transport,Per Cent,2.7
+2014,Private Transport,Per Cent,-2
+2015,Private Transport,Per Cent,-2.2
+2016,Private Transport,Per Cent,-3
+2017,Private Transport,Per Cent,4.2
+2018,Private Transport,Per Cent,-0.6
+2019,Private Transport,Per Cent,0.3
+2020,Private Transport,Per Cent,-1.4
+2021,Private Transport,Per Cent,11.4
+2022,Private Transport,Per Cent,19.2
+2023,Private Transport,Per Cent,8.1
+2024,Private Transport,Per Cent,0
+2025,Private Transport,Per Cent,2.5
+2016,Motor Cars,Per Cent,-5
+2017,Motor Cars,Per Cent,0
+2018,Motor Cars,Per Cent,-5
+2019,Motor Cars,Per Cent,0.9
+2020,Motor Cars,Per Cent,1
+2021,Motor Cars,Per Cent,14.4
+2022,Motor Cars,Per Cent,24.4
+2023,Motor Cars,Per Cent,11.6
+2024,Motor Cars,Per Cent,-1
+2025,Motor Cars,Per Cent,4.5
+2016,Motorcycles,Per Cent,3.4
+2017,Motorcycles,Per Cent,-0.1
+2018,Motorcycles,Per Cent,-1.1
+2019,Motorcycles,Per Cent,-18.3
+2020,Motorcycles,Per Cent,19.9
+2021,Motorcycles,Per Cent,19.5
+2022,Motorcycles,Per Cent,13.7
+2023,Motorcycles,Per Cent,0.2
+2024,Motorcycles,Per Cent,-7
+2025,Motorcycles,Per Cent,-0.9
+2025,Bicycles,Per Cent,0.4
+2025,Parts & Accessories For Personal Transport Equipment,Per Cent,2.1
+2016,Petrol,Per Cent,-3.9
+2017,Petrol,Per Cent,9.1
+2018,Petrol,Per Cent,6.7
+2019,Petrol,Per Cent,0.1
+2020,Petrol,Per Cent,-7.3
+2021,Petrol,Per Cent,17.7
+2022,Petrol,Per Cent,18.9
+2023,Petrol,Per Cent,-3.8
+2024,Petrol,Per Cent,2.9
+2025,Petrol,Per Cent,-1.4
+2016,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,-5.1
+2017,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,11.9
+2018,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,7.9
+2019,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,3.9
+2020,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,-5.5
+2021,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,12.4
+2022,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,32.8
+2023,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,-5.8
+2024,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,2.5
+2025,Other Fuel & Lubricants For Personal Transport Equipment,Per Cent,-0.3
+2025,Maintenance & Repair Of Personal Transport Equipment,Per Cent,4.8
+2025,Other Services In Respect Of Personal Transport Equipment,Per Cent,0.7
+2025,Insurance Connected With Transport,Per Cent,4.1
+2006,Land Transport Services,Per Cent,3.3
+2007,Land Transport Services,Per Cent,3.8
+2008,Land Transport Services,Per Cent,5.6
+2009,Land Transport Services,Per Cent,-1.3
+2010,Land Transport Services,Per Cent,-0.3
+2011,Land Transport Services,Per Cent,1
+2012,Land Transport Services,Per Cent,4.8
+2013,Land Transport Services,Per Cent,0.4
+2014,Land Transport Services,Per Cent,2
+2015,Land Transport Services,Per Cent,2.1
+2016,Land Transport Services,Per Cent,-0.1
+2017,Land Transport Services,Per Cent,-2.2
+2018,Land Transport Services,Per Cent,-1
+2019,Land Transport Services,Per Cent,2.5
+2020,Land Transport Services,Per Cent,3.1
+2021,Land Transport Services,Per Cent,1.8
+2022,Land Transport Services,Per Cent,7.1
+2023,Land Transport Services,Per Cent,3.3
+2024,Land Transport Services,Per Cent,6.8
+2025,Land Transport Services,Per Cent,5.1
+2016,Bus & Train Fares,Per Cent,-0.9
+2017,Bus & Train Fares,Per Cent,-4.2
+2018,Bus & Train Fares,Per Cent,-2.1
+2019,Bus & Train Fares,Per Cent,4.4
+2020,Bus & Train Fares,Per Cent,7
+2021,Bus & Train Fares,Per Cent,0
+2022,Bus & Train Fares,Per Cent,2.2
+2023,Bus & Train Fares,Per Cent,3
+2024,Bus & Train Fares,Per Cent,6.8
+2025,Bus & Train Fares,Per Cent,6
+2016,Point-To-Point Transport Services,Per Cent,0.3
+2017,Point-To-Point Transport Services,Per Cent,0
+2018,Point-To-Point Transport Services,Per Cent,0
+2019,Point-To-Point Transport Services,Per Cent,0
+2020,Point-To-Point Transport Services,Per Cent,-1
+2021,Point-To-Point Transport Services,Per Cent,4.6
+2022,Point-To-Point Transport Services,Per Cent,14.2
+2023,Point-To-Point Transport Services,Per Cent,3.3
+2024,Point-To-Point Transport Services,Per Cent,7.2
+2025,Point-To-Point Transport Services,Per Cent,4.3
+2016,Commuting Fares,Per Cent,3.8
+2017,Commuting Fares,Per Cent,2.6
+2018,Commuting Fares,Per Cent,1.3
+2019,Commuting Fares,Per Cent,0.5
+2020,Commuting Fares,Per Cent,-0.2
+2021,Commuting Fares,Per Cent,-0.5
+2022,Commuting Fares,Per Cent,1.2
+2023,Commuting Fares,Per Cent,4.8
+2024,Commuting Fares,Per Cent,5.8
+2025,Commuting Fares,Per Cent,4.1
+2025,Other Land Transport Services,Per Cent,-1
+2006,Other Transport Services,Per Cent,-0.8
+2007,Other Transport Services,Per Cent,2.6
+2008,Other Transport Services,Per Cent,11.3
+2009,Other Transport Services,Per Cent,-11.3
+2010,Other Transport Services,Per Cent,3.9
+2011,Other Transport Services,Per Cent,4.6
+2012,Other Transport Services,Per Cent,0.5
+2013,Other Transport Services,Per Cent,1.8
+2014,Other Transport Services,Per Cent,0.9
+2015,Other Transport Services,Per Cent,-3.1
+2016,Other Transport Services,Per Cent,-2.3
+2017,Other Transport Services,Per Cent,0
+2018,Other Transport Services,Per Cent,1.5
+2019,Other Transport Services,Per Cent,0.7
+2020,Other Transport Services,Per Cent,-3.1
+2021,Other Transport Services,Per Cent,4.1
+2022,Other Transport Services,Per Cent,12.8
+2023,Other Transport Services,Per Cent,-2.9
+2024,Other Transport Services,Per Cent,-2.9
+2025,Other Transport Services,Per Cent,-2.2
+2016,Airfares,Per Cent,-2.4
+2017,Airfares,Per Cent,-0.1
+2018,Airfares,Per Cent,1.5
+2019,Airfares,Per Cent,0.7
+2020,Airfares,Per Cent,-3.4
+2021,Airfares,Per Cent,4.1
+2022,Airfares,Per Cent,11.8
+2023,Airfares,Per Cent,-2.7
+2024,Airfares,Per Cent,-2.9
+2025,Airfares,Per Cent,-2.2
+2016,Seafares,Per Cent,0.9
+2017,Seafares,Per Cent,3.4
+2018,Seafares,Per Cent,-1.1
+2019,Seafares,Per Cent,0
+2020,Seafares,Per Cent,0.4
+2021,Seafares,Per Cent,-0.4
+2022,Seafares,Per Cent,79.8
+2023,Seafares,Per Cent,-13.7
+2024,Seafares,Per Cent,1.3
+2025,Seafares,Per Cent,-0.5
+2025,Travel Insurance,Per Cent,-3.6
+2006,Transport Services Of Goods,Per Cent,1.3
+2007,Transport Services Of Goods,Per Cent,11.4
+2008,Transport Services Of Goods,Per Cent,2.5
+2009,Transport Services Of Goods,Per Cent,-4.6
+2010,Transport Services Of Goods,Per Cent,-0.1
+2011,Transport Services Of Goods,Per Cent,3.5
+2012,Transport Services Of Goods,Per Cent,11.7
+2013,Transport Services Of Goods,Per Cent,6.5
+2014,Transport Services Of Goods,Per Cent,2.6
+2015,Transport Services Of Goods,Per Cent,3.4
+2016,Transport Services Of Goods,Per Cent,0.7
+2017,Transport Services Of Goods,Per Cent,0
+2018,Transport Services Of Goods,Per Cent,2.7
+2019,Transport Services Of Goods,Per Cent,1.5
+2020,Transport Services Of Goods,Per Cent,1
+2021,Transport Services Of Goods,Per Cent,-4.4
+2022,Transport Services Of Goods,Per Cent,2.3
+2023,Transport Services Of Goods,Per Cent,4.3
+2024,Transport Services Of Goods,Per Cent,6.7
+2025,Transport Services Of Goods,Per Cent,-0.7
+1962,Information & Communication,Per Cent,0
+1963,Information & Communication,Per Cent,0
+1964,Information & Communication,Per Cent,0
+1965,Information & Communication,Per Cent,0
+1966,Information & Communication,Per Cent,0
+1967,Information & Communication,Per Cent,0
+1968,Information & Communication,Per Cent,0
+1969,Information & Communication,Per Cent,0
+1970,Information & Communication,Per Cent,0
+1971,Information & Communication,Per Cent,0
+1972,Information & Communication,Per Cent,0
+1973,Information & Communication,Per Cent,2
+1974,Information & Communication,Per Cent,4.3
+1975,Information & Communication,Per Cent,1.4
+1976,Information & Communication,Per Cent,0.3
+1977,Information & Communication,Per Cent,-0.1
+1978,Information & Communication,Per Cent,1.6
+1979,Information & Communication,Per Cent,0.3
+1980,Information & Communication,Per Cent,-0.9
+1981,Information & Communication,Per Cent,-1.6
+1982,Information & Communication,Per Cent,-5.6
+1983,Information & Communication,Per Cent,-3.4
+1984,Information & Communication,Per Cent,2.1
+1985,Information & Communication,Per Cent,-6.8
+1986,Information & Communication,Per Cent,-3.1
+1987,Information & Communication,Per Cent,0.4
+1988,Information & Communication,Per Cent,0.1
+1989,Information & Communication,Per Cent,1.5
+1990,Information & Communication,Per Cent,-0.5
+1991,Information & Communication,Per Cent,3.3
+1992,Information & Communication,Per Cent,-1.1
+1993,Information & Communication,Per Cent,-0.5
+1994,Information & Communication,Per Cent,1
+1995,Information & Communication,Per Cent,-3.6
+1996,Information & Communication,Per Cent,-2.5
+1997,Information & Communication,Per Cent,-2
+1998,Information & Communication,Per Cent,-2.9
+1999,Information & Communication,Per Cent,-3.1
+2000,Information & Communication,Per Cent,-3.3
+2001,Information & Communication,Per Cent,-2.9
+2002,Information & Communication,Per Cent,-1.2
+2003,Information & Communication,Per Cent,0.2
+2004,Information & Communication,Per Cent,-0.6
+2005,Information & Communication,Per Cent,-1.2
+2006,Information & Communication,Per Cent,-2
+2007,Information & Communication,Per Cent,-0.3
+2008,Information & Communication,Per Cent,-0.3
+2009,Information & Communication,Per Cent,-0.7
+2010,Information & Communication,Per Cent,-2.5
+2011,Information & Communication,Per Cent,-6.8
+2012,Information & Communication,Per Cent,-0.4
+2013,Information & Communication,Per Cent,-0.5
+2014,Information & Communication,Per Cent,0.3
+2015,Information & Communication,Per Cent,0.3
+2016,Information & Communication,Per Cent,-0.4
+2017,Information & Communication,Per Cent,0.2
+2018,Information & Communication,Per Cent,-0.8
+2019,Information & Communication,Per Cent,-1.4
+2020,Information & Communication,Per Cent,0.3
+2021,Information & Communication,Per Cent,-0.7
+2022,Information & Communication,Per Cent,-0.8
+2023,Information & Communication,Per Cent,2.7
+2024,Information & Communication,Per Cent,0.8
+2025,Information & Communication,Per Cent,-1.9
+2006,Information & Communication Equipment,Per Cent,-8.9
+2007,Information & Communication Equipment,Per Cent,-7.7
+2008,Information & Communication Equipment,Per Cent,-6.9
+2009,Information & Communication Equipment,Per Cent,-5.3
+2010,Information & Communication Equipment,Per Cent,-4
+2011,Information & Communication Equipment,Per Cent,-4.5
+2012,Information & Communication Equipment,Per Cent,-4.1
+2013,Information & Communication Equipment,Per Cent,-2.1
+2014,Information & Communication Equipment,Per Cent,-0.2
+2015,Information & Communication Equipment,Per Cent,-0.9
+2016,Information & Communication Equipment,Per Cent,-0.9
+2017,Information & Communication Equipment,Per Cent,-1.6
+2018,Information & Communication Equipment,Per Cent,-2.1
+2019,Information & Communication Equipment,Per Cent,-6.5
+2020,Information & Communication Equipment,Per Cent,-2.9
+2021,Information & Communication Equipment,Per Cent,-2
+2022,Information & Communication Equipment,Per Cent,2.3
+2023,Information & Communication Equipment,Per Cent,-0.5
+2024,Information & Communication Equipment,Per Cent,0.4
+2025,Information & Communication Equipment,Per Cent,-2.8
+2025,Mobile Telephone Equipment,Per Cent,-9.3
+2016,Information Processing Equipment,Per Cent,-0.9
+2017,Information Processing Equipment,Per Cent,-0.7
+2018,Information Processing Equipment,Per Cent,-0.1
+2019,Information Processing Equipment,Per Cent,-0.7
+2020,Information Processing Equipment,Per Cent,-1.3
+2021,Information Processing Equipment,Per Cent,-2.8
+2022,Information Processing Equipment,Per Cent,-1.4
+2023,Information Processing Equipment,Per Cent,-0.8
+2024,Information Processing Equipment,Per Cent,3.4
+2025,Information Processing Equipment,Per Cent,0.5
+2025,"Equipment For The Reception, Recording & Reproduction Of Sound & Vision",Per Cent,1.9
+2016,Unrecorded Recording Media,Per Cent,-1.1
+2017,Unrecorded Recording Media,Per Cent,1.3
+2018,Unrecorded Recording Media,Per Cent,-2.9
+2019,Unrecorded Recording Media,Per Cent,-22
+2020,Unrecorded Recording Media,Per Cent,5.6
+2021,Unrecorded Recording Media,Per Cent,-11.1
+2022,Unrecorded Recording Media,Per Cent,2.9
+2023,Unrecorded Recording Media,Per Cent,-1.7
+2024,Unrecorded Recording Media,Per Cent,17.4
+2025,Unrecorded Recording Media,Per Cent,0
+2025,Information & Communication Equipment & Accessories Nec,Per Cent,-2.7
+2006,Software Excl Games,Per Cent,-7
+2007,Software Excl Games,Per Cent,-2.5
+2008,Software Excl Games,Per Cent,-0.7
+2009,Software Excl Games,Per Cent,0.4
+2010,Software Excl Games,Per Cent,-6.6
+2011,Software Excl Games,Per Cent,-2.4
+2012,Software Excl Games,Per Cent,0
+2013,Software Excl Games,Per Cent,0
+2014,Software Excl Games,Per Cent,0
+2015,Software Excl Games,Per Cent,0
+2016,Software Excl Games,Per Cent,0
+2017,Software Excl Games,Per Cent,0
+2018,Software Excl Games,Per Cent,0.2
+2019,Software Excl Games,Per Cent,1.8
+2020,Software Excl Games,Per Cent,0
+2021,Software Excl Games,Per Cent,0
+2022,Software Excl Games,Per Cent,0
+2023,Software Excl Games,Per Cent,0
+2024,Software Excl Games,Per Cent,-2.9
+2025,Software Excl Games,Per Cent,0
+2006,Information & Communication Services,Per Cent,-0.2
+2007,Information & Communication Services,Per Cent,1.4
+2008,Information & Communication Services,Per Cent,1
+2009,Information & Communication Services,Per Cent,0.3
+2010,Information & Communication Services,Per Cent,-2.2
+2011,Information & Communication Services,Per Cent,-7.2
+2012,Information & Communication Services,Per Cent,0.3
+2013,Information & Communication Services,Per Cent,-0.2
+2014,Information & Communication Services,Per Cent,0.4
+2015,Information & Communication Services,Per Cent,0.5
+2016,Information & Communication Services,Per Cent,-0.3
+2017,Information & Communication Services,Per Cent,0.5
+2018,Information & Communication Services,Per Cent,-0.6
+2019,Information & Communication Services,Per Cent,-0.5
+2020,Information & Communication Services,Per Cent,0.9
+2021,Information & Communication Services,Per Cent,-0.4
+2022,Information & Communication Services,Per Cent,-1.4
+2023,Information & Communication Services,Per Cent,3.3
+2024,Information & Communication Services,Per Cent,0.8
+2025,Information & Communication Services,Per Cent,-1.6
+2025,Fixed Communication Services,Per Cent,0
+2025,Mobile Communication Services,Per Cent,-0.2
+2025,"Internet, Bundled & Other Telecommunication Services",Per Cent,-3
+2016,Information & Communication Services Nec,Per Cent,2.7
+2017,Information & Communication Services Nec,Per Cent,-1.2
+2018,Information & Communication Services Nec,Per Cent,1.1
+2019,Information & Communication Services Nec,Per Cent,-1
+2020,Information & Communication Services Nec,Per Cent,2.4
+2021,Information & Communication Services Nec,Per Cent,-3.4
+2022,Information & Communication Services Nec,Per Cent,2.1
+2023,Information & Communication Services Nec,Per Cent,3.6
+2024,Information & Communication Services Nec,Per Cent,1.6
+2025,Information & Communication Services Nec,Per Cent,1.5
+1962,"Recreation, Sport & Culture",Per Cent,0
+1963,"Recreation, Sport & Culture",Per Cent,-0.1
+1964,"Recreation, Sport & Culture",Per Cent,0.1
+1965,"Recreation, Sport & Culture",Per Cent,0
+1966,"Recreation, Sport & Culture",Per Cent,0
+1967,"Recreation, Sport & Culture",Per Cent,0
+1968,"Recreation, Sport & Culture",Per Cent,0
+1969,"Recreation, Sport & Culture",Per Cent,0
+1970,"Recreation, Sport & Culture",Per Cent,0
+1971,"Recreation, Sport & Culture",Per Cent,3.1
+1972,"Recreation, Sport & Culture",Per Cent,0.5
+1973,"Recreation, Sport & Culture",Per Cent,1.3
+1974,"Recreation, Sport & Culture",Per Cent,9.2
+1975,"Recreation, Sport & Culture",Per Cent,0.5
+1976,"Recreation, Sport & Culture",Per Cent,0.1
+1977,"Recreation, Sport & Culture",Per Cent,0
+1978,"Recreation, Sport & Culture",Per Cent,10.6
+1979,"Recreation, Sport & Culture",Per Cent,7.1
+1980,"Recreation, Sport & Culture",Per Cent,4.9
+1981,"Recreation, Sport & Culture",Per Cent,13.4
+1982,"Recreation, Sport & Culture",Per Cent,4.8
+1983,"Recreation, Sport & Culture",Per Cent,2.3
+1984,"Recreation, Sport & Culture",Per Cent,-0.1
+1985,"Recreation, Sport & Culture",Per Cent,1.1
+1986,"Recreation, Sport & Culture",Per Cent,2.2
+1987,"Recreation, Sport & Culture",Per Cent,1.4
+1988,"Recreation, Sport & Culture",Per Cent,3.9
+1989,"Recreation, Sport & Culture",Per Cent,3.5
+1990,"Recreation, Sport & Culture",Per Cent,2.9
+1991,"Recreation, Sport & Culture",Per Cent,3.5
+1992,"Recreation, Sport & Culture",Per Cent,3.4
+1993,"Recreation, Sport & Culture",Per Cent,2.3
+1994,"Recreation, Sport & Culture",Per Cent,1.1
+1995,"Recreation, Sport & Culture",Per Cent,2.5
+1996,"Recreation, Sport & Culture",Per Cent,2.6
+1997,"Recreation, Sport & Culture",Per Cent,-0.8
+1998,"Recreation, Sport & Culture",Per Cent,-4.1
+1999,"Recreation, Sport & Culture",Per Cent,0.5
+2000,"Recreation, Sport & Culture",Per Cent,2
+2001,"Recreation, Sport & Culture",Per Cent,4.1
+2002,"Recreation, Sport & Culture",Per Cent,0.8
+2003,"Recreation, Sport & Culture",Per Cent,-1.6
+2004,"Recreation, Sport & Culture",Per Cent,2.1
+2005,"Recreation, Sport & Culture",Per Cent,1.8
+2006,"Recreation, Sport & Culture",Per Cent,0.2
+2007,"Recreation, Sport & Culture",Per Cent,4.5
+2008,"Recreation, Sport & Culture",Per Cent,4.9
+2009,"Recreation, Sport & Culture",Per Cent,-1
+2010,"Recreation, Sport & Culture",Per Cent,2.1
+2011,"Recreation, Sport & Culture",Per Cent,3.1
+2012,"Recreation, Sport & Culture",Per Cent,1.4
+2013,"Recreation, Sport & Culture",Per Cent,0.9
+2014,"Recreation, Sport & Culture",Per Cent,1.7
+2015,"Recreation, Sport & Culture",Per Cent,0.3
+2016,"Recreation, Sport & Culture",Per Cent,1
+2017,"Recreation, Sport & Culture",Per Cent,0.5
+2018,"Recreation, Sport & Culture",Per Cent,1.4
+2019,"Recreation, Sport & Culture",Per Cent,1.6
+2020,"Recreation, Sport & Culture",Per Cent,-1.8
+2021,"Recreation, Sport & Culture",Per Cent,1.3
+2022,"Recreation, Sport & Culture",Per Cent,4.6
+2023,"Recreation, Sport & Culture",Per Cent,6.7
+2024,"Recreation, Sport & Culture",Per Cent,3.8
+2025,"Recreation, Sport & Culture",Per Cent,-1.1
+2006,Recreation & Cultural Goods,Per Cent,0.4
+2007,Recreation & Cultural Goods,Per Cent,0
+2008,Recreation & Cultural Goods,Per Cent,-1.5
+2009,Recreation & Cultural Goods,Per Cent,-0.7
+2010,Recreation & Cultural Goods,Per Cent,-0.3
+2011,Recreation & Cultural Goods,Per Cent,-3.4
+2012,Recreation & Cultural Goods,Per Cent,-2.6
+2013,Recreation & Cultural Goods,Per Cent,-2
+2014,Recreation & Cultural Goods,Per Cent,2.5
+2015,Recreation & Cultural Goods,Per Cent,-1.1
+2016,Recreation & Cultural Goods,Per Cent,2
+2017,Recreation & Cultural Goods,Per Cent,-2.9
+2018,Recreation & Cultural Goods,Per Cent,0.2
+2019,Recreation & Cultural Goods,Per Cent,-1.4
+2020,Recreation & Cultural Goods,Per Cent,0.2
+2021,Recreation & Cultural Goods,Per Cent,0.8
+2022,Recreation & Cultural Goods,Per Cent,1.9
+2023,Recreation & Cultural Goods,Per Cent,1.1
+2024,Recreation & Cultural Goods,Per Cent,-0.1
+2025,Recreation & Cultural Goods,Per Cent,-1
+2006,Other Recreational Goods,Per Cent,-0.5
+2007,Other Recreational Goods,Per Cent,1.4
+2008,Other Recreational Goods,Per Cent,0.8
+2009,Other Recreational Goods,Per Cent,-1.3
+2010,Other Recreational Goods,Per Cent,-2.4
+2011,Other Recreational Goods,Per Cent,-0.3
+2012,Other Recreational Goods,Per Cent,-0.7
+2013,Other Recreational Goods,Per Cent,0.1
+2014,Other Recreational Goods,Per Cent,-0.2
+2015,Other Recreational Goods,Per Cent,0.4
+2016,Other Recreational Goods,Per Cent,-0.8
+2017,Other Recreational Goods,Per Cent,-0.1
+2018,Other Recreational Goods,Per Cent,-1.6
+2019,Other Recreational Goods,Per Cent,1.5
+2020,Other Recreational Goods,Per Cent,0.2
+2021,Other Recreational Goods,Per Cent,-1.5
+2022,Other Recreational Goods,Per Cent,0.9
+2023,Other Recreational Goods,Per Cent,0.4
+2024,Other Recreational Goods,Per Cent,-1.5
+2025,Other Recreational Goods,Per Cent,-0.7
+2016,"Games, Toys & Hobbies",Per Cent,-1
+2017,"Games, Toys & Hobbies",Per Cent,-0.1
+2018,"Games, Toys & Hobbies",Per Cent,-2.1
+2019,"Games, Toys & Hobbies",Per Cent,2.3
+2020,"Games, Toys & Hobbies",Per Cent,1
+2021,"Games, Toys & Hobbies",Per Cent,-1.9
+2022,"Games, Toys & Hobbies",Per Cent,0
+2023,"Games, Toys & Hobbies",Per Cent,0.7
+2024,"Games, Toys & Hobbies",Per Cent,-1.4
+2025,"Games, Toys & Hobbies",Per Cent,-1.7
+2025,"Equipment For Sport, Camping & Open-Air Recreation",Per Cent,2
+2006,Garden Products & Pets,Per Cent,3
+2007,Garden Products & Pets,Per Cent,1.7
+2008,Garden Products & Pets,Per Cent,4.4
+2009,Garden Products & Pets,Per Cent,0.7
+2010,Garden Products & Pets,Per Cent,-0.1
+2011,Garden Products & Pets,Per Cent,1.6
+2012,Garden Products & Pets,Per Cent,1.6
+2013,Garden Products & Pets,Per Cent,1.2
+2014,Garden Products & Pets,Per Cent,1.7
+2015,Garden Products & Pets,Per Cent,0.9
+2016,Garden Products & Pets,Per Cent,0.4
+2017,Garden Products & Pets,Per Cent,1.3
+2018,Garden Products & Pets,Per Cent,1.4
+2019,Garden Products & Pets,Per Cent,0.8
+2020,Garden Products & Pets,Per Cent,1.1
+2021,Garden Products & Pets,Per Cent,1.2
+2022,Garden Products & Pets,Per Cent,4.1
+2023,Garden Products & Pets,Per Cent,7.2
+2024,Garden Products & Pets,Per Cent,1.1
+2025,Garden Products & Pets,Per Cent,0.9
+2025,"Garden Products, Plants & Flowers",Per Cent,1.3
+2016,Pets & Products For Pets,Per Cent,-0.2
+2017,Pets & Products For Pets,Per Cent,1.9
+2018,Pets & Products For Pets,Per Cent,1.4
+2019,Pets & Products For Pets,Per Cent,0.2
+2020,Pets & Products For Pets,Per Cent,0.3
+2021,Pets & Products For Pets,Per Cent,0.3
+2022,Pets & Products For Pets,Per Cent,3.2
+2023,Pets & Products For Pets,Per Cent,8.4
+2024,Pets & Products For Pets,Per Cent,-0.6
+2025,Pets & Products For Pets,Per Cent,0.7
+2006,Recreational Services,Per Cent,1.3
+2007,Recreational Services,Per Cent,1.5
+2008,Recreational Services,Per Cent,3.2
+2009,Recreational Services,Per Cent,1.1
+2010,Recreational Services,Per Cent,0.5
+2011,Recreational Services,Per Cent,2
+2012,Recreational Services,Per Cent,3.3
+2013,Recreational Services,Per Cent,3
+2014,Recreational Services,Per Cent,0.7
+2015,Recreational Services,Per Cent,0.6
+2016,Recreational Services,Per Cent,2
+2017,Recreational Services,Per Cent,1.5
+2018,Recreational Services,Per Cent,0.4
+2019,Recreational Services,Per Cent,1.8
+2020,Recreational Services,Per Cent,-0.3
+2021,Recreational Services,Per Cent,2.1
+2022,Recreational Services,Per Cent,4.7
+2023,Recreational Services,Per Cent,5.1
+2024,Recreational Services,Per Cent,8.1
+2025,Recreational Services,Per Cent,1.1
+2025,Other Recreational Services,Per Cent,8.5
+2025,Veterinary & Other Services For Pets,Per Cent,3.2
+2016,Recreational & Sporting Services,Per Cent,2
+2017,Recreational & Sporting Services,Per Cent,1.6
+2018,Recreational & Sporting Services,Per Cent,0.3
+2019,Recreational & Sporting Services,Per Cent,1.8
+2020,Recreational & Sporting Services,Per Cent,-0.8
+2021,Recreational & Sporting Services,Per Cent,2
+2022,Recreational & Sporting Services,Per Cent,4.7
+2023,Recreational & Sporting Services,Per Cent,4.9
+2024,Recreational & Sporting Services,Per Cent,8.3
+2025,Recreational & Sporting Services,Per Cent,0.7
+2006,Cultural Services,Per Cent,2
+2007,Cultural Services,Per Cent,-0.1
+2008,Cultural Services,Per Cent,3.7
+2009,Cultural Services,Per Cent,0.8
+2010,Cultural Services,Per Cent,1.4
+2011,Cultural Services,Per Cent,4.6
+2012,Cultural Services,Per Cent,4
+2013,Cultural Services,Per Cent,1.9
+2014,Cultural Services,Per Cent,3.2
+2015,Cultural Services,Per Cent,-0.2
+2016,Cultural Services,Per Cent,-1.5
+2017,Cultural Services,Per Cent,0.4
+2018,Cultural Services,Per Cent,1.8
+2019,Cultural Services,Per Cent,1.6
+2020,Cultural Services,Per Cent,-0.2
+2021,Cultural Services,Per Cent,1.2
+2022,Cultural Services,Per Cent,4.2
+2023,Cultural Services,Per Cent,5.1
+2024,Cultural Services,Per Cent,2.5
+2025,Cultural Services,Per Cent,1.3
+2025,"Services Provided By Cinemas, Theatres & Concert Venues",Per Cent,2.4
+2025,Services Provided By Museums & Cultural Sites,Per Cent,3.1
+2025,Photographic Services,Per Cent,-1.9
+2025,Cultural Services Nec,Per Cent,1
+2006,"Newspapers, Books & Stationery",Per Cent,0.9
+2007,"Newspapers, Books & Stationery",Per Cent,0.7
+2008,"Newspapers, Books & Stationery",Per Cent,2.8
+2009,"Newspapers, Books & Stationery",Per Cent,4.1
+2010,"Newspapers, Books & Stationery",Per Cent,0.5
+2011,"Newspapers, Books & Stationery",Per Cent,0.3
+2012,"Newspapers, Books & Stationery",Per Cent,0.3
+2013,"Newspapers, Books & Stationery",Per Cent,0.2
+2014,"Newspapers, Books & Stationery",Per Cent,0.3
+2015,"Newspapers, Books & Stationery",Per Cent,1.6
+2016,"Newspapers, Books & Stationery",Per Cent,5.5
+2017,"Newspapers, Books & Stationery",Per Cent,1
+2018,"Newspapers, Books & Stationery",Per Cent,0
+2019,"Newspapers, Books & Stationery",Per Cent,0.2
+2020,"Newspapers, Books & Stationery",Per Cent,0.5
+2021,"Newspapers, Books & Stationery",Per Cent,0.3
+2022,"Newspapers, Books & Stationery",Per Cent,0.9
+2023,"Newspapers, Books & Stationery",Per Cent,1.4
+2024,"Newspapers, Books & Stationery",Per Cent,0.7
+2025,"Newspapers, Books & Stationery",Per Cent,0.5
+2025,"Books, Excl School Textbooks & Study Guides",Per Cent,0.6
+2016,Newspapers & Others,Per Cent,11.3
+2017,Newspapers & Others,Per Cent,1.6
+2018,Newspapers & Others,Per Cent,-0.2
+2019,Newspapers & Others,Per Cent,0.1
+2020,Newspapers & Others,Per Cent,0
+2021,Newspapers & Others,Per Cent,0
+2022,Newspapers & Others,Per Cent,0.3
+2023,Newspapers & Others,Per Cent,0.9
+2024,Newspapers & Others,Per Cent,0
+2025,Newspapers & Others,Per Cent,-0.1
+2025,Stationery & Drawing Materials,Per Cent,0.9
+2006,Holiday Expenses,Per Cent,-0.6
+2007,Holiday Expenses,Per Cent,7.8
+2008,Holiday Expenses,Per Cent,6.9
+2009,Holiday Expenses,Per Cent,-2.8
+2010,Holiday Expenses,Per Cent,3.5
+2011,Holiday Expenses,Per Cent,4.2
+2012,Holiday Expenses,Per Cent,1.1
+2013,Holiday Expenses,Per Cent,0.5
+2014,Holiday Expenses,Per Cent,2
+2015,Holiday Expenses,Per Cent,0.2
+2016,Holiday Expenses,Per Cent,1.2
+2017,Holiday Expenses,Per Cent,0.4
+2018,Holiday Expenses,Per Cent,2
+2019,Holiday Expenses,Per Cent,2
+2020,Holiday Expenses,Per Cent,-3
+2021,Holiday Expenses,Per Cent,1.4
+2022,Holiday Expenses,Per Cent,5.3
+2023,Holiday Expenses,Per Cent,8.3
+2024,Holiday Expenses,Per Cent,3.9
+2025,Holiday Expenses,Per Cent,-2.8
+2025,Hotels,Per Cent,-0.9
+2025,Chalets,Per Cent,2.9
+2016,Package Holidays,Per Cent,0.7
+2017,Package Holidays,Per Cent,-0.4
+2018,Package Holidays,Per Cent,1.7
+2019,Package Holidays,Per Cent,2.4
+2020,Package Holidays,Per Cent,-1.3
+2021,Package Holidays,Per Cent,1.3
+2022,Package Holidays,Per Cent,7.1
+2023,Package Holidays,Per Cent,6.9
+2024,Package Holidays,Per Cent,3.8
+2025,Package Holidays,Per Cent,-3.8
+1962,Education,Per Cent,0.4
+1963,Education,Per Cent,3.2
+1964,Education,Per Cent,1.1
+1965,Education,Per Cent,-2.3
+1966,Education,Per Cent,3.2
+1967,Education,Per Cent,-1.8
+1968,Education,Per Cent,-1.6
+1969,Education,Per Cent,2.1
+1970,Education,Per Cent,2.1
+1971,Education,Per Cent,-1.2
+1972,Education,Per Cent,0.4
+1973,Education,Per Cent,2.9
+1974,Education,Per Cent,4.7
+1975,Education,Per Cent,2.1
+1976,Education,Per Cent,0.9
+1977,Education,Per Cent,1.9
+1978,Education,Per Cent,5.3
+1979,Education,Per Cent,4.4
+1980,Education,Per Cent,8.4
+1981,Education,Per Cent,6.5
+1982,Education,Per Cent,1.8
+1983,Education,Per Cent,3.1
+1984,Education,Per Cent,5.3
+1985,Education,Per Cent,3.2
+1986,Education,Per Cent,6.9
+1987,Education,Per Cent,2.9
+1988,Education,Per Cent,6.8
+1989,Education,Per Cent,5.3
+1990,Education,Per Cent,8.1
+1991,Education,Per Cent,10.7
+1992,Education,Per Cent,6.4
+1993,Education,Per Cent,4.2
+1994,Education,Per Cent,3.2
+1995,Education,Per Cent,4
+1996,Education,Per Cent,4.5
+1997,Education,Per Cent,2.8
+1998,Education,Per Cent,4.9
+1999,Education,Per Cent,4.2
+2000,Education,Per Cent,2.6
+2001,Education,Per Cent,3.9
+2002,Education,Per Cent,2.3
+2003,Education,Per Cent,3.3
+2004,Education,Per Cent,3.6
+2005,Education,Per Cent,3.2
+2006,Education,Per Cent,3.1
+2007,Education,Per Cent,2.7
+2008,Education,Per Cent,4.7
+2009,Education,Per Cent,0.8
+2010,Education,Per Cent,3.3
+2011,Education,Per Cent,3.6
+2012,Education,Per Cent,4
+2013,Education,Per Cent,3.9
+2014,Education,Per Cent,3.4
+2015,Education,Per Cent,3.4
+2016,Education,Per Cent,3.1
+2017,Education,Per Cent,3
+2018,Education,Per Cent,2.8
+2019,Education,Per Cent,2.3
+2020,Education,Per Cent,-0.6
+2021,Education,Per Cent,1.3
+2022,Education,Per Cent,2.1
+2023,Education,Per Cent,2.7
+2024,Education,Per Cent,3.2
+2025,Education,Per Cent,0.7
+2006,"General, Vocational & Higher Education",Per Cent,3.1
+2007,"General, Vocational & Higher Education",Per Cent,3.5
+2008,"General, Vocational & Higher Education",Per Cent,3.3
+2009,"General, Vocational & Higher Education",Per Cent,-0.4
+2010,"General, Vocational & Higher Education",Per Cent,3.2
+2011,"General, Vocational & Higher Education",Per Cent,3.4
+2012,"General, Vocational & Higher Education",Per Cent,4.8
+2013,"General, Vocational & Higher Education",Per Cent,4.7
+2014,"General, Vocational & Higher Education",Per Cent,3.8
+2015,"General, Vocational & Higher Education",Per Cent,2.3
+2016,"General, Vocational & Higher Education",Per Cent,2.2
+2017,"General, Vocational & Higher Education",Per Cent,2.8
+2018,"General, Vocational & Higher Education",Per Cent,3.2
+2019,"General, Vocational & Higher Education",Per Cent,1.9
+2020,"General, Vocational & Higher Education",Per Cent,-2
+2021,"General, Vocational & Higher Education",Per Cent,0.8
+2022,"General, Vocational & Higher Education",Per Cent,1.7
+2023,"General, Vocational & Higher Education",Per Cent,1
+2024,"General, Vocational & Higher Education",Per Cent,2
+2025,"General, Vocational & Higher Education",Per Cent,0.1
+2016,Primary Education,Per Cent,-1
+2017,Primary Education,Per Cent,0
+2018,Primary Education,Per Cent,0
+2019,Primary Education,Per Cent,0
+2020,Primary Education,Per Cent,0
+2021,Primary Education,Per Cent,0
+2022,Primary Education,Per Cent,0
+2023,Primary Education,Per Cent,-0.7
+2024,Primary Education,Per Cent,0.1
+2025,Primary Education,Per Cent,0
+2016,Secondary Education,Per Cent,-0.6
+2017,Secondary Education,Per Cent,2.3
+2018,Secondary Education,Per Cent,-0.3
+2019,Secondary Education,Per Cent,-0.2
+2020,Secondary Education,Per Cent,0.4
+2021,Secondary Education,Per Cent,0
+2022,Secondary Education,Per Cent,0
+2023,Secondary Education,Per Cent,-1.1
+2024,Secondary Education,Per Cent,0
+2025,Secondary Education,Per Cent,0.6
+2016,Post-Secondary (Non-Tertiary) Education,Per Cent,-0.8
+2017,Post-Secondary (Non-Tertiary) Education,Per Cent,2.3
+2018,Post-Secondary (Non-Tertiary) Education,Per Cent,0.2
+2019,Post-Secondary (Non-Tertiary) Education,Per Cent,0
+2020,Post-Secondary (Non-Tertiary) Education,Per Cent,-0.8
+2021,Post-Secondary (Non-Tertiary) Education,Per Cent,0.2
+2022,Post-Secondary (Non-Tertiary) Education,Per Cent,6.8
+2023,Post-Secondary (Non-Tertiary) Education,Per Cent,2.5
+2024,Post-Secondary (Non-Tertiary) Education,Per Cent,0.2
+2025,Post-Secondary (Non-Tertiary) Education,Per Cent,0.5
+2016,Polytechnic Education,Per Cent,3.4
+2017,Polytechnic Education,Per Cent,4
+2018,Polytechnic Education,Per Cent,3.8
+2019,Polytechnic Education,Per Cent,3.7
+2020,Polytechnic Education,Per Cent,2.7
+2021,Polytechnic Education,Per Cent,1.3
+2022,Polytechnic Education,Per Cent,1.1
+2023,Polytechnic Education,Per Cent,1.1
+2024,Polytechnic Education,Per Cent,1.3
+2025,Polytechnic Education,Per Cent,3.1
+2016,Other Education,Per Cent,2.7
+2017,Other Education,Per Cent,3
+2018,Other Education,Per Cent,3.8
+2019,Other Education,Per Cent,2.2
+2020,Other Education,Per Cent,-2.9
+2021,Other Education,Per Cent,0.9
+2022,Other Education,Per Cent,1.7
+2023,Other Education,Per Cent,1.3
+2024,Other Education,Per Cent,2.6
+2025,Other Education,Per Cent,-0.2
+2006,Private Tuition & Other Educational Courses,Per Cent,3.1
+2007,Private Tuition & Other Educational Courses,Per Cent,0.9
+2008,Private Tuition & Other Educational Courses,Per Cent,7.8
+2009,Private Tuition & Other Educational Courses,Per Cent,3
+2010,Private Tuition & Other Educational Courses,Per Cent,3.8
+2011,Private Tuition & Other Educational Courses,Per Cent,3.8
+2012,Private Tuition & Other Educational Courses,Per Cent,3
+2013,Private Tuition & Other Educational Courses,Per Cent,2.8
+2014,Private Tuition & Other Educational Courses,Per Cent,2.7
+2015,Private Tuition & Other Educational Courses,Per Cent,5.6
+2016,Private Tuition & Other Educational Courses,Per Cent,4.9
+2017,Private Tuition & Other Educational Courses,Per Cent,3.4
+2018,Private Tuition & Other Educational Courses,Per Cent,2.3
+2019,Private Tuition & Other Educational Courses,Per Cent,3.2
+2020,Private Tuition & Other Educational Courses,Per Cent,2.8
+2021,Private Tuition & Other Educational Courses,Per Cent,2.5
+2022,Private Tuition & Other Educational Courses,Per Cent,3.1
+2023,Private Tuition & Other Educational Courses,Per Cent,6.5
+2024,Private Tuition & Other Educational Courses,Per Cent,5.7
+2025,Private Tuition & Other Educational Courses,Per Cent,1.9
+2006,School Textbooks & Study Guides,Per Cent,3.5
+2007,School Textbooks & Study Guides,Per Cent,4.6
+2008,School Textbooks & Study Guides,Per Cent,4.1
+2009,School Textbooks & Study Guides,Per Cent,1.8
+2010,School Textbooks & Study Guides,Per Cent,1.9
+2011,School Textbooks & Study Guides,Per Cent,4.5
+2012,School Textbooks & Study Guides,Per Cent,1.1
+2013,School Textbooks & Study Guides,Per Cent,0.5
+2014,School Textbooks & Study Guides,Per Cent,1.8
+2015,School Textbooks & Study Guides,Per Cent,0.5
+2016,School Textbooks & Study Guides,Per Cent,0.8
+2017,School Textbooks & Study Guides,Per Cent,0.5
+2018,School Textbooks & Study Guides,Per Cent,0
+2019,School Textbooks & Study Guides,Per Cent,-0.4
+2020,School Textbooks & Study Guides,Per Cent,0.4
+2021,School Textbooks & Study Guides,Per Cent,-0.1
+2022,School Textbooks & Study Guides,Per Cent,0.4
+2023,School Textbooks & Study Guides,Per Cent,2.1
+2024,School Textbooks & Study Guides,Per Cent,1.6
+2025,School Textbooks & Study Guides,Per Cent,0.7
+1962,Miscellaneous Goods & Services,Per Cent,0
+1963,Miscellaneous Goods & Services,Per Cent,0
+1964,Miscellaneous Goods & Services,Per Cent,-1.3
+1965,Miscellaneous Goods & Services,Per Cent,1.7
+1966,Miscellaneous Goods & Services,Per Cent,1.5
+1967,Miscellaneous Goods & Services,Per Cent,0.5
+1968,Miscellaneous Goods & Services,Per Cent,3.6
+1969,Miscellaneous Goods & Services,Per Cent,3.5
+1970,Miscellaneous Goods & Services,Per Cent,3.8
+1971,Miscellaneous Goods & Services,Per Cent,0.6
+1972,Miscellaneous Goods & Services,Per Cent,3.5
+1973,Miscellaneous Goods & Services,Per Cent,10.5
+1974,Miscellaneous Goods & Services,Per Cent,14.5
+1975,Miscellaneous Goods & Services,Per Cent,7.3
+1976,Miscellaneous Goods & Services,Per Cent,2.1
+1977,Miscellaneous Goods & Services,Per Cent,2.2
+1978,Miscellaneous Goods & Services,Per Cent,3.2
+1979,Miscellaneous Goods & Services,Per Cent,1.5
+1980,Miscellaneous Goods & Services,Per Cent,8.2
+1981,Miscellaneous Goods & Services,Per Cent,7.2
+1982,Miscellaneous Goods & Services,Per Cent,5.1
+1983,Miscellaneous Goods & Services,Per Cent,5
+1984,Miscellaneous Goods & Services,Per Cent,7.2
+1985,Miscellaneous Goods & Services,Per Cent,1.2
+1986,Miscellaneous Goods & Services,Per Cent,0.3
+1987,Miscellaneous Goods & Services,Per Cent,5.1
+1988,Miscellaneous Goods & Services,Per Cent,1.6
+1989,Miscellaneous Goods & Services,Per Cent,3.1
+1990,Miscellaneous Goods & Services,Per Cent,3.2
+1991,Miscellaneous Goods & Services,Per Cent,5.8
+1992,Miscellaneous Goods & Services,Per Cent,3.3
+1993,Miscellaneous Goods & Services,Per Cent,6.4
+1994,Miscellaneous Goods & Services,Per Cent,2.8
+1995,Miscellaneous Goods & Services,Per Cent,1.2
+1996,Miscellaneous Goods & Services,Per Cent,1.3
+1997,Miscellaneous Goods & Services,Per Cent,1.3
+1998,Miscellaneous Goods & Services,Per Cent,1.8
+1999,Miscellaneous Goods & Services,Per Cent,1.5
+2000,Miscellaneous Goods & Services,Per Cent,1.8
+2001,Miscellaneous Goods & Services,Per Cent,3.2
+2002,Miscellaneous Goods & Services,Per Cent,-0.3
+2003,Miscellaneous Goods & Services,Per Cent,5
+2004,Miscellaneous Goods & Services,Per Cent,6.4
+2005,Miscellaneous Goods & Services,Per Cent,4.4
+2006,Miscellaneous Goods & Services,Per Cent,2.4
+2007,Miscellaneous Goods & Services,Per Cent,2.3
+2008,Miscellaneous Goods & Services,Per Cent,2.1
+2009,Miscellaneous Goods & Services,Per Cent,0.3
+2010,Miscellaneous Goods & Services,Per Cent,0.7
+2011,Miscellaneous Goods & Services,Per Cent,1
+2012,Miscellaneous Goods & Services,Per Cent,1.1
+2013,Miscellaneous Goods & Services,Per Cent,2
+2014,Miscellaneous Goods & Services,Per Cent,1.3
+2015,Miscellaneous Goods & Services,Per Cent,0
+2016,Miscellaneous Goods & Services,Per Cent,0.2
+2017,Miscellaneous Goods & Services,Per Cent,0.2
+2018,Miscellaneous Goods & Services,Per Cent,1
+2019,Miscellaneous Goods & Services,Per Cent,0.4
+2020,Miscellaneous Goods & Services,Per Cent,-1.2
+2021,Miscellaneous Goods & Services,Per Cent,-0.5
+2022,Miscellaneous Goods & Services,Per Cent,0.6
+2023,Miscellaneous Goods & Services,Per Cent,3
+2024,Miscellaneous Goods & Services,Per Cent,1.3
+2025,Miscellaneous Goods & Services,Per Cent,-0.2
+2006,Personal Care,Per Cent,0.5
+2007,Personal Care,Per Cent,1.7
+2008,Personal Care,Per Cent,2.1
+2009,Personal Care,Per Cent,0.4
+2010,Personal Care,Per Cent,0.7
+2011,Personal Care,Per Cent,1
+2012,Personal Care,Per Cent,0.4
+2013,Personal Care,Per Cent,1.3
+2014,Personal Care,Per Cent,-0.1
+2015,Personal Care,Per Cent,-0.3
+2016,Personal Care,Per Cent,0
+2017,Personal Care,Per Cent,-1
+2018,Personal Care,Per Cent,-0.1
+2019,Personal Care,Per Cent,0.6
+2020,Personal Care,Per Cent,-0.1
+2021,Personal Care,Per Cent,-1.4
+2022,Personal Care,Per Cent,1.7
+2023,Personal Care,Per Cent,3.3
+2024,Personal Care,Per Cent,1.3
+2025,Personal Care,Per Cent,0
+2016,Hairdressing & Personal Grooming Services,Per Cent,0.4
+2017,Hairdressing & Personal Grooming Services,Per Cent,0.6
+2018,Hairdressing & Personal Grooming Services,Per Cent,-0.1
+2019,Hairdressing & Personal Grooming Services,Per Cent,0.7
+2020,Hairdressing & Personal Grooming Services,Per Cent,0.4
+2021,Hairdressing & Personal Grooming Services,Per Cent,0.1
+2022,Hairdressing & Personal Grooming Services,Per Cent,1
+2023,Hairdressing & Personal Grooming Services,Per Cent,4
+2024,Hairdressing & Personal Grooming Services,Per Cent,2.9
+2025,Hairdressing & Personal Grooming Services,Per Cent,1.1
+2025,Electric Appliances For Personal Care,Per Cent,-4.9
+2025,"Other Appliances, Articles & Products For Personal Care",Per Cent,-0.7
+2006,Alcoholic Beverages & Tobacco,Per Cent,2.9
+2007,Alcoholic Beverages & Tobacco,Per Cent,2.3
+2008,Alcoholic Beverages & Tobacco,Per Cent,2.1
+2009,Alcoholic Beverages & Tobacco,Per Cent,0.6
+2010,Alcoholic Beverages & Tobacco,Per Cent,0.5
+2011,Alcoholic Beverages & Tobacco,Per Cent,1
+2012,Alcoholic Beverages & Tobacco,Per Cent,0.7
+2013,Alcoholic Beverages & Tobacco,Per Cent,0.5
+2014,Alcoholic Beverages & Tobacco,Per Cent,5.9
+2015,Alcoholic Beverages & Tobacco,Per Cent,1
+2016,Alcoholic Beverages & Tobacco,Per Cent,0.2
+2017,Alcoholic Beverages & Tobacco,Per Cent,0.3
+2018,Alcoholic Beverages & Tobacco,Per Cent,5
+2019,Alcoholic Beverages & Tobacco,Per Cent,0.4
+2020,Alcoholic Beverages & Tobacco,Per Cent,-1
+2021,Alcoholic Beverages & Tobacco,Per Cent,-0.1
+2022,Alcoholic Beverages & Tobacco,Per Cent,1.2
+2023,Alcoholic Beverages & Tobacco,Per Cent,10
+2024,Alcoholic Beverages & Tobacco,Per Cent,2.6
+2025,Alcoholic Beverages & Tobacco,Per Cent,1
+2016,Alcoholic Beverages,Per Cent,-0.5
+2017,Alcoholic Beverages,Per Cent,-0.8
+2018,Alcoholic Beverages,Per Cent,-2.2
+2019,Alcoholic Beverages,Per Cent,-1.5
+2020,Alcoholic Beverages,Per Cent,-3.1
+2021,Alcoholic Beverages,Per Cent,-0.3
+2022,Alcoholic Beverages,Per Cent,1
+2023,Alcoholic Beverages,Per Cent,4
+2024,Alcoholic Beverages,Per Cent,-1.1
+2025,Alcoholic Beverages,Per Cent,-0.8
+2016,Tobacco,Per Cent,0.4
+2017,Tobacco,Per Cent,0.7
+2018,Tobacco,Per Cent,7.6
+2019,Tobacco,Per Cent,1.1
+2020,Tobacco,Per Cent,-0.1
+2021,Tobacco,Per Cent,0
+2022,Tobacco,Per Cent,1.3
+2023,Tobacco,Per Cent,12.4
+2024,Tobacco,Per Cent,3.9
+2025,Tobacco,Per Cent,2.2
+2006,Other Personal Effects,Per Cent,2.7
+2007,Other Personal Effects,Per Cent,2.4
+2008,Other Personal Effects,Per Cent,2
+2009,Other Personal Effects,Per Cent,-0.7
+2010,Other Personal Effects,Per Cent,1.1
+2011,Other Personal Effects,Per Cent,0.1
+2012,Other Personal Effects,Per Cent,0
+2013,Other Personal Effects,Per Cent,0
+2014,Other Personal Effects,Per Cent,0.4
+2015,Other Personal Effects,Per Cent,-1
+2016,Other Personal Effects,Per Cent,1.4
+2017,Other Personal Effects,Per Cent,2.4
+2018,Other Personal Effects,Per Cent,-0.2
+2019,Other Personal Effects,Per Cent,-0.4
+2020,Other Personal Effects,Per Cent,-5
+2021,Other Personal Effects,Per Cent,1.7
+2022,Other Personal Effects,Per Cent,1.4
+2023,Other Personal Effects,Per Cent,0.1
+2024,Other Personal Effects,Per Cent,0.2
+2025,Other Personal Effects,Per Cent,-2.1
+2016,Jewellery & Watches,Per Cent,-0.2
+2017,Jewellery & Watches,Per Cent,0.3
+2018,Jewellery & Watches,Per Cent,-1.8
+2019,Jewellery & Watches,Per Cent,-0.2
+2020,Jewellery & Watches,Per Cent,-1.8
+2021,Jewellery & Watches,Per Cent,-1
+2022,Jewellery & Watches,Per Cent,-3.3
+2023,Jewellery & Watches,Per Cent,2.1
+2024,Jewellery & Watches,Per Cent,0.8
+2025,Jewellery & Watches,Per Cent,1.6
+2025,Devotional Articles & Articles For Religious & Ritual Celebrations,Per Cent,-1.6
+2025,Other Personal Effects Nec,Per Cent,-3.4
+2006,Social Services,Per Cent,0
+2007,Social Services,Per Cent,2.7
+2008,Social Services,Per Cent,2.7
+2009,Social Services,Per Cent,1
+2010,Social Services,Per Cent,0.9
+2011,Social Services,Per Cent,0.3
+2012,Social Services,Per Cent,0
+2013,Social Services,Per Cent,2.2
+2014,Social Services,Per Cent,2.4
+2015,Social Services,Per Cent,2.7
+2016,Social Services,Per Cent,0.4
+2017,Social Services,Per Cent,0.1
+2018,Social Services,Per Cent,1.8
+2019,Social Services,Per Cent,0.2
+2020,Social Services,Per Cent,-2.9
+2021,Social Services,Per Cent,-1.8
+2022,Social Services,Per Cent,-0.4
+2023,Social Services,Per Cent,-1.2
+2024,Social Services,Per Cent,0.7
+2025,Social Services,Per Cent,-1.9
+2006,Other Miscellaneous Services,Per Cent,19
+2007,Other Miscellaneous Services,Per Cent,7.2
+2008,Other Miscellaneous Services,Per Cent,1.6
+2009,Other Miscellaneous Services,Per Cent,0.8
+2010,Other Miscellaneous Services,Per Cent,0.5
+2011,Other Miscellaneous Services,Per Cent,2.5
+2012,Other Miscellaneous Services,Per Cent,9.3
+2013,Other Miscellaneous Services,Per Cent,13.3
+2014,Other Miscellaneous Services,Per Cent,0.5
+2015,Other Miscellaneous Services,Per Cent,0.3
+2016,Other Miscellaneous Services,Per Cent,-0.1
+2017,Other Miscellaneous Services,Per Cent,2.1
+2018,Other Miscellaneous Services,Per Cent,0
+2019,Other Miscellaneous Services,Per Cent,-0.1
+2020,Other Miscellaneous Services,Per Cent,0
+2021,Other Miscellaneous Services,Per Cent,0
+2022,Other Miscellaneous Services,Per Cent,-4.2
+2023,Other Miscellaneous Services,Per Cent,-0.6
+2024,Other Miscellaneous Services,Per Cent,1.4
+2025,Other Miscellaneous Services,Per Cent,0.5
+1991,Food & Beverage Serving Services,Per Cent,2
+1992,Food & Beverage Serving Services,Per Cent,1.4
+1993,Food & Beverage Serving Services,Per Cent,2
+1994,Food & Beverage Serving Services,Per Cent,4
+1995,Food & Beverage Serving Services,Per Cent,3.1
+1996,Food & Beverage Serving Services,Per Cent,2.6
+1997,Food & Beverage Serving Services,Per Cent,1.7
+1998,Food & Beverage Serving Services,Per Cent,1.4
+1999,Food & Beverage Serving Services,Per Cent,0.6
+2000,Food & Beverage Serving Services,Per Cent,0.5
+2001,Food & Beverage Serving Services,Per Cent,1.2
+2002,Food & Beverage Serving Services,Per Cent,0.9
+2003,Food & Beverage Serving Services,Per Cent,0.6
+2004,Food & Beverage Serving Services,Per Cent,1
+2005,Food & Beverage Serving Services,Per Cent,0.7
+2006,Food & Beverage Serving Services,Per Cent,1.3
+2007,Food & Beverage Serving Services,Per Cent,2.2
+2008,Food & Beverage Serving Services,Per Cent,6.2
+2009,Food & Beverage Serving Services,Per Cent,2.1
+2010,Food & Beverage Serving Services,Per Cent,0.8
+2011,Food & Beverage Serving Services,Per Cent,2.7
+2012,Food & Beverage Serving Services,Per Cent,2.3
+2013,Food & Beverage Serving Services,Per Cent,2
+2014,Food & Beverage Serving Services,Per Cent,2.9
+2015,Food & Beverage Serving Services,Per Cent,2.3
+2016,Food & Beverage Serving Services,Per Cent,1.9
+2017,Food & Beverage Serving Services,Per Cent,1.5
+2018,Food & Beverage Serving Services,Per Cent,1.5
+2019,Food & Beverage Serving Services,Per Cent,1.7
+2020,Food & Beverage Serving Services,Per Cent,1.4
+2021,Food & Beverage Serving Services,Per Cent,1.4
+2022,Food & Beverage Serving Services,Per Cent,5.3
+2023,Food & Beverage Serving Services,Per Cent,6.1
+2024,Food & Beverage Serving Services,Per Cent,3.6
+2025,Food & Beverage Serving Services,Per Cent,1.2
+2006,"Restaurants, Cafes & Pubs",Per Cent,1.6
+2007,"Restaurants, Cafes & Pubs",Per Cent,3.6
+2008,"Restaurants, Cafes & Pubs",Per Cent,5.8
+2009,"Restaurants, Cafes & Pubs",Per Cent,1.2
+2010,"Restaurants, Cafes & Pubs",Per Cent,1.1
+2011,"Restaurants, Cafes & Pubs",Per Cent,3
+2012,"Restaurants, Cafes & Pubs",Per Cent,3.4
+2013,"Restaurants, Cafes & Pubs",Per Cent,2.6
+2014,"Restaurants, Cafes & Pubs",Per Cent,2.6
+2015,"Restaurants, Cafes & Pubs",Per Cent,3.2
+2016,"Restaurants, Cafes & Pubs",Per Cent,2.3
+2017,"Restaurants, Cafes & Pubs",Per Cent,1.2
+2018,"Restaurants, Cafes & Pubs",Per Cent,1.7
+2019,"Restaurants, Cafes & Pubs",Per Cent,1.8
+2020,"Restaurants, Cafes & Pubs",Per Cent,1.5
+2021,"Restaurants, Cafes & Pubs",Per Cent,1.2
+2022,"Restaurants, Cafes & Pubs",Per Cent,5
+2023,"Restaurants, Cafes & Pubs",Per Cent,5.9
+2024,"Restaurants, Cafes & Pubs",Per Cent,3.8
+2025,"Restaurants, Cafes & Pubs",Per Cent,0.9
+2025,Restaurants,Per Cent,1
+2025,Cafes,Per Cent,1.3
+2025,Pubs,Per Cent,-5.7
+2006,Fast Food Restaurants,Per Cent,1.3
+2007,Fast Food Restaurants,Per Cent,2
+2008,Fast Food Restaurants,Per Cent,3
+2009,Fast Food Restaurants,Per Cent,2.4
+2010,Fast Food Restaurants,Per Cent,0.5
+2011,Fast Food Restaurants,Per Cent,1.9
+2012,Fast Food Restaurants,Per Cent,-0.1
+2013,Fast Food Restaurants,Per Cent,0.9
+2014,Fast Food Restaurants,Per Cent,3.5
+2015,Fast Food Restaurants,Per Cent,1.7
+2016,Fast Food Restaurants,Per Cent,2.2
+2017,Fast Food Restaurants,Per Cent,1.1
+2018,Fast Food Restaurants,Per Cent,0.3
+2019,Fast Food Restaurants,Per Cent,1.6
+2020,Fast Food Restaurants,Per Cent,1.3
+2021,Fast Food Restaurants,Per Cent,1.7
+2022,Fast Food Restaurants,Per Cent,4.2
+2023,Fast Food Restaurants,Per Cent,7.8
+2024,Fast Food Restaurants,Per Cent,4.6
+2025,Fast Food Restaurants,Per Cent,2.4
+2006,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.2
+2007,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.8
+2008,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,6.6
+2009,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,2.5
+2010,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,0.6
+2011,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,2.7
+2012,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,2
+2013,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.8
+2014,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,3
+2015,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.9
+2016,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.7
+2017,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.7
+2018,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.5
+2019,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.7
+2020,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.3
+2021,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.5
+2022,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,5.7
+2023,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,6.1
+2024,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,3.4
+2025,"Hawker Centres, And Food Courts, Coffee Shops & Kiosks",Per Cent,1.3
+2020,Hawker Centres,Per Cent,1.6
+2021,Hawker Centres,Per Cent,1.4
+2022,Hawker Centres,Per Cent,6
+2023,Hawker Centres,Per Cent,6
+2024,Hawker Centres,Per Cent,4.4
+2025,Hawker Centres,Per Cent,1.7
+2020,"Food Courts, Coffee Shops & Kiosks",Per Cent,1.2
+2021,"Food Courts, Coffee Shops & Kiosks",Per Cent,1.5
+2022,"Food Courts, Coffee Shops & Kiosks",Per Cent,5.6
+2023,"Food Courts, Coffee Shops & Kiosks",Per Cent,6.1
+2024,"Food Courts, Coffee Shops & Kiosks",Per Cent,3.1
+2025,"Food Courts, Coffee Shops & Kiosks",Per Cent,1.2
+2006,"Other Catering Services, Incl Vending Machines",Per Cent,0.1
+2007,"Other Catering Services, Incl Vending Machines",Per Cent,2.2
+2008,"Other Catering Services, Incl Vending Machines",Per Cent,5.3
+2009,"Other Catering Services, Incl Vending Machines",Per Cent,1.5
+2010,"Other Catering Services, Incl Vending Machines",Per Cent,0
+2011,"Other Catering Services, Incl Vending Machines",Per Cent,1.3
+2012,"Other Catering Services, Incl Vending Machines",Per Cent,0.8
+2013,"Other Catering Services, Incl Vending Machines",Per Cent,0.9
+2014,"Other Catering Services, Incl Vending Machines",Per Cent,1.3
+2015,"Other Catering Services, Incl Vending Machines",Per Cent,0.2
+2016,"Other Catering Services, Incl Vending Machines",Per Cent,0.7
+2017,"Other Catering Services, Incl Vending Machines",Per Cent,1.7
+2018,"Other Catering Services, Incl Vending Machines",Per Cent,1.1
+2019,"Other Catering Services, Incl Vending Machines",Per Cent,4.9
+2020,"Other Catering Services, Incl Vending Machines",Per Cent,1.6
+2021,"Other Catering Services, Incl Vending Machines",Per Cent,0.7
+2022,"Other Catering Services, Incl Vending Machines",Per Cent,4.5
+2023,"Other Catering Services, Incl Vending Machines",Per Cent,6.3
+2024,"Other Catering Services, Incl Vending Machines",Per Cent,3.2
+2025,"Other Catering Services, Incl Vending Machines",Per Cent,0.2
+2016,All Items Less Accommodation,Per Cent,0.3
+2017,All Items Less Accommodation,Per Cent,1.8
+2018,All Items Less Accommodation,Per Cent,1.4
+2019,All Items Less Accommodation,Per Cent,0.9
+2020,All Items Less Accommodation,Per Cent,-0.3
+2021,All Items Less Accommodation,Per Cent,2.6
+2022,All Items Less Accommodation,Per Cent,6.7
+2023,All Items Less Accommodation,Per Cent,4.9
+2024,All Items Less Accommodation,Per Cent,2.2
+2025,All Items Less Accommodation,Per Cent,0.9
+2016,All Items Less Imputed Rentals For Housing,Per Cent,0.3
+2017,All Items Less Imputed Rentals For Housing,Per Cent,1.7
+2018,All Items Less Imputed Rentals For Housing,Per Cent,1.3
+2019,All Items Less Imputed Rentals For Housing,Per Cent,0.9
+2020,All Items Less Imputed Rentals For Housing,Per Cent,-0.3
+2021,All Items Less Imputed Rentals For Housing,Per Cent,2.5
+2022,All Items Less Imputed Rentals For Housing,Per Cent,6.5
+2023,All Items Less Imputed Rentals For Housing,Per Cent,4.9
+2024,All Items Less Imputed Rentals For Housing,Per Cent,2.3
+2025,All Items Less Imputed Rentals For Housing,Per Cent,1

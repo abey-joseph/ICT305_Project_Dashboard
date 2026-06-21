@@ -1,0 +1,529 @@
+period,series,unit,value
+1992,Total,Per Cent,0.3
+1993,Total,Per Cent,0.3
+1994,Total,Per Cent,0.3
+1995,Total,Per Cent,0.3
+1996,Total,Per Cent,0.4
+1997,Total,Per Cent,0.4
+1998,Total,Per Cent,0.8
+1999,Total,Per Cent,1.2
+2000,Total,Per Cent,na
+2001,Total,Per Cent,0.9
+2002,Total,Per Cent,1.4
+2003,Total,Per Cent,1.4
+2004,Total,Per Cent,1.3
+2005,Total,Per Cent,1
+2006,Total,Per Cent,0.7
+2007,Total,Per Cent,0.5
+2008,Total,Per Cent,0.5
+2009,Total,Per Cent,0.9
+2010,Total,Per Cent,0.7
+2011,Total,Per Cent,0.6
+2012,Total,Per Cent,0.6
+2013,Total,Per Cent,0.6
+2014,Total,Per Cent,0.5
+2015,Total,Per Cent,0.6
+2016,Total,Per Cent,0.8
+2017,Total,Per Cent,0.8
+2018,Total,Per Cent,0.7
+2019,Total,Per Cent,0.7
+2020,Total,Per Cent,1
+2021,Total,Per Cent,1
+2022,Total,Per Cent,0.7
+2023,Total,Per Cent,0.7
+2024,Total,Per Cent,0.8
+1992,Male,Per Cent,0.3
+1993,Male,Per Cent,0.4
+1994,Male,Per Cent,0.4
+1995,Male,Per Cent,0.3
+1996,Male,Per Cent,0.4
+1997,Male,Per Cent,0.4
+1998,Male,Per Cent,0.9
+1999,Male,Per Cent,1.2
+2000,Male,Per Cent,na
+2001,Male,Per Cent,1.1
+2002,Male,Per Cent,1.5
+2003,Male,Per Cent,1.6
+2004,Male,Per Cent,1.5
+2005,Male,Per Cent,1.1
+2006,Male,Per Cent,0.8
+2007,Male,Per Cent,0.6
+2008,Male,Per Cent,0.5
+2009,Male,Per Cent,1
+2010,Male,Per Cent,0.7
+2011,Male,Per Cent,0.6
+2012,Male,Per Cent,0.7
+2013,Male,Per Cent,0.7
+2014,Male,Per Cent,0.6
+2015,Male,Per Cent,0.6
+2016,Male,Per Cent,0.9
+2017,Male,Per Cent,0.9
+2018,Male,Per Cent,0.8
+2019,Male,Per Cent,0.8
+2020,Male,Per Cent,1
+2021,Male,Per Cent,1.1
+2022,Male,Per Cent,0.7
+2023,Male,Per Cent,0.7
+2024,Male,Per Cent,0.9
+1992,Female,Per Cent,0.3
+1993,Female,Per Cent,0.2
+1994,Female,Per Cent,0.2
+1995,Female,Per Cent,0.3
+1996,Female,Per Cent,0.3
+1997,Female,Per Cent,0.4
+1998,Female,Per Cent,0.6
+1999,Female,Per Cent,1.1
+2000,Female,Per Cent,na
+2001,Female,Per Cent,0.7
+2002,Female,Per Cent,1.3
+2003,Female,Per Cent,1.2
+2004,Female,Per Cent,1
+2005,Female,Per Cent,0.9
+2006,Female,Per Cent,0.6
+2007,Female,Per Cent,0.4
+2008,Female,Per Cent,0.5
+2009,Female,Per Cent,0.9
+2010,Female,Per Cent,0.7
+2011,Female,Per Cent,0.5
+2012,Female,Per Cent,0.6
+2013,Female,Per Cent,0.5
+2014,Female,Per Cent,0.5
+2015,Female,Per Cent,0.5
+2016,Female,Per Cent,0.6
+2017,Female,Per Cent,0.7
+2018,Female,Per Cent,0.6
+2019,Female,Per Cent,0.7
+2020,Female,Per Cent,0.9
+2021,Female,Per Cent,1
+2022,Female,Per Cent,0.6
+2023,Female,Per Cent,0.6
+2024,Female,Per Cent,0.7
+1992,Below 30 Years,Per Cent,0.3
+1993,Below 30 Years,Per Cent,0.3
+1994,Below 30 Years,Per Cent,0.3
+1995,Below 30 Years,Per Cent,0.3
+1996,Below 30 Years,Per Cent,0.4
+1997,Below 30 Years,Per Cent,0.5
+1998,Below 30 Years,Per Cent,0.7
+1999,Below 30 Years,Per Cent,1
+2000,Below 30 Years,Per Cent,na
+2001,Below 30 Years,Per Cent,0.7
+2002,Below 30 Years,Per Cent,1.2
+2003,Below 30 Years,Per Cent,1.2
+2004,Below 30 Years,Per Cent,0.9
+2005,Below 30 Years,Per Cent,0.7
+2006,Below 30 Years,Per Cent,0.5
+2007,Below 30 Years,Per Cent,0.3
+2008,Below 30 Years,Per Cent,0.3
+2009,Below 30 Years,Per Cent,0.8
+2010,Below 30 Years,Per Cent,0.7
+2011,Below 30 Years,Per Cent,0.5
+2012,Below 30 Years,Per Cent,0.5
+2013,Below 30 Years,Per Cent,0.6
+2014,Below 30 Years,Per Cent,0.5
+2015,Below 30 Years,Per Cent,0.5
+2016,Below 30 Years,Per Cent,0.6
+2017,Below 30 Years,Per Cent,0.8
+2018,Below 30 Years,Per Cent,0.6
+2019,Below 30 Years,Per Cent,0.9
+2020,Below 30 Years,Per Cent,1.1
+2021,Below 30 Years,Per Cent,1
+2022,Below 30 Years,Per Cent,0.5
+2023,Below 30 Years,Per Cent,0.7
+2024,Below 30 Years,Per Cent,1
+1992,15 - 24 Years,Per Cent,0.4
+1993,15 - 24 Years,Per Cent,0.4
+1994,15 - 24 Years,Per Cent,0.3
+1995,15 - 24 Years,Per Cent,0.3
+1996,15 - 24 Years,Per Cent,0.3
+1997,15 - 24 Years,Per Cent,0.4
+1998,15 - 24 Years,Per Cent,0.7
+1999,15 - 24 Years,Per Cent,1
+2000,15 - 24 Years,Per Cent,na
+2001,15 - 24 Years,Per Cent,0.9
+2002,15 - 24 Years,Per Cent,1.3
+2003,15 - 24 Years,Per Cent,1.3
+2004,15 - 24 Years,Per Cent,0.9
+2005,15 - 24 Years,Per Cent,0.8
+2006,15 - 24 Years,Per Cent,0.6
+2007,15 - 24 Years,Per Cent,0.3
+2008,15 - 24 Years,Per Cent,0.4
+2009,15 - 24 Years,Per Cent,1
+2010,15 - 24 Years,Per Cent,0.8
+2011,15 - 24 Years,Per Cent,0.5
+2012,15 - 24 Years,Per Cent,0.6
+2013,15 - 24 Years,Per Cent,0.5
+2014,15 - 24 Years,Per Cent,0.4
+2015,15 - 24 Years,Per Cent,0.4
+2016,15 - 24 Years,Per Cent,0.6
+2017,15 - 24 Years,Per Cent,0.8
+2018,15 - 24 Years,Per Cent,0.6
+2019,15 - 24 Years,Per Cent,0.7
+2020,15 - 24 Years,Per Cent,1.1
+2021,15 - 24 Years,Per Cent,1.2
+2022,15 - 24 Years,Per Cent,0.5
+2023,15 - 24 Years,Per Cent,0.6
+2024,15 - 24 Years,Per Cent,0.8
+1992,30 - 39 Years,Per Cent,0.3
+1993,30 - 39 Years,Per Cent,0.3
+1994,30 - 39 Years,Per Cent,0.3
+1995,30 - 39 Years,Per Cent,0.2
+1996,30 - 39 Years,Per Cent,0.3
+1997,30 - 39 Years,Per Cent,0.2
+1998,30 - 39 Years,Per Cent,0.7
+1999,30 - 39 Years,Per Cent,0.9
+2000,30 - 39 Years,Per Cent,na
+2001,30 - 39 Years,Per Cent,0.7
+2002,30 - 39 Years,Per Cent,1.2
+2003,30 - 39 Years,Per Cent,1.2
+2004,30 - 39 Years,Per Cent,0.9
+2005,30 - 39 Years,Per Cent,0.7
+2006,30 - 39 Years,Per Cent,0.5
+2007,30 - 39 Years,Per Cent,0.4
+2008,30 - 39 Years,Per Cent,0.4
+2009,30 - 39 Years,Per Cent,0.8
+2010,30 - 39 Years,Per Cent,0.4
+2011,30 - 39 Years,Per Cent,0.5
+2012,30 - 39 Years,Per Cent,0.5
+2013,30 - 39 Years,Per Cent,0.5
+2014,30 - 39 Years,Per Cent,0.4
+2015,30 - 39 Years,Per Cent,0.5
+2016,30 - 39 Years,Per Cent,0.6
+2017,30 - 39 Years,Per Cent,0.5
+2018,30 - 39 Years,Per Cent,0.6
+2019,30 - 39 Years,Per Cent,0.4
+2020,30 - 39 Years,Per Cent,0.6
+2021,30 - 39 Years,Per Cent,0.7
+2022,30 - 39 Years,Per Cent,0.4
+2023,30 - 39 Years,Per Cent,0.5
+2024,30 - 39 Years,Per Cent,0.6
+1992,40 Years & Over,Per Cent,0.3
+1993,40 Years & Over,Per Cent,0.3
+1994,40 Years & Over,Per Cent,0.4
+1995,40 Years & Over,Per Cent,0.3
+1996,40 Years & Over,Per Cent,0.4
+1997,40 Years & Over,Per Cent,0.4
+1998,40 Years & Over,Per Cent,0.9
+1999,40 Years & Over,Per Cent,1.4
+2000,40 Years & Over,Per Cent,na
+2001,40 Years & Over,Per Cent,1.1
+2002,40 Years & Over,Per Cent,1.6
+2003,40 Years & Over,Per Cent,1.7
+2004,40 Years & Over,Per Cent,1.6
+2005,40 Years & Over,Per Cent,1.4
+2006,40 Years & Over,Per Cent,0.9
+2007,40 Years & Over,Per Cent,0.7
+2008,40 Years & Over,Per Cent,0.6
+2009,40 Years & Over,Per Cent,1.1
+2010,40 Years & Over,Per Cent,0.8
+2011,40 Years & Over,Per Cent,0.7
+2012,40 Years & Over,Per Cent,0.7
+2013,40 Years & Over,Per Cent,0.7
+2014,40 Years & Over,Per Cent,0.6
+2015,40 Years & Over,Per Cent,0.7
+2016,40 Years & Over,Per Cent,0.9
+2017,40 Years & Over,Per Cent,0.9
+2018,40 Years & Over,Per Cent,0.8
+2019,40 Years & Over,Per Cent,0.8
+2020,40 Years & Over,Per Cent,1
+2021,40 Years & Over,Per Cent,1.2
+2022,40 Years & Over,Per Cent,0.8
+2023,40 Years & Over,Per Cent,0.7
+2024,40 Years & Over,Per Cent,0.8
+1992,40 - 49 Years,Per Cent,0.4
+1993,40 - 49 Years,Per Cent,0.3
+1994,40 - 49 Years,Per Cent,0.4
+1995,40 - 49 Years,Per Cent,0.3
+1996,40 - 49 Years,Per Cent,0.4
+1997,40 - 49 Years,Per Cent,0.4
+1998,40 - 49 Years,Per Cent,0.9
+1999,40 - 49 Years,Per Cent,1.4
+2000,40 - 49 Years,Per Cent,na
+2001,40 - 49 Years,Per Cent,1
+2002,40 - 49 Years,Per Cent,1.6
+2003,40 - 49 Years,Per Cent,1.7
+2004,40 - 49 Years,Per Cent,1.4
+2005,40 - 49 Years,Per Cent,1.1
+2006,40 - 49 Years,Per Cent,0.7
+2007,40 - 49 Years,Per Cent,0.5
+2008,40 - 49 Years,Per Cent,0.6
+2009,40 - 49 Years,Per Cent,1
+2010,40 - 49 Years,Per Cent,0.7
+2011,40 - 49 Years,Per Cent,0.6
+2012,40 - 49 Years,Per Cent,0.6
+2013,40 - 49 Years,Per Cent,0.7
+2014,40 - 49 Years,Per Cent,0.5
+2015,40 - 49 Years,Per Cent,0.7
+2016,40 - 49 Years,Per Cent,0.8
+2017,40 - 49 Years,Per Cent,0.9
+2018,40 - 49 Years,Per Cent,0.7
+2019,40 - 49 Years,Per Cent,0.7
+2020,40 - 49 Years,Per Cent,1
+2021,40 - 49 Years,Per Cent,1
+2022,40 - 49 Years,Per Cent,0.6
+2023,40 - 49 Years,Per Cent,0.6
+2024,40 - 49 Years,Per Cent,0.7
+1992,50 Years & Over,Per Cent,0.3
+1993,50 Years & Over,Per Cent,0.4
+1994,50 Years & Over,Per Cent,0.3
+1995,50 Years & Over,Per Cent,0.4
+1996,50 Years & Over,Per Cent,0.5
+1997,50 Years & Over,Per Cent,0.4
+1998,50 Years & Over,Per Cent,0.9
+1999,50 Years & Over,Per Cent,1.5
+2000,50 Years & Over,Per Cent,na
+2001,50 Years & Over,Per Cent,1.3
+2002,50 Years & Over,Per Cent,1.6
+2003,50 Years & Over,Per Cent,1.7
+2004,50 Years & Over,Per Cent,1.9
+2005,50 Years & Over,Per Cent,1.7
+2006,50 Years & Over,Per Cent,1.1
+2007,50 Years & Over,Per Cent,0.8
+2008,50 Years & Over,Per Cent,0.7
+2009,50 Years & Over,Per Cent,1.1
+2010,50 Years & Over,Per Cent,0.8
+2011,50 Years & Over,Per Cent,0.8
+2012,50 Years & Over,Per Cent,0.8
+2013,50 Years & Over,Per Cent,0.7
+2014,50 Years & Over,Per Cent,0.8
+2015,50 Years & Over,Per Cent,0.7
+2016,50 Years & Over,Per Cent,1
+2017,50 Years & Over,Per Cent,0.8
+2018,50 Years & Over,Per Cent,0.9
+2019,50 Years & Over,Per Cent,1
+2020,50 Years & Over,Per Cent,1.1
+2021,50 Years & Over,Per Cent,1.3
+2022,50 Years & Over,Per Cent,1
+2023,50 Years & Over,Per Cent,0.8
+2024,50 Years & Over,Per Cent,0.9
+1992,50 - 59 Years,Per Cent,0.3
+1993,50 - 59 Years,Per Cent,0.4
+1994,50 - 59 Years,Per Cent,0.4
+1995,50 - 59 Years,Per Cent,0.4
+1996,50 - 59 Years,Per Cent,0.6
+1997,50 - 59 Years,Per Cent,0.4
+1998,50 - 59 Years,Per Cent,1.1
+1999,50 - 59 Years,Per Cent,1.6
+2000,50 - 59 Years,Per Cent,na
+2001,50 - 59 Years,Per Cent,1.4
+2002,50 - 59 Years,Per Cent,1.8
+2003,50 - 59 Years,Per Cent,1.9
+2004,50 - 59 Years,Per Cent,2.1
+2005,50 - 59 Years,Per Cent,1.8
+2006,50 - 59 Years,Per Cent,1.2
+2007,50 - 59 Years,Per Cent,0.7
+2008,50 - 59 Years,Per Cent,0.7
+2009,50 - 59 Years,Per Cent,1.1
+2010,50 - 59 Years,Per Cent,0.8
+2011,50 - 59 Years,Per Cent,0.8
+2012,50 - 59 Years,Per Cent,0.7
+2013,50 - 59 Years,Per Cent,0.7
+2014,50 - 59 Years,Per Cent,0.7
+2015,50 - 59 Years,Per Cent,0.7
+2016,50 - 59 Years,Per Cent,0.9
+2017,50 - 59 Years,Per Cent,0.9
+2018,50 - 59 Years,Per Cent,1
+2019,50 - 59 Years,Per Cent,1
+2020,50 - 59 Years,Per Cent,1.1
+2021,50 - 59 Years,Per Cent,1.2
+2022,50 - 59 Years,Per Cent,0.9
+2023,50 - 59 Years,Per Cent,0.9
+2024,50 - 59 Years,Per Cent,1
+1992,60 Years & Over,Per Cent,0.2
+1993,60 Years & Over,Per Cent,0.2
+1994,60 Years & Over,Per Cent,0.1
+1995,60 Years & Over,Per Cent,0.2
+1996,60 Years & Over,Per Cent,0.3
+1997,60 Years & Over,Per Cent,0.3
+1998,60 Years & Over,Per Cent,0.3
+1999,60 Years & Over,Per Cent,1.2
+2000,60 Years & Over,Per Cent,na
+2001,60 Years & Over,Per Cent,1
+2002,60 Years & Over,Per Cent,1
+2003,60 Years & Over,Per Cent,1.1
+2004,60 Years & Over,Per Cent,1.3
+2005,60 Years & Over,Per Cent,1.5
+2006,60 Years & Over,Per Cent,0.7
+2007,60 Years & Over,Per Cent,1.1
+2008,60 Years & Over,Per Cent,0.5
+2009,60 Years & Over,Per Cent,1.2
+2010,60 Years & Over,Per Cent,0.9
+2011,60 Years & Over,Per Cent,0.9
+2012,60 Years & Over,Per Cent,1
+2013,60 Years & Over,Per Cent,0.8
+2014,60 Years & Over,Per Cent,0.9
+2015,60 Years & Over,Per Cent,0.7
+2016,60 Years & Over,Per Cent,1
+2017,60 Years & Over,Per Cent,0.7
+2018,60 Years & Over,Per Cent,0.8
+2019,60 Years & Over,Per Cent,0.8
+2020,60 Years & Over,Per Cent,1
+2021,60 Years & Over,Per Cent,1.4
+2022,60 Years & Over,Per Cent,1
+2023,60 Years & Over,Per Cent,0.7
+2024,60 Years & Over,Per Cent,0.8
+1992,Below Secondary,Per Cent,0.4
+1993,Below Secondary,Per Cent,0.4
+1994,Below Secondary,Per Cent,0.4
+1995,Below Secondary,Per Cent,0.4
+1996,Below Secondary,Per Cent,0.4
+1997,Below Secondary,Per Cent,0.4
+1998,Below Secondary,Per Cent,1.1
+1999,Below Secondary,Per Cent,1.7
+2000,Below Secondary,Per Cent,na
+2001,Below Secondary,Per Cent,1.4
+2002,Below Secondary,Per Cent,1.8
+2003,Below Secondary,Per Cent,1.8
+2004,Below Secondary,Per Cent,1.7
+2005,Below Secondary,Per Cent,1.5
+2006,Below Secondary,Per Cent,0.9
+2007,Below Secondary,Per Cent,0.6
+2008,Below Secondary,Per Cent,0.7
+2009,Below Secondary,Per Cent,1.1
+2010,Below Secondary,Per Cent,0.8
+2011,Below Secondary,Per Cent,0.6
+2012,Below Secondary,Per Cent,0.6
+2013,Below Secondary,Per Cent,0.5
+2014,Below Secondary,Per Cent,0.5
+2015,Below Secondary,Per Cent,0.4
+2016,Below Secondary,Per Cent,0.6
+2017,Below Secondary,Per Cent,0.6
+2018,Below Secondary,Per Cent,0.5
+2019,Below Secondary,Per Cent,0.7
+2020,Below Secondary,Per Cent,0.8
+2021,Below Secondary,Per Cent,0.9
+2022,Below Secondary,Per Cent,0.6
+2023,Below Secondary,Per Cent,0.5
+2024,Below Secondary,Per Cent,0.5
+1992,Secondary,Per Cent,0.3
+1993,Secondary,Per Cent,0.3
+1994,Secondary,Per Cent,0.3
+1995,Secondary,Per Cent,0.3
+1996,Secondary,Per Cent,0.4
+1997,Secondary,Per Cent,0.5
+1998,Secondary,Per Cent,0.7
+1999,Secondary,Per Cent,1.1
+2000,Secondary,Per Cent,na
+2001,Secondary,Per Cent,0.8
+2002,Secondary,Per Cent,1.5
+2003,Secondary,Per Cent,1.4
+2004,Secondary,Per Cent,1.4
+2005,Secondary,Per Cent,1.2
+2006,Secondary,Per Cent,0.8
+2007,Secondary,Per Cent,0.7
+2008,Secondary,Per Cent,0.5
+2009,Secondary,Per Cent,1.1
+2010,Secondary,Per Cent,0.7
+2011,Secondary,Per Cent,0.7
+2012,Secondary,Per Cent,0.6
+2013,Secondary,Per Cent,0.6
+2014,Secondary,Per Cent,0.5
+2015,Secondary,Per Cent,0.5
+2016,Secondary,Per Cent,0.7
+2017,Secondary,Per Cent,0.5
+2018,Secondary,Per Cent,0.6
+2019,Secondary,Per Cent,0.8
+2020,Secondary,Per Cent,1
+2021,Secondary,Per Cent,1.2
+2022,Secondary,Per Cent,0.8
+2023,Secondary,Per Cent,0.8
+2024,Secondary,Per Cent,0.6
+1992,Post-Secondary (Non-Tertiary),Per Cent,0.3
+1993,Post-Secondary (Non-Tertiary),Per Cent,0.1
+1994,Post-Secondary (Non-Tertiary),Per Cent,0.3
+1995,Post-Secondary (Non-Tertiary),Per Cent,0.2
+1996,Post-Secondary (Non-Tertiary),Per Cent,0.3
+1997,Post-Secondary (Non-Tertiary),Per Cent,0.3
+1998,Post-Secondary (Non-Tertiary),Per Cent,0.3
+1999,Post-Secondary (Non-Tertiary),Per Cent,0.8
+2000,Post-Secondary (Non-Tertiary),Per Cent,na
+2001,Post-Secondary (Non-Tertiary),Per Cent,0.8
+2002,Post-Secondary (Non-Tertiary),Per Cent,1
+2003,Post-Secondary (Non-Tertiary),Per Cent,1.1
+2004,Post-Secondary (Non-Tertiary),Per Cent,0.9
+2005,Post-Secondary (Non-Tertiary),Per Cent,1
+2006,Post-Secondary (Non-Tertiary),Per Cent,0.6
+2007,Post-Secondary (Non-Tertiary),Per Cent,0.4
+2008,Post-Secondary (Non-Tertiary),Per Cent,0.5
+2009,Post-Secondary (Non-Tertiary),Per Cent,1
+2010,Post-Secondary (Non-Tertiary),Per Cent,0.7
+2011,Post-Secondary (Non-Tertiary),Per Cent,0.5
+2012,Post-Secondary (Non-Tertiary),Per Cent,0.7
+2013,Post-Secondary (Non-Tertiary),Per Cent,0.7
+2014,Post-Secondary (Non-Tertiary),Per Cent,0.6
+2015,Post-Secondary (Non-Tertiary),Per Cent,0.6
+2016,Post-Secondary (Non-Tertiary),Per Cent,0.6
+2017,Post-Secondary (Non-Tertiary),Per Cent,0.8
+2018,Post-Secondary (Non-Tertiary),Per Cent,0.7
+2019,Post-Secondary (Non-Tertiary),Per Cent,0.8
+2020,Post-Secondary (Non-Tertiary),Per Cent,0.9
+2021,Post-Secondary (Non-Tertiary),Per Cent,1.3
+2022,Post-Secondary (Non-Tertiary),Per Cent,0.7
+2023,Post-Secondary (Non-Tertiary),Per Cent,0.7
+2024,Post-Secondary (Non-Tertiary),Per Cent,0.9
+1992,Diploma & Professional Qualification,Per Cent,0.2
+1993,Diploma & Professional Qualification,Per Cent,0.1
+1994,Diploma & Professional Qualification,Per Cent,0.1
+1995,Diploma & Professional Qualification,Per Cent,0.2
+1996,Diploma & Professional Qualification,Per Cent,0.2
+1997,Diploma & Professional Qualification,Per Cent,0.2
+1998,Diploma & Professional Qualification,Per Cent,0.5
+1999,Diploma & Professional Qualification,Per Cent,0.5
+2000,Diploma & Professional Qualification,Per Cent,na
+2001,Diploma & Professional Qualification,Per Cent,0.7
+2002,Diploma & Professional Qualification,Per Cent,0.9
+2003,Diploma & Professional Qualification,Per Cent,1.2
+2004,Diploma & Professional Qualification,Per Cent,0.9
+2005,Diploma & Professional Qualification,Per Cent,0.6
+2006,Diploma & Professional Qualification,Per Cent,0.6
+2007,Diploma & Professional Qualification,Per Cent,0.4
+2008,Diploma & Professional Qualification,Per Cent,0.4
+2009,Diploma & Professional Qualification,Per Cent,0.7
+2010,Diploma & Professional Qualification,Per Cent,0.6
+2011,Diploma & Professional Qualification,Per Cent,0.6
+2012,Diploma & Professional Qualification,Per Cent,0.6
+2013,Diploma & Professional Qualification,Per Cent,0.6
+2014,Diploma & Professional Qualification,Per Cent,0.5
+2015,Diploma & Professional Qualification,Per Cent,0.5
+2016,Diploma & Professional Qualification,Per Cent,0.7
+2017,Diploma & Professional Qualification,Per Cent,0.8
+2018,Diploma & Professional Qualification,Per Cent,0.7
+2019,Diploma & Professional Qualification,Per Cent,0.7
+2020,Diploma & Professional Qualification,Per Cent,1
+2021,Diploma & Professional Qualification,Per Cent,1.1
+2022,Diploma & Professional Qualification,Per Cent,0.7
+2023,Diploma & Professional Qualification,Per Cent,0.6
+2024,Diploma & Professional Qualification,Per Cent,1
+1992,Degree,Per Cent,0.1
+1993,Degree,Per Cent,0.3
+1994,Degree,Per Cent,0.3
+1995,Degree,Per Cent,0.2
+1996,Degree,Per Cent,0.3
+1997,Degree,Per Cent,0.3
+1998,Degree,Per Cent,0.4
+1999,Degree,Per Cent,0.7
+2000,Degree,Per Cent,na
+2001,Degree,Per Cent,0.5
+2002,Degree,Per Cent,1.2
+2003,Degree,Per Cent,1.1
+2004,Degree,Per Cent,1
+2005,Degree,Per Cent,0.7
+2006,Degree,Per Cent,0.5
+2007,Degree,Per Cent,0.4
+2008,Degree,Per Cent,0.5
+2009,Degree,Per Cent,0.8
+2010,Degree,Per Cent,0.6
+2011,Degree,Per Cent,0.5
+2012,Degree,Per Cent,0.6
+2013,Degree,Per Cent,0.8
+2014,Degree,Per Cent,0.6
+2015,Degree,Per Cent,0.8
+2016,Degree,Per Cent,1
+2017,Degree,Per Cent,0.9
+2018,Degree,Per Cent,0.8
+2019,Degree,Per Cent,0.7
+2020,Degree,Per Cent,1
+2021,Degree,Per Cent,0.9
+2022,Degree,Per Cent,0.6
+2023,Degree,Per Cent,0.6
+2024,Degree,Per Cent,0.8

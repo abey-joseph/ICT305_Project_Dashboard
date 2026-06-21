@@ -1,0 +1,628 @@
+period,series,unit,value
+1992,Total,Per Cent,2.2
+1993,Total,Per Cent,2.1
+1994,Total,Per Cent,2.2
+1995,Total,Per Cent,2.2
+1996,Total,Per Cent,2.1
+1997,Total,Per Cent,2
+1998,Total,Per Cent,3.5
+1999,Total,Per Cent,3.8
+2000,Total,Per Cent,3.6
+2001,Total,Per Cent,3.7
+2002,Total,Per Cent,4.8
+2003,Total,Per Cent,5.3
+2004,Total,Per Cent,4.5
+2005,Total,Per Cent,4.1
+2006,Total,Per Cent,3.6
+2007,Total,Per Cent,2.9
+2008,Total,Per Cent,3.3
+2009,Total,Per Cent,4.3
+2010,Total,Per Cent,3.1
+2011,Total,Per Cent,2.9
+2012,Total,Per Cent,2.8
+2013,Total,Per Cent,2.8
+2014,Total,Per Cent,2.8
+2015,Total,Per Cent,2.8
+2016,Total,Per Cent,3
+2017,Total,Per Cent,3.1
+2018,Total,Per Cent,2.9
+2019,Total,Per Cent,3.2
+2020,Total,Per Cent,4.1
+2021,Total,Per Cent,3.6
+2022,Total,Per Cent,2.9
+2023,Total,Per Cent,2.7
+2024,Total,Per Cent,2.7
+2025,Total,Per Cent,2.8
+1992,Sex: Male,Per Cent,2
+1993,Sex: Male,Per Cent,2.1
+1994,Sex: Male,Per Cent,2.2
+1995,Sex: Male,Per Cent,2.3
+1996,Sex: Male,Per Cent,2.3
+1997,Sex: Male,Per Cent,2
+1998,Sex: Male,Per Cent,3.5
+1999,Sex: Male,Per Cent,3.8
+2000,Sex: Male,Per Cent,3.9
+2001,Sex: Male,Per Cent,3.9
+2002,Sex: Male,Per Cent,4.8
+2003,Sex: Male,Per Cent,5.1
+2004,Sex: Male,Per Cent,4.5
+2005,Sex: Male,Per Cent,3.9
+2006,Sex: Male,Per Cent,3.4
+2007,Sex: Male,Per Cent,2.8
+2008,Sex: Male,Per Cent,3
+2009,Sex: Male,Per Cent,4.1
+2010,Sex: Male,Per Cent,3
+2011,Sex: Male,Per Cent,2.6
+2012,Sex: Male,Per Cent,2.7
+2013,Sex: Male,Per Cent,2.7
+2014,Sex: Male,Per Cent,2.7
+2015,Sex: Male,Per Cent,2.7
+2016,Sex: Male,Per Cent,2.9
+2017,Sex: Male,Per Cent,3.1
+2018,Sex: Male,Per Cent,2.9
+2019,Sex: Male,Per Cent,3
+2020,Sex: Male,Per Cent,3.9
+2021,Sex: Male,Per Cent,3.4
+2022,Sex: Male,Per Cent,2.8
+2023,Sex: Male,Per Cent,2.7
+2024,Sex: Male,Per Cent,2.8
+2025,Sex: Male,Per Cent,2.8
+1992,Sex: Female,Per Cent,2.5
+1993,Sex: Female,Per Cent,2
+1994,Sex: Female,Per Cent,2.1
+1995,Sex: Female,Per Cent,2.1
+1996,Sex: Female,Per Cent,2
+1997,Sex: Female,Per Cent,1.9
+1998,Sex: Female,Per Cent,3.4
+1999,Sex: Female,Per Cent,3.8
+2000,Sex: Female,Per Cent,3.5
+2001,Sex: Female,Per Cent,3.4
+2002,Sex: Female,Per Cent,4.8
+2003,Sex: Female,Per Cent,5.3
+2004,Sex: Female,Per Cent,4.4
+2005,Sex: Female,Per Cent,4.5
+2006,Sex: Female,Per Cent,3.7
+2007,Sex: Female,Per Cent,3.1
+2008,Sex: Female,Per Cent,3.5
+2009,Sex: Female,Per Cent,4.7
+2010,Sex: Female,Per Cent,3.4
+2011,Sex: Female,Per Cent,3.2
+2012,Sex: Female,Per Cent,3.1
+2013,Sex: Female,Per Cent,2.9
+2014,Sex: Female,Per Cent,2.9
+2015,Sex: Female,Per Cent,2.9
+2016,Sex: Female,Per Cent,3
+2017,Sex: Female,Per Cent,3.1
+2018,Sex: Female,Per Cent,3
+2019,Sex: Female,Per Cent,3.4
+2020,Sex: Female,Per Cent,4.4
+2021,Sex: Female,Per Cent,3.8
+2022,Sex: Female,Per Cent,3
+2023,Sex: Female,Per Cent,2.7
+2024,Sex: Female,Per Cent,2.7
+2025,Sex: Female,Per Cent,2.9
+1992,Age Group (Years): Below 30,Per Cent,3.3
+1993,Age Group (Years): Below 30,Per Cent,3.3
+1994,Age Group (Years): Below 30,Per Cent,3.6
+1995,Age Group (Years): Below 30,Per Cent,3.6
+1996,Age Group (Years): Below 30,Per Cent,3.4
+1997,Age Group (Years): Below 30,Per Cent,3.2
+1998,Age Group (Years): Below 30,Per Cent,5.1
+1999,Age Group (Years): Below 30,Per Cent,5.2
+2000,Age Group (Years): Below 30,Per Cent,4.6
+2001,Age Group (Years): Below 30,Per Cent,5.1
+2002,Age Group (Years): Below 30,Per Cent,6.6
+2003,Age Group (Years): Below 30,Per Cent,7.3
+2004,Age Group (Years): Below 30,Per Cent,6.7
+2005,Age Group (Years): Below 30,Per Cent,6.2
+2006,Age Group (Years): Below 30,Per Cent,5.4
+2007,Age Group (Years): Below 30,Per Cent,4.5
+2008,Age Group (Years): Below 30,Per Cent,5.2
+2009,Age Group (Years): Below 30,Per Cent,6.7
+2010,Age Group (Years): Below 30,Per Cent,5.5
+2011,Age Group (Years): Below 30,Per Cent,5
+2012,Age Group (Years): Below 30,Per Cent,5.1
+2013,Age Group (Years): Below 30,Per Cent,5.2
+2014,Age Group (Years): Below 30,Per Cent,5.2
+2015,Age Group (Years): Below 30,Per Cent,5.1
+2016,Age Group (Years): Below 30,Per Cent,5
+2017,Age Group (Years): Below 30,Per Cent,5.5
+2018,Age Group (Years): Below 30,Per Cent,5.2
+2019,Age Group (Years): Below 30,Per Cent,5.9
+2020,Age Group (Years): Below 30,Per Cent,7.5
+2021,Age Group (Years): Below 30,Per Cent,5.7
+2022,Age Group (Years): Below 30,Per Cent,4.7
+2023,Age Group (Years): Below 30,Per Cent,5.3
+2024,Age Group (Years): Below 30,Per Cent,5.4
+2025,Age Group (Years): Below 30,Per Cent,5.5
+1992,Age Group (Years): 25 - 29,Per Cent,2
+1993,Age Group (Years): 25 - 29,Per Cent,2.3
+1994,Age Group (Years): 25 - 29,Per Cent,2.4
+1995,Age Group (Years): 25 - 29,Per Cent,2.5
+1996,Age Group (Years): 25 - 29,Per Cent,2.7
+1997,Age Group (Years): 25 - 29,Per Cent,2.3
+1998,Age Group (Years): 25 - 29,Per Cent,3.8
+1999,Age Group (Years): 25 - 29,Per Cent,4
+2000,Age Group (Years): 25 - 29,Per Cent,3.6
+2001,Age Group (Years): 25 - 29,Per Cent,4.3
+2002,Age Group (Years): 25 - 29,Per Cent,5
+2003,Age Group (Years): 25 - 29,Per Cent,5.8
+2004,Age Group (Years): 25 - 29,Per Cent,5.1
+2005,Age Group (Years): 25 - 29,Per Cent,4.4
+2006,Age Group (Years): 25 - 29,Per Cent,3.8
+2007,Age Group (Years): 25 - 29,Per Cent,3
+2008,Age Group (Years): 25 - 29,Per Cent,3.7
+2009,Age Group (Years): 25 - 29,Per Cent,5
+2010,Age Group (Years): 25 - 29,Per Cent,3.9
+2011,Age Group (Years): 25 - 29,Per Cent,3.4
+2012,Age Group (Years): 25 - 29,Per Cent,3.5
+2013,Age Group (Years): 25 - 29,Per Cent,3.9
+2014,Age Group (Years): 25 - 29,Per Cent,4.1
+2015,Age Group (Years): 25 - 29,Per Cent,3.6
+2016,Age Group (Years): 25 - 29,Per Cent,3.8
+2017,Age Group (Years): 25 - 29,Per Cent,4.2
+2018,Age Group (Years): 25 - 29,Per Cent,4.1
+2019,Age Group (Years): 25 - 29,Per Cent,4.7
+2020,Age Group (Years): 25 - 29,Per Cent,5.6
+2021,Age Group (Years): 25 - 29,Per Cent,4.7
+2022,Age Group (Years): 25 - 29,Per Cent,3.9
+2023,Age Group (Years): 25 - 29,Per Cent,4.3
+2024,Age Group (Years): 25 - 29,Per Cent,4.6
+2025,Age Group (Years): 25 - 29,Per Cent,4.7
+1992,Age Group (Years): 30 - 39,Per Cent,1.7
+1993,Age Group (Years): 30 - 39,Per Cent,1.6
+1994,Age Group (Years): 30 - 39,Per Cent,1.6
+1995,Age Group (Years): 30 - 39,Per Cent,1.7
+1996,Age Group (Years): 30 - 39,Per Cent,1.7
+1997,Age Group (Years): 30 - 39,Per Cent,1.5
+1998,Age Group (Years): 30 - 39,Per Cent,2.8
+1999,Age Group (Years): 30 - 39,Per Cent,3.2
+2000,Age Group (Years): 30 - 39,Per Cent,3.1
+2001,Age Group (Years): 30 - 39,Per Cent,3.1
+2002,Age Group (Years): 30 - 39,Per Cent,3.9
+2003,Age Group (Years): 30 - 39,Per Cent,4.5
+2004,Age Group (Years): 30 - 39,Per Cent,3.5
+2005,Age Group (Years): 30 - 39,Per Cent,3.1
+2006,Age Group (Years): 30 - 39,Per Cent,3
+2007,Age Group (Years): 30 - 39,Per Cent,2.4
+2008,Age Group (Years): 30 - 39,Per Cent,2.6
+2009,Age Group (Years): 30 - 39,Per Cent,3.6
+2010,Age Group (Years): 30 - 39,Per Cent,2.3
+2011,Age Group (Years): 30 - 39,Per Cent,2.4
+2012,Age Group (Years): 30 - 39,Per Cent,2.2
+2013,Age Group (Years): 30 - 39,Per Cent,2.2
+2014,Age Group (Years): 30 - 39,Per Cent,2.2
+2015,Age Group (Years): 30 - 39,Per Cent,1.9
+2016,Age Group (Years): 30 - 39,Per Cent,2.3
+2017,Age Group (Years): 30 - 39,Per Cent,2.3
+2018,Age Group (Years): 30 - 39,Per Cent,2.2
+2019,Age Group (Years): 30 - 39,Per Cent,2.2
+2020,Age Group (Years): 30 - 39,Per Cent,2.9
+2021,Age Group (Years): 30 - 39,Per Cent,2.6
+2022,Age Group (Years): 30 - 39,Per Cent,2.3
+2023,Age Group (Years): 30 - 39,Per Cent,2.2
+2024,Age Group (Years): 30 - 39,Per Cent,2.2
+2025,Age Group (Years): 30 - 39,Per Cent,2.4
+1992,Age Group (Years): 40 - 49,Per Cent,1.7
+1993,Age Group (Years): 40 - 49,Per Cent,1.4
+1994,Age Group (Years): 40 - 49,Per Cent,1.5
+1995,Age Group (Years): 40 - 49,Per Cent,1.6
+1996,Age Group (Years): 40 - 49,Per Cent,1.6
+1997,Age Group (Years): 40 - 49,Per Cent,1.6
+1998,Age Group (Years): 40 - 49,Per Cent,3.2
+1999,Age Group (Years): 40 - 49,Per Cent,3.4
+2000,Age Group (Years): 40 - 49,Per Cent,3.7
+2001,Age Group (Years): 40 - 49,Per Cent,3.4
+2002,Age Group (Years): 40 - 49,Per Cent,4.6
+2003,Age Group (Years): 40 - 49,Per Cent,4.9
+2004,Age Group (Years): 40 - 49,Per Cent,3.8
+2005,Age Group (Years): 40 - 49,Per Cent,3.6
+2006,Age Group (Years): 40 - 49,Per Cent,3
+2007,Age Group (Years): 40 - 49,Per Cent,2.4
+2008,Age Group (Years): 40 - 49,Per Cent,2.7
+2009,Age Group (Years): 40 - 49,Per Cent,3.8
+2010,Age Group (Years): 40 - 49,Per Cent,2.6
+2011,Age Group (Years): 40 - 49,Per Cent,2.1
+2012,Age Group (Years): 40 - 49,Per Cent,2.1
+2013,Age Group (Years): 40 - 49,Per Cent,2.2
+2014,Age Group (Years): 40 - 49,Per Cent,2.1
+2015,Age Group (Years): 40 - 49,Per Cent,2.4
+2016,Age Group (Years): 40 - 49,Per Cent,2.4
+2017,Age Group (Years): 40 - 49,Per Cent,2.6
+2018,Age Group (Years): 40 - 49,Per Cent,2.3
+2019,Age Group (Years): 40 - 49,Per Cent,2.5
+2020,Age Group (Years): 40 - 49,Per Cent,3.5
+2021,Age Group (Years): 40 - 49,Per Cent,3.1
+2022,Age Group (Years): 40 - 49,Per Cent,2.6
+2023,Age Group (Years): 40 - 49,Per Cent,2.3
+2024,Age Group (Years): 40 - 49,Per Cent,2.1
+2025,Age Group (Years): 40 - 49,Per Cent,2.3
+1992,Age Group (Years): 50 & Over,Per Cent,1.3
+1993,Age Group (Years): 50 & Over,Per Cent,1.5
+1994,Age Group (Years): 50 & Over,Per Cent,1.4
+1995,Age Group (Years): 50 & Over,Per Cent,1.8
+1996,Age Group (Years): 50 & Over,Per Cent,1.9
+1997,Age Group (Years): 50 & Over,Per Cent,1.5
+1998,Age Group (Years): 50 & Over,Per Cent,2.7
+1999,Age Group (Years): 50 & Over,Per Cent,3.4
+2000,Age Group (Years): 50 & Over,Per Cent,3.4
+2001,Age Group (Years): 50 & Over,Per Cent,3.5
+2002,Age Group (Years): 50 & Over,Per Cent,4.4
+2003,Age Group (Years): 50 & Over,Per Cent,4.5
+2004,Age Group (Years): 50 & Over,Per Cent,4.3
+2005,Age Group (Years): 50 & Over,Per Cent,4.1
+2006,Age Group (Years): 50 & Over,Per Cent,3.4
+2007,Age Group (Years): 50 & Over,Per Cent,2.9
+2008,Age Group (Years): 50 & Over,Per Cent,2.9
+2009,Age Group (Years): 50 & Over,Per Cent,3.9
+2010,Age Group (Years): 50 & Over,Per Cent,2.7
+2011,Age Group (Years): 50 & Over,Per Cent,2.5
+2012,Age Group (Years): 50 & Over,Per Cent,2.4
+2013,Age Group (Years): 50 & Over,Per Cent,2.3
+2014,Age Group (Years): 50 & Over,Per Cent,2.3
+2015,Age Group (Years): 50 & Over,Per Cent,2.4
+2016,Age Group (Years): 50 & Over,Per Cent,2.7
+2017,Age Group (Years): 50 & Over,Per Cent,2.8
+2018,Age Group (Years): 50 & Over,Per Cent,2.6
+2019,Age Group (Years): 50 & Over,Per Cent,2.9
+2020,Age Group (Years): 50 & Over,Per Cent,3.8
+2021,Age Group (Years): 50 & Over,Per Cent,3.4
+2022,Age Group (Years): 50 & Over,Per Cent,2.8
+2023,Age Group (Years): 50 & Over,Per Cent,2.4
+2024,Age Group (Years): 50 & Over,Per Cent,2.5
+2025,Age Group (Years): 50 & Over,Per Cent,2.5
+1992,Age Group (Years): 50 - 59,Per Cent,1.4
+1993,Age Group (Years): 50 - 59,Per Cent,1.6
+1994,Age Group (Years): 50 - 59,Per Cent,1.6
+1995,Age Group (Years): 50 - 59,Per Cent,2
+1996,Age Group (Years): 50 - 59,Per Cent,2.1
+1997,Age Group (Years): 50 - 59,Per Cent,1.5
+1998,Age Group (Years): 50 - 59,Per Cent,3.3
+1999,Age Group (Years): 50 - 59,Per Cent,3.7
+2000,Age Group (Years): 50 - 59,Per Cent,3.6
+2001,Age Group (Years): 50 - 59,Per Cent,3.8
+2002,Age Group (Years): 50 - 59,Per Cent,4.8
+2003,Age Group (Years): 50 - 59,Per Cent,5
+2004,Age Group (Years): 50 - 59,Per Cent,4.6
+2005,Age Group (Years): 50 - 59,Per Cent,4.2
+2006,Age Group (Years): 50 - 59,Per Cent,3.5
+2007,Age Group (Years): 50 - 59,Per Cent,2.9
+2008,Age Group (Years): 50 - 59,Per Cent,3.1
+2009,Age Group (Years): 50 - 59,Per Cent,4
+2010,Age Group (Years): 50 - 59,Per Cent,2.6
+2011,Age Group (Years): 50 - 59,Per Cent,2.5
+2012,Age Group (Years): 50 - 59,Per Cent,2.2
+2013,Age Group (Years): 50 - 59,Per Cent,2.3
+2014,Age Group (Years): 50 - 59,Per Cent,2.2
+2015,Age Group (Years): 50 - 59,Per Cent,2.4
+2016,Age Group (Years): 50 - 59,Per Cent,2.7
+2017,Age Group (Years): 50 - 59,Per Cent,2.9
+2018,Age Group (Years): 50 - 59,Per Cent,2.7
+2019,Age Group (Years): 50 - 59,Per Cent,3
+2020,Age Group (Years): 50 - 59,Per Cent,4
+2021,Age Group (Years): 50 - 59,Per Cent,3.5
+2022,Age Group (Years): 50 - 59,Per Cent,2.7
+2023,Age Group (Years): 50 - 59,Per Cent,2.5
+2024,Age Group (Years): 50 - 59,Per Cent,2.7
+2025,Age Group (Years): 50 - 59,Per Cent,2.9
+1992,Age Group (Years): 60 & Over,Per Cent,1.2
+1993,Age Group (Years): 60 & Over,Per Cent,1.2
+1994,Age Group (Years): 60 & Over,Per Cent,1
+1995,Age Group (Years): 60 & Over,Per Cent,1.2
+1996,Age Group (Years): 60 & Over,Per Cent,1.3
+1997,Age Group (Years): 60 & Over,Per Cent,1.4
+1998,Age Group (Years): 60 & Over,Per Cent,1
+1999,Age Group (Years): 60 & Over,Per Cent,2.7
+2000,Age Group (Years): 60 & Over,Per Cent,2.7
+2001,Age Group (Years): 60 & Over,Per Cent,2.3
+2002,Age Group (Years): 60 & Over,Per Cent,3.3
+2003,Age Group (Years): 60 & Over,Per Cent,2.8
+2004,Age Group (Years): 60 & Over,Per Cent,3
+2005,Age Group (Years): 60 & Over,Per Cent,3.8
+2006,Age Group (Years): 60 & Over,Per Cent,2.8
+2007,Age Group (Years): 60 & Over,Per Cent,2.6
+2008,Age Group (Years): 60 & Over,Per Cent,2.3
+2009,Age Group (Years): 60 & Over,Per Cent,3.7
+2010,Age Group (Years): 60 & Over,Per Cent,2.9
+2011,Age Group (Years): 60 & Over,Per Cent,2.5
+2012,Age Group (Years): 60 & Over,Per Cent,2.8
+2013,Age Group (Years): 60 & Over,Per Cent,2.2
+2014,Age Group (Years): 60 & Over,Per Cent,2.4
+2015,Age Group (Years): 60 & Over,Per Cent,2.3
+2016,Age Group (Years): 60 & Over,Per Cent,2.6
+2017,Age Group (Years): 60 & Over,Per Cent,2.5
+2018,Age Group (Years): 60 & Over,Per Cent,2.5
+2019,Age Group (Years): 60 & Over,Per Cent,2.7
+2020,Age Group (Years): 60 & Over,Per Cent,3.7
+2021,Age Group (Years): 60 & Over,Per Cent,3.4
+2022,Age Group (Years): 60 & Over,Per Cent,2.8
+2023,Age Group (Years): 60 & Over,Per Cent,2.2
+2024,Age Group (Years): 60 & Over,Per Cent,2.3
+2025,Age Group (Years): 60 & Over,Per Cent,2.1
+1992,Age Group (Years): 25 & Over,Per Cent,1.7
+1993,Age Group (Years): 25 & Over,Per Cent,1.7
+1994,Age Group (Years): 25 & Over,Per Cent,1.7
+1995,Age Group (Years): 25 & Over,Per Cent,1.8
+1996,Age Group (Years): 25 & Over,Per Cent,1.9
+1997,Age Group (Years): 25 & Over,Per Cent,1.7
+1998,Age Group (Years): 25 & Over,Per Cent,3.1
+1999,Age Group (Years): 25 & Over,Per Cent,3.4
+2000,Age Group (Years): 25 & Over,Per Cent,3.4
+2001,Age Group (Years): 25 & Over,Per Cent,3.4
+2002,Age Group (Years): 25 & Over,Per Cent,4.4
+2003,Age Group (Years): 25 & Over,Per Cent,4.8
+2004,Age Group (Years): 25 & Over,Per Cent,4
+2005,Age Group (Years): 25 & Over,Per Cent,3.7
+2006,Age Group (Years): 25 & Over,Per Cent,3.2
+2007,Age Group (Years): 25 & Over,Per Cent,2.6
+2008,Age Group (Years): 25 & Over,Per Cent,2.8
+2009,Age Group (Years): 25 & Over,Per Cent,3.9
+2010,Age Group (Years): 25 & Over,Per Cent,2.7
+2011,Age Group (Years): 25 & Over,Per Cent,2.5
+2012,Age Group (Years): 25 & Over,Per Cent,2.4
+2013,Age Group (Years): 25 & Over,Per Cent,2.4
+2014,Age Group (Years): 25 & Over,Per Cent,2.4
+2015,Age Group (Years): 25 & Over,Per Cent,2.4
+2016,Age Group (Years): 25 & Over,Per Cent,2.7
+2017,Age Group (Years): 25 & Over,Per Cent,2.8
+2018,Age Group (Years): 25 & Over,Per Cent,2.6
+2019,Age Group (Years): 25 & Over,Per Cent,2.8
+2020,Age Group (Years): 25 & Over,Per Cent,3.7
+2021,Age Group (Years): 25 & Over,Per Cent,3.3
+2022,Age Group (Years): 25 & Over,Per Cent,2.7
+2023,Age Group (Years): 25 & Over,Per Cent,2.5
+2024,Age Group (Years): 25 & Over,Per Cent,2.5
+1992,Age Group (Years): 15 - 24,Per Cent,4.6
+1993,Age Group (Years): 15 - 24,Per Cent,4.3
+1994,Age Group (Years): 15 - 24,Per Cent,4.8
+1995,Age Group (Years): 15 - 24,Per Cent,4.8
+1996,Age Group (Years): 15 - 24,Per Cent,4.2
+1997,Age Group (Years): 15 - 24,Per Cent,4.3
+1998,Age Group (Years): 15 - 24,Per Cent,6.7
+1999,Age Group (Years): 15 - 24,Per Cent,6.8
+2000,Age Group (Years): 15 - 24,Per Cent,5.9
+2001,Age Group (Years): 15 - 24,Per Cent,6.2
+2002,Age Group (Years): 15 - 24,Per Cent,8.8
+2003,Age Group (Years): 15 - 24,Per Cent,9.3
+2004,Age Group (Years): 15 - 24,Per Cent,8.6
+2005,Age Group (Years): 15 - 24,Per Cent,8.3
+2006,Age Group (Years): 15 - 24,Per Cent,7.1
+2007,Age Group (Years): 15 - 24,Per Cent,6.3
+2008,Age Group (Years): 15 - 24,Per Cent,7
+2009,Age Group (Years): 15 - 24,Per Cent,8.8
+2010,Age Group (Years): 15 - 24,Per Cent,7.4
+2011,Age Group (Years): 15 - 24,Per Cent,6.7
+2012,Age Group (Years): 15 - 24,Per Cent,6.7
+2013,Age Group (Years): 15 - 24,Per Cent,6.7
+2014,Age Group (Years): 15 - 24,Per Cent,6.4
+2015,Age Group (Years): 15 - 24,Per Cent,6.7
+2016,Age Group (Years): 15 - 24,Per Cent,6.5
+2017,Age Group (Years): 15 - 24,Per Cent,6.9
+2018,Age Group (Years): 15 - 24,Per Cent,6.8
+2019,Age Group (Years): 15 - 24,Per Cent,7.8
+2020,Age Group (Years): 15 - 24,Per Cent,10.7
+2021,Age Group (Years): 15 - 24,Per Cent,7.6
+2022,Age Group (Years): 15 - 24,Per Cent,5.9
+2023,Age Group (Years): 15 - 24,Per Cent,6.7
+2024,Age Group (Years): 15 - 24,Per Cent,6.6
+2025,Age Group (Years): 15 - 24,Per Cent,6.6
+2000,Sex: Male,Per Cent,4.7
+2001,Sex: Male,Per Cent,4.6
+2002,Sex: Male,Per Cent,5.5
+2003,Sex: Male,Per Cent,6.7
+2004,Sex: Male,Per Cent,6
+2005,Sex: Male,Per Cent,6.2
+2006,Sex: Male,Per Cent,6.1
+2007,Sex: Male,Per Cent,4.6
+2008,Sex: Male,Per Cent,5.4
+2009,Sex: Male,Per Cent,6.6
+2010,Sex: Male,Per Cent,5.5
+2011,Sex: Male,Per Cent,4.8
+2012,Sex: Male,Per Cent,5.3
+2013,Sex: Male,Per Cent,5.2
+2014,Sex: Male,Per Cent,4.9
+2015,Sex: Male,Per Cent,5.6
+2016,Sex: Male,Per Cent,4.6
+2017,Sex: Male,Per Cent,5.2
+2018,Sex: Male,Per Cent,5
+2019,Sex: Male,Per Cent,5.8
+2020,Sex: Male,Per Cent,8.1
+2021,Sex: Male,Per Cent,5
+2022,Sex: Male,Per Cent,4
+2023,Sex: Male,Per Cent,5.4
+2024,Sex: Male,Per Cent,5.4
+2000,Sex: Female,Per Cent,7.1
+2001,Sex: Female,Per Cent,7.8
+2002,Sex: Female,Per Cent,12.3
+2003,Sex: Female,Per Cent,12.3
+2004,Sex: Female,Per Cent,11.6
+2005,Sex: Female,Per Cent,10.8
+2006,Sex: Female,Per Cent,8.3
+2007,Sex: Female,Per Cent,8.2
+2008,Sex: Female,Per Cent,8.9
+2009,Sex: Female,Per Cent,11.5
+2010,Sex: Female,Per Cent,9.6
+2011,Sex: Female,Per Cent,9
+2012,Sex: Female,Per Cent,8.2
+2013,Sex: Female,Per Cent,8.6
+2014,Sex: Female,Per Cent,8.1
+2015,Sex: Female,Per Cent,8.1
+2016,Sex: Female,Per Cent,8.8
+2017,Sex: Female,Per Cent,9.1
+2018,Sex: Female,Per Cent,8.6
+2019,Sex: Female,Per Cent,10
+2020,Sex: Female,Per Cent,13.5
+2021,Sex: Female,Per Cent,10
+2022,Sex: Female,Per Cent,8.2
+2023,Sex: Female,Per Cent,8.2
+2024,Sex: Female,Per Cent,8.1
+1992,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+1993,Highest Qualification Attained: Below Secondary,Per Cent,2.4
+1994,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+1995,Highest Qualification Attained: Below Secondary,Per Cent,2.7
+1996,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+1997,Highest Qualification Attained: Below Secondary,Per Cent,2.4
+1998,Highest Qualification Attained: Below Secondary,Per Cent,4.3
+1999,Highest Qualification Attained: Below Secondary,Per Cent,4.8
+2000,Highest Qualification Attained: Below Secondary,Per Cent,5.2
+2001,Highest Qualification Attained: Below Secondary,Per Cent,4.7
+2002,Highest Qualification Attained: Below Secondary,Per Cent,5.8
+2003,Highest Qualification Attained: Below Secondary,Per Cent,6.3
+2004,Highest Qualification Attained: Below Secondary,Per Cent,5.2
+2005,Highest Qualification Attained: Below Secondary,Per Cent,5.2
+2006,Highest Qualification Attained: Below Secondary,Per Cent,4.2
+2007,Highest Qualification Attained: Below Secondary,Per Cent,3.2
+2008,Highest Qualification Attained: Below Secondary,Per Cent,3.9
+2009,Highest Qualification Attained: Below Secondary,Per Cent,4.9
+2010,Highest Qualification Attained: Below Secondary,Per Cent,3.4
+2011,Highest Qualification Attained: Below Secondary,Per Cent,2.8
+2012,Highest Qualification Attained: Below Secondary,Per Cent,2.6
+2013,Highest Qualification Attained: Below Secondary,Per Cent,2.4
+2014,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+2015,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+2016,Highest Qualification Attained: Below Secondary,Per Cent,2.3
+2017,Highest Qualification Attained: Below Secondary,Per Cent,2.6
+2018,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+2019,Highest Qualification Attained: Below Secondary,Per Cent,2.9
+2020,Highest Qualification Attained: Below Secondary,Per Cent,4.1
+2021,Highest Qualification Attained: Below Secondary,Per Cent,3
+2022,Highest Qualification Attained: Below Secondary,Per Cent,2.5
+2023,Highest Qualification Attained: Below Secondary,Per Cent,2.4
+2024,Highest Qualification Attained: Below Secondary,Per Cent,2.2
+2025,Highest Qualification Attained: Below Secondary,Per Cent,2
+1992,Highest Qualification Attained: Secondary,Per Cent,2
+1993,Highest Qualification Attained: Secondary,Per Cent,2
+1994,Highest Qualification Attained: Secondary,Per Cent,1.8
+1995,Highest Qualification Attained: Secondary,Per Cent,2
+1996,Highest Qualification Attained: Secondary,Per Cent,2
+1997,Highest Qualification Attained: Secondary,Per Cent,1.7
+1998,Highest Qualification Attained: Secondary,Per Cent,3.4
+1999,Highest Qualification Attained: Secondary,Per Cent,3.6
+2000,Highest Qualification Attained: Secondary,Per Cent,3.6
+2001,Highest Qualification Attained: Secondary,Per Cent,3.5
+2002,Highest Qualification Attained: Secondary,Per Cent,4.8
+2003,Highest Qualification Attained: Secondary,Per Cent,5.3
+2004,Highest Qualification Attained: Secondary,Per Cent,4.6
+2005,Highest Qualification Attained: Secondary,Per Cent,4.6
+2006,Highest Qualification Attained: Secondary,Per Cent,3.9
+2007,Highest Qualification Attained: Secondary,Per Cent,3.4
+2008,Highest Qualification Attained: Secondary,Per Cent,3.3
+2009,Highest Qualification Attained: Secondary,Per Cent,4.7
+2010,Highest Qualification Attained: Secondary,Per Cent,3.3
+2011,Highest Qualification Attained: Secondary,Per Cent,3.5
+2012,Highest Qualification Attained: Secondary,Per Cent,2.9
+2013,Highest Qualification Attained: Secondary,Per Cent,2.9
+2014,Highest Qualification Attained: Secondary,Per Cent,2.8
+2015,Highest Qualification Attained: Secondary,Per Cent,2.7
+2016,Highest Qualification Attained: Secondary,Per Cent,3.1
+2017,Highest Qualification Attained: Secondary,Per Cent,2.8
+2018,Highest Qualification Attained: Secondary,Per Cent,2.8
+2019,Highest Qualification Attained: Secondary,Per Cent,3.4
+2020,Highest Qualification Attained: Secondary,Per Cent,4.6
+2021,Highest Qualification Attained: Secondary,Per Cent,4
+2022,Highest Qualification Attained: Secondary,Per Cent,3.1
+2023,Highest Qualification Attained: Secondary,Per Cent,2.9
+2024,Highest Qualification Attained: Secondary,Per Cent,2.7
+2025,Highest Qualification Attained: Secondary,Per Cent,2.9
+1992,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.6
+1993,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.2
+1994,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.4
+1995,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.5
+1996,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.5
+1997,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.6
+1998,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,1.9
+1999,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,2.9
+2000,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,2.4
+2001,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,2.9
+2002,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.8
+2003,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,4.2
+2004,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.8
+2005,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,4.1
+2006,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.5
+2007,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,2.7
+2008,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.7
+2009,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,4.8
+2010,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.8
+2011,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.2
+2012,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.5
+2013,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.5
+2014,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,2.7
+2015,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3
+2016,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.3
+2017,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.9
+2018,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.4
+2019,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.6
+2020,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,5
+2021,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,4.6
+2022,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.5
+2023,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.3
+2024,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3.4
+2025,Highest Qualification Attained: Post-Secondary (Non-Tertiary),Per Cent,3
+1992,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,1.5
+1993,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,1.7
+1994,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2
+1995,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,1.9
+1996,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,1.7
+1997,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,1.8
+1998,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.9
+1999,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.6
+2000,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.4
+2001,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.4
+2002,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,4.1
+2003,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,4.7
+2004,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,4.2
+2005,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.2
+2006,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.2
+2007,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.9
+2008,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.8
+2009,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.9
+2010,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.9
+2011,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.7
+2012,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.8
+2013,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.7
+2014,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.9
+2015,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.9
+2016,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.1
+2017,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.2
+2018,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.1
+2019,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.3
+2020,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,4.6
+2021,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,4
+2022,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3
+2023,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,2.8
+2024,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3.1
+2025,Highest Qualification Attained: Diploma & Professional Qualification,Per Cent,3
+1992,Highest Qualification Attained: Degree,Per Cent,2.2
+1993,Highest Qualification Attained: Degree,Per Cent,2.3
+1994,Highest Qualification Attained: Degree,Per Cent,2.6
+1995,Highest Qualification Attained: Degree,Per Cent,2.1
+1996,Highest Qualification Attained: Degree,Per Cent,2.6
+1997,Highest Qualification Attained: Degree,Per Cent,1.7
+1998,Highest Qualification Attained: Degree,Per Cent,2.8
+1999,Highest Qualification Attained: Degree,Per Cent,3.1
+2000,Highest Qualification Attained: Degree,Per Cent,2.6
+2001,Highest Qualification Attained: Degree,Per Cent,2.9
+2002,Highest Qualification Attained: Degree,Per Cent,4.1
+2003,Highest Qualification Attained: Degree,Per Cent,4.4
+2004,Highest Qualification Attained: Degree,Per Cent,3.6
+2005,Highest Qualification Attained: Degree,Per Cent,3.1
+2006,Highest Qualification Attained: Degree,Per Cent,2.8
+2007,Highest Qualification Attained: Degree,Per Cent,2.4
+2008,Highest Qualification Attained: Degree,Per Cent,2.7
+2009,Highest Qualification Attained: Degree,Per Cent,3.6
+2010,Highest Qualification Attained: Degree,Per Cent,2.8
+2011,Highest Qualification Attained: Degree,Per Cent,2.6
+2012,Highest Qualification Attained: Degree,Per Cent,2.7
+2013,Highest Qualification Attained: Degree,Per Cent,2.8
+2014,Highest Qualification Attained: Degree,Per Cent,2.9
+2015,Highest Qualification Attained: Degree,Per Cent,2.8
+2016,Highest Qualification Attained: Degree,Per Cent,3.1
+2017,Highest Qualification Attained: Degree,Per Cent,3.2
+2018,Highest Qualification Attained: Degree,Per Cent,2.9
+2019,Highest Qualification Attained: Degree,Per Cent,2.9
+2020,Highest Qualification Attained: Degree,Per Cent,3.5
+2021,Highest Qualification Attained: Degree,Per Cent,3.1
+2022,Highest Qualification Attained: Degree,Per Cent,2.7
+2023,Highest Qualification Attained: Degree,Per Cent,2.7
+2024,Highest Qualification Attained: Degree,Per Cent,2.7
+2025,Highest Qualification Attained: Degree,Per Cent,2.9
