@@ -1,5 +1,7 @@
 """
 Member 1 - Work-Life Balance & Overwork
+Name - Joseph Abey
+Student ID - 35720739
 =======================================
 
 Hypothesis
@@ -177,7 +179,7 @@ def chart_overwork_paradox() -> None:
 # CHART 2 - Long Hours vs National Happiness  (INTERACTIVE: year-range slider)
 # ---------------------------------------------------------------------------
 def chart_hours_vs_happiness() -> None:
-    st.header("Chart 2 - Long Hours vs National Happiness  \U0001F39B️ Interactive")
+    st.header("Chart 2 - Long Hours vs National Happiness Interactive")
     st.markdown(
         "This is my interactive chart. Use the **year-range slider in the sidebar** "
         "to focus any window between 2010 and 2023 and watch how working hours line "
@@ -518,7 +520,7 @@ and who feels the insecurity. Pick a chart from the sidebar to explore it.
 
 CHARTS = {
     "1. The Overwork Paradox": chart_overwork_paradox,
-    "2. Long Hours vs Happiness  \U0001F39B️ (interactive)": chart_hours_vs_happiness,
+    "2. Long Hours vs Happiness (interactive)": chart_hours_vs_happiness,
     "3. Working Later in Life": chart_working_later,
     "4. The Human Cost (injuries)": chart_human_cost,
     "5. The Tight Labour Market": chart_tight_market,
