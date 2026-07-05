@@ -29,33 +29,39 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-# ---------------------------------------------------------------------------
-# Page setup and shared theme (kept consistent with the rest of the dashboard)
-# ---------------------------------------------------------------------------
 st.set_page_config(page_title="Member 1 - Work-Life Balance", layout="wide")
 
+# One shared palette so every chart on the page looks like it belongs together.
 BLUE = "#2A6FBB"
 RED = "#D1495B"
 GREEN = "#3C896D"
 GREY = "#8A8D91"
 
+# Work out the project root from this file's location, so the data paths keep
+# working no matter which folder Streamlit is launched from.
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = PROJECT_ROOT / "data" / "raw" / "member_1"
 PROC_DIR = PROJECT_ROOT / "data" / "processed"
 
 
 # ---------------------------------------------------------------------------
-# Data loading. Each loader is cached so switching charts stays fast, and each
-# returns a tidy dataframe ready to plot.
+# Data loading
+# @st.cache_data means each CSV is read once and reused. Without it, every
+# click on the sidebar would re-read the files from disk and feel sluggish.
 # ---------------------------------------------------------------------------
 @st.cache_data
 def load_hours() -> pd.DataFrame:
     """Mean usual weekly hours and % of workers doing 40+ hours (2010-2025)."""
     raw = pd.read_csv(RAW_DIR / "MOM_Usual_Hours_Worked_Annual.csv")
+    # MOM ships this table sideways: one row per metric, years across the top.
+    # Set the metric names as the index and transpose (.T) so we end up with the
+    # normal shape - one row per year, one column per metric.
     tidy = raw.set_index("DataSeries").T.reset_index()
     tidy.columns = ["year", "mean_hours", "pct_40plus"]
     tidy["year"] = pd.to_numeric(tidy["year"], errors="coerce")
     for col in ["mean_hours", "pct_40plus"]:
+        # 2025's "40+ hours" cell is the text "na", so coerce turns it into NaN
+        # instead of crashing. Plotly just leaves a gap for it later.
         tidy[col] = pd.to_numeric(tidy[col], errors="coerce")
     return tidy.dropna(subset=["year"]).sort_values("year").reset_index(drop=True)
 
@@ -63,6 +69,8 @@ def load_hours() -> pd.DataFrame:
 @st.cache_data
 def load_happiness() -> pd.DataFrame:
     """National happiness (Life Ladder) from the shared master dataset."""
+    # Happiness isn't my dataset - I borrow the one column I need from the team's
+    # merged master file so Chart 2 can line it up against working hours.
     master = pd.read_csv(PROC_DIR / "master_yearly.csv")
     return master[["year", "m4_life_ladder"]].copy()
 
@@ -88,6 +96,8 @@ def load_injury() -> pd.DataFrame:
 @st.cache_data
 def load_unemployment() -> pd.DataFrame:
     """Resident unemployment rate, long format (Total, sex, age, qualification)."""
+    # This one file holds every breakdown stacked in a "series" column, so both
+    # Chart 5 (Total) and Chart 6 (by qualification) filter out of it.
     df = pd.read_csv(RAW_DIR / "SingStat_Resident_Unemployment_Rate_Annual.csv")
     df["value"] = pd.to_numeric(df["value"], errors="coerce")
     df["period"] = pd.to_numeric(df["period"], errors="coerce")
@@ -104,7 +114,8 @@ def load_longterm_unemployment() -> pd.DataFrame:
 
 
 def insight_block(insights_md: str, recommendation: str, audiences: str) -> None:
-    """Standard footer shown under every chart: insight, recommendation, users."""
+    """The same insight / recommendation / audience footer under every chart,
+    so the six sections stay consistent and I only write the layout once."""
     st.markdown("#### Data analysis insights")
     st.markdown(insights_md)
     st.markdown("#### Recommendation")
@@ -132,6 +143,9 @@ def chart_overwork_paradox() -> None:
             line=dict(color=BLUE, width=3), marker=dict(size=7), yaxis="y",
         )
     )
+    # Hours (~42) and the 40+ share (~83%) sit on completely different scales.
+    # Putting the second line on its own right-hand axis (yaxis="y2") stops one
+    # line from looking like a flat floor next to the other.
     fig.add_trace(
         go.Scatter(
             x=hours["year"], y=hours["pct_40plus"],
@@ -139,7 +153,8 @@ def chart_overwork_paradox() -> None:
             line=dict(color=RED, width=3, dash="dot"), marker=dict(size=7), yaxis="y2",
         )
     )
-    # Reference band: OECD-style "standard" full-time week (~38 hrs)
+    # A reference line at 38h (a typical full-time week overseas) gives the reader
+    # something to judge "high" against instead of guessing.
     fig.add_hline(
         y=38, line=dict(color=GREY, width=1, dash="dash"),
         annotation_text="~38h international full-time norm", annotation_position="bottom right",
@@ -189,9 +204,13 @@ def chart_hours_vs_happiness() -> None:
 
     hours = load_hours()
     happiness = load_happiness()
+    # Left join keeps every year of hours; happiness only covers some years, so
+    # dropna removes the years where we have no happiness score to compare.
     merged = hours.merge(happiness, on="year", how="left").dropna(subset=["m4_life_ladder"])
 
-    # -- the simple interactive control, shown only while this chart is open --
+    # Building the slider *inside* this function is deliberate - it means the
+    # control only appears while Chart 2 is the one on screen, and disappears
+    # again when the user switches to another chart.
     st.sidebar.markdown("---")
     st.sidebar.subheader("Chart 2 control")
     yr_min, yr_max = int(merged["year"].min()), int(merged["year"].max())
@@ -200,6 +219,8 @@ def chart_hours_vs_happiness() -> None:
         value=(yr_min, yr_max), step=1,
     )
 
+    # Everything below reads from `view`, so the whole chart redraws to match
+    # whatever the slider is set to.
     view = merged[(merged["year"] >= start_year) & (merged["year"] <= end_year)]
     if view.empty:
         st.warning("No data in the selected year range. Widen the slider.")
@@ -220,7 +241,8 @@ def chart_hours_vs_happiness() -> None:
             line=dict(color=GREEN, width=3), marker=dict(size=8), yaxis="y2",
         )
     )
-    # Mark the 2014 happiness peak if it is inside the chosen window
+    # Label the happiest year currently in view. idxmax finds that row; if the
+    # user slides past 2014 the label just hops to the next-highest peak.
     if view["m4_life_ladder"].notna().any():
         peak_row = view.loc[view["m4_life_ladder"].idxmax()]
         fig.add_annotation(
@@ -240,7 +262,8 @@ def chart_hours_vs_happiness() -> None:
     )
     st.plotly_chart(fig, use_container_width=True)
 
-    # Dynamic reading of the selected window
+    # Plain-English readout of the exact window the user picked (first vs last
+    # year), so the takeaway updates live with the slider.
     first, last = view.iloc[0], view.iloc[-1]
     hrs_delta = last["mean_hours"] - first["mean_hours"]
     hap_delta = last["m4_life_ladder"] - first["m4_life_ladder"]
@@ -280,6 +303,9 @@ def chart_working_later() -> None:
     )
 
     part = load_participation()
+    # Only these four bands are plotted - the full file has ~19 series and drawing
+    # them all would be an unreadable spaghetti chart. The dict also pins a fixed
+    # colour to each band so the legend stays stable.
     bands = {
         "Total Resident Participation Rate": GREY,
         "55 - 59 Years": BLUE,
@@ -334,6 +360,9 @@ def chart_human_cost() -> None:
     fatal = inj[inj["series"] == "Workplace Fatal Injuries"].sort_values("period")
     nonfatal = inj[inj["series"] == "Workplace Non-Fatal Injuries"].sort_values("period")
 
+    # Non-fatal injuries run in the hundreds while fatal ones are around 1 per
+    # 100k. Bars for the big number, a line for the small one, each on its own
+    # axis - otherwise the fatal line would be invisible flat against zero.
     fig = go.Figure()
     fig.add_trace(
         go.Bar(
@@ -391,13 +420,19 @@ def chart_tight_market() -> None:
 
     unemp = load_unemployment()
     longterm = load_longterm_unemployment()
+    # Pull just the "Total" line from each of the two files and rename its value
+    # column so they don't collide when merged.
     ut = (unemp[(unemp["series"] == "Total") & (unemp["period"] >= 2010)]
           [["period", "value"]].rename(columns={"value": "unemp"}))
     lt = (longterm[(longterm["series"] == "Total") & (longterm["period"] >= 2010)]
           [["period", "value"]].rename(columns={"value": "longterm"}))
+    # Outer join on year: the long-term file ends a year earlier, and an outer
+    # join keeps that extra overall-unemployment year rather than dropping it.
     view = ut.merge(lt, on="period", how="outer").sort_values("period")
 
     fig = go.Figure()
+    # Fill under the overall line so it reads as the "baseline" level, with the
+    # long-term line sitting on top as the smaller, more worrying slice.
     fig.add_trace(
         go.Scatter(
             x=view["period"], y=view["unemp"], name="Overall unemployment",
@@ -449,12 +484,18 @@ def chart_who_bears_burden() -> None:
     st.header("Chart 6 - Who Bears the Unemployment Burden")
 
     unemp = load_unemployment()
+    # Keep only the "by qualification" rows out of the stacked series column.
     qual = unemp[unemp["series"].str.contains("Qualification", na=False)].copy()
+    # Grab the newest year automatically instead of hard-coding it, so the chart
+    # keeps working when next year's data is added.
     latest = int(qual["period"].max())
     view = qual[qual["period"] == latest].copy()
     view["label"] = view["series"].str.replace(
         "Highest Qualification Attained: ", "", regex=False
     )
+    # Force the bars into education order (least -> most qualified). As a plain
+    # Categorical with an explicit order, sort_values follows that order instead
+    # of sorting the labels alphabetically.
     order = ["Below Secondary", "Secondary", "Post-Secondary (Non-Tertiary)",
              "Diploma & Professional Qualification", "Degree"]
     view["label"] = pd.Categorical(view["label"], categories=order, ordered=True)
@@ -465,6 +506,8 @@ def chart_who_bears_burden() -> None:
         "the assumption that more education means more job security."
     )
 
+    # Colour only the worst-off group red and leave the rest blue, so the eye
+    # lands straight on the group carrying the highest unemployment.
     top = view["value"].max()
     colors = [RED if v == top else BLUE for v in view["value"]]
     fig = go.Figure(
@@ -518,6 +561,9 @@ and who feels the insecurity. Pick a chart from the sidebar to explore it.
 """
 )
 
+# Each sidebar label maps to the function that draws it. The radio returns one
+# label, and we call only that function - which is how the page shows a single
+# chart at a time (and, for Chart 2, only then builds its slider).
 CHARTS = {
     "1. The Overwork Paradox": chart_overwork_paradox,
     "2. Long Hours vs Happiness (interactive)": chart_hours_vs_happiness,
@@ -532,4 +578,4 @@ st.sidebar.caption("Choose one of my six charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 
 st.divider()
-CHARTS[selection]()   # draw only the selected chart (and its controls)
+CHARTS[selection]()   # draw the chart the user picked
