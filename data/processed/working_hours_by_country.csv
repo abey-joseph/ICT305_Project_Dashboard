@@ -1,0 +1,53 @@
+country,iso3,annual_hours_2023,whr_name
+Singapore,SGP,2283,Singapore
+Cambodia,KHM,2389,Cambodia
+India,IND,2383,India
+Bangladesh,BGD,2383,Bangladesh
+China,CHN,2328,China
+Malaysia,MYS,2308,Malaysia
+Mexico,MEX,2137,Mexico
+Thailand,THA,2177,Thailand
+Vietnam,VNM,2160,Vietnam
+Philippines,PHL,2096,Philippines
+Indonesia,IDN,2020,Indonesia
+South Korea,KOR,1980,South Korea
+Poland,POL,2023,Poland
+Greece,GRC,2036,Greece
+Russia,RUS,2087,Russia
+Israel,ISR,1901,Israel
+Chile,CHL,1914,Chile
+Portugal,PRT,1865,Portugal
+Turkey,TUR,1832,Turkiye
+United States,USA,1765,United States
+New Zealand,NZL,1779,New Zealand
+Ireland,IRL,1772,Ireland
+Japan,JPN,1691,Japan
+Italy,ITA,1718,Italy
+Brazil,BRA,1708,Brazil
+Canada,CAN,1689,Canada
+Argentina,ARG,1609,Argentina
+Spain,ESP,1686,Spain
+United Kingdom,GBR,1668,United Kingdom
+Finland,FIN,1591,Finland
+Australia,AUS,1727,Australia
+Sweden,SWE,1605,Sweden
+Switzerland,CHE,1557,Switzerland
+Belgium,BEL,1586,Belgium
+Luxembourg,LUX,1506,Luxembourg
+France,FRA,1505,France
+Iceland,ISL,1454,Iceland
+Netherlands,NLD,1440,Netherlands
+Norway,NOR,1384,Norway
+Denmark,DNK,1381,Denmark
+Germany,DEU,1386,Germany
+South Africa,ZAF,2181,South Africa
+Costa Rica,CRI,2177,Costa Rica
+Colombia,COL,2471,Colombia
+Peru,PER,2143,Peru
+Sri Lanka,LKA,2053,Sri Lanka
+Nigeria,NGA,2062,Nigeria
+Egypt,EGY,2369,Egypt
+Pakistan,PAK,2471,Pakistan
+Saudi Arabia,SAU,2125,Saudi Arabia
+United Arab Emirates,ARE,2514,United Arab Emirates
+Taiwan,TWN,2032,Taiwan Province of China
