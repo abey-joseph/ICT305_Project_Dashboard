@@ -73,7 +73,7 @@ except Exception as exc:
 
 
 def chart_cpi_food_vs_all() -> None:
-    st.subheader("Food CPI Rose Faster Than Overall CPI")
+    st.subheader("Food CPI vs Overall CPI")
     view = filter_years(m2_all)
     if view.empty:
         st.warning("No data in the selected year range.")
@@ -89,7 +89,7 @@ def chart_cpi_food_vs_all() -> None:
         mode="lines+markers", line=dict(color=RED, width=3), marker=dict(size=7),
     ))
     fig.update_layout(
-        title="Food prices climbed faster than the general CPI basket",
+        title="Food prices rose faster than overall prices",
         xaxis=dict(title="Year", showgrid=False),
         yaxis=dict(title="CPI index", showgrid=True, gridcolor="#E8E8E8"),
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
@@ -106,26 +106,26 @@ def chart_cpi_food_vs_all() -> None:
             f"- Food CPI moved from **{first['m2_cpi_food']:.1f} to "
             f"{last['m2_cpi_food']:.1f}**, a rise of **{food_change:.1f} index "
             f"points** in the selected window.\n"
-            f"- All Items CPI rose by **{all_change:.1f} index points** over the "
-            "same window, so the essential food basket is not a small side issue.\n"
-            "- This is why I focus on Food CPI in the EDA: groceries are a daily "
-            "cost households cannot easily postpone."
+            f"- All Items CPI rose by **{all_change:.1f} index points** in the "
+            "same years, so food is not just a random category I picked.\n"
+            "- I focused on Food CPI because grocery spending is something families "
+            "cannot really skip."
         ),
         explanation=(
-            "A household can delay some purchases, but it cannot opt out of food. "
-            "When Food CPI rises faster than the general basket, lower- and middle-"
-            "income households feel the pressure quickly even if headline income rises."
+            "This chart is my starting point. Food is a basic cost, so when this "
+            "line rises faster than overall CPI, it helps explain why people can "
+            "feel squeezed even if the economy looks okay."
         ),
         audience="MTI, NTUC, social service policy analysts.",
         recommendation=(
-            "Use Food CPI as a separate stress indicator when deciding whether cost-"
-            "of-living support should target essentials rather than broad rebates."
+            "Track Food CPI separately when planning cost-of-living help. If food "
+            "is the part rising fastest, support should focus more on essentials."
         ),
     )
 
 
 def chart_income_vs_real_change() -> None:
-    st.subheader("Income Went Up, But Real Income Growth Was Uneven")
+    st.subheader("Income Rose, But Real Income Was Uneven")
     view = filter_years(m2_all)
     if view.empty:
         st.warning("No data in the selected year range.")
@@ -144,7 +144,7 @@ def chart_income_vs_real_change() -> None:
     ), secondary_y=True)
     fig.add_hline(y=0, line_dash="dash", line_color=GREY, secondary_y=True)
     fig.update_layout(
-        title="Nominal income rose, but purchasing-power gains were uneven",
+        title="Income rose, but real income did not rise smoothly",
         template="plotly_white", hovermode="x unified",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         margin=dict(l=40, r=40, t=80, b=40),
@@ -157,28 +157,27 @@ def chart_income_vs_real_change() -> None:
     worst = view.loc[view["m2_real_income_change_pct"].idxmin()]
     insight_block(
         analysis=(
-            "- Median household income rises in dollar terms, which can make the "
-            "situation look healthier than it feels.\n"
+            "- Median household income goes up in dollars, so at first glance it "
+            "looks like households are doing fine.\n"
             f"- The weakest year in the selected window is **{int(worst['year'])}**, "
             f"where real income change was **{worst['m2_real_income_change_pct']:.1f}%**.\n"
-            "- This supports my notebook finding: nominal income is not enough; "
-            "real income is the better pressure signal."
+            "- This is why I do not want to look at income alone. Real income gives "
+            "a better idea of whether people actually feel better off."
         ),
         explanation=(
-            "Real income adjusts for inflation. When that line is low or negative, "
-            "households can feel squeezed even though their monthly income number "
-            "has technically increased."
+            "Real income adjusts for inflation. If this line is weak, then a higher "
+            "salary may not mean much because prices have also gone up."
         ),
         audience="NTUC, MTI.",
         recommendation=(
-            "Use real-income change, not just median income, when negotiating wage "
-            "guidelines or assessing whether workers are keeping up with prices."
+            "Use real-income change when discussing wages, not just the raw income "
+            "number. It is closer to what workers actually feel."
         ),
     )
 
 
 def chart_2022_squeeze() -> None:
-    st.subheader("The 2022 Squeeze: Inflation Growth vs Income Growth")
+    st.subheader("The 2022 Squeeze")
     view = filter_years(m2_all).dropna(
         subset=["m2_food_cpi_growth_pct", "m2_income_growth_pct"]
     )
@@ -201,7 +200,7 @@ def chart_2022_squeeze() -> None:
             annotation_text="2022 squeeze", annotation_position="top",
         )
     fig.update_layout(
-        title="Food inflation growth versus median household income growth",
+        title="Food inflation growth vs median income growth",
         xaxis_title="Year", yaxis_title="Year-on-year change (%)",
         barmode="group", template="plotly_white", hovermode="x unified",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
@@ -216,25 +215,24 @@ def chart_2022_squeeze() -> None:
             f"**{y2022['m2_cpi_growth_pct']:.1f}%** and median income growth was "
             f"**{y2022['m2_income_growth_pct']:.1f}%**.\n"
             f"- But real income change was only **{y2022['m2_real_income_change_pct']:.1f}%**, "
-            "which is why this year looks like the clearest squeeze year.\n"
-            "- The chart shows the stress better than a simple income line because it "
-            "compares the speed of price growth against the speed of income growth."
+            "so households did not get much breathing room.\n"
+            "- This is the clearest year for my argument because prices were moving "
+            "fast while real income barely improved."
         ),
         explanation=(
-            "When prices and income rise at nearly the same pace, households do not "
-            "gain much breathing room. The 2022 line is the bridge between my EDA and "
-            "the final Streamlit message."
+            "This chart is basically my main evidence. It shows why just saying "
+            "\"income went up\" is not enough. The timing of inflation matters too."
         ),
         audience="MTI, NTUC, social service policy analysts.",
         recommendation=(
-            "Treat high-inflation years as trigger points for targeted temporary "
-            "support, especially food vouchers or wage guidance for lower-paid workers."
+            "In years like 2022, MTI and NTUC could react faster with temporary food "
+            "support or stronger wage guidance for lower-paid workers."
         ),
     )
 
 
 def chart_gdp_vs_income() -> None:
-    st.subheader("GDP Per Capita Looks Better Than Household Income Per Person")
+    st.subheader("GDP Looks Better Than Household Income")
     view = filter_years(m2_all)
     if view.empty:
         st.warning("No data in the selected year range.")
@@ -252,7 +250,7 @@ def chart_gdp_vs_income() -> None:
         line=dict(color=BLUE, width=3), marker=dict(size=7),
     ))
     fig.update_layout(
-        title="Headline GDP per capita sits far above estimated household income per person",
+        title="GDP per capita is far above estimated household income per person",
         xaxis_title="Year", yaxis_title="SGD per year",
         template="plotly_white", hovermode="x unified",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
@@ -267,26 +265,25 @@ def chart_gdp_vs_income() -> None:
             f"**SGD {last['m2_gdp_per_capita_sgd']:,.0f}**, while estimated annual "
             f"income per person from median household income was about "
             f"**SGD {last['m2_income_per_person_annual_sgd']:,.0f}**.\n"
-            "- This supports the EDA's headline prosperity gap: Singapore can look "
-            "rich in GDP terms while households feel less comfortable.\n"
-            "- Important caveat: this does not prove elite earners alone caused the "
-            "gap. That would need income decile or quintile data."
+            "- This supports my EDA point: Singapore can look very rich from GDP, "
+            "but that does not mean the median household feels rich.\n"
+            "- I am not claiming this proves elite earners caused the whole gap. "
+            "For that, I would need income data by income group."
         ),
         explanation=(
-            "GDP per capita is an average of national output, not the same thing as "
-            "what a median household can spend. Comparing both prevents the dashboard "
-            "from over-reading headline prosperity."
+            "GDP per capita is an average national number. It is useful, but it is "
+            "not the same as what a normal household can spend each month."
         ),
         audience="MTI, social service policy analysts.",
         recommendation=(
-            "Pair GDP reporting with household-income and real-income indicators so "
-            "policy discussions do not treat national growth as household comfort."
+            "When reporting economic progress, show GDP together with household "
+            "income and real income. Otherwise the cost pressure can be hidden."
         ),
     )
 
 
 def chart_gap_and_gini() -> None:
-    st.subheader("GDP-Income Gap With Inequality Context")
+    st.subheader("GDP-Income Gap and Gini")
     view = filter_years(m2_all)
     if view.empty:
         st.warning("No data in the selected year range.")
@@ -307,7 +304,7 @@ def chart_gap_and_gini() -> None:
         fig.add_vline(x=2022, line_dash="dash", line_color=RED,
                       annotation_text="gap peak", annotation_position="top")
     fig.update_layout(
-        title="GDP-income gap peaked around the inflation pressure period",
+        title="GDP-income gap peaked around 2022",
         template="plotly_white", hovermode="x unified",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         margin=dict(l=40, r=40, t=80, b=40),
@@ -322,21 +319,19 @@ def chart_gap_and_gini() -> None:
         analysis=(
             f"- The GDP-income gap peaks in **{int(peak['year'])}** at about "
             f"**{peak['m2_gdp_vs_income_gap_x']:.2f}x**.\n"
-            "- Gini trends downward overall in this dataset, so I should not claim "
-            "that inequality simply got worse every year.\n"
-            "- The safer finding is that GDP can overstate household comfort, and "
-            "the 2022 pressure year deserves attention."
+            "- Gini trends downward overall in this dataset, so I should not say "
+            "inequality got worse every year.\n"
+            "- The safer point is that GDP can make things look better than they "
+            "feel for households, especially around 2022."
         ),
         explanation=(
-            "This chart keeps the GDP discussion honest. It supports a prosperity-gap "
-            "argument, but it avoids overclaiming that elite earners alone explain the "
-            "whole pattern."
+            "This chart is here so I do not overclaim. It supports a GDP-versus-"
+            "household-income gap, but it does not prove exactly who gained the most."
         ),
         audience="MTI, social service policy analysts, NTUC.",
         recommendation=(
-            "Add lower-income decile or quintile income data in future work. That would "
-            "let policymakers test whether support should be aimed specifically at the "
-            "bottom-income households rather than the broad median."
+            "For a better version of this analysis, add income data by income group. "
+            "That would show whether lower-income households are falling behind."
         ),
     )
 
@@ -363,17 +358,15 @@ st.title("Member 2 - Cost of Living & Inflationary Pressures")
 st.markdown(
     """
 My section checks whether household income has really kept up with inflation.
-The EDA showed a sharper story than just "prices went up": food prices rose,
-real income growth was uneven, and GDP per capita can make Singapore look more
-comfortable than a median household actually feels.
+My EDA pointed me to a simple story: food prices went up, real income growth
+was not steady, and GDP per capita can make Singapore look richer than what a
+normal household may actually feel.
 
 **Hypothesis:** while median household income has risen, essential inflation and
-the headline GDP-income gap create financial pressure that prosperity numbers
-can hide.
+the GDP-income gap can still create financial pressure.
 
 **My five charts** follow that story from food prices, to real income, to the
-2022 squeeze, and finally to the GDP-income gap. Pick one chart from the
-sidebar to explore it.
+2022 squeeze, and then to the GDP-income gap. Pick one chart from the sidebar.
 """
 )
 
