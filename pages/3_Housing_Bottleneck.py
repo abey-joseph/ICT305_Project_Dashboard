@@ -31,7 +31,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 
-st.set_page_config(page_title="Member 3 - Housing", layout="wide")
+st.set_page_config(page_title="Housing", layout="wide")
 
 # One shared palette so all seven charts feel like the same page. Blue is the
 # neutral price line, red is the "expensive / unaffordable" warning colour, and
@@ -510,7 +510,7 @@ def chart_map():
 st.title("The Housing Premium Bottleneck")
 st.markdown(
     """
-**Noorul Fahima**
+**Author:** Noorul Fahima
 
 
 My section checks whether Singapore's high homeownership rate is hiding a real

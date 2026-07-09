@@ -35,7 +35,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="Member 4 - Sleep & Happiness", layout="wide")
+st.set_page_config(page_title="Sleep & Happiness", layout="wide")
 
 # Shared palette so every chart looks like it belongs with the rest of the team.
 BLUE = "#2A6FBB"
@@ -616,7 +616,7 @@ CHARTS = {
     "Chart 7 - The Pressure Chain in One View": chart_chain,
 }
 
-st.sidebar.header("Member 4 - Sleep & Happiness")
+st.sidebar.header("Sleep & Happiness")
 st.sidebar.caption("Choose one of my charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 
@@ -628,6 +628,9 @@ YR = st.sidebar.slider(
     min_value=YEAR_MIN, max_value=YEAR_MAX,
     value=(YEAR_MIN, YEAR_MAX),
 )
+
+st.title("Sleep Deprivation & Stress Epidemic")
+st.markdown("**Author:** Lai Soo Seng")
 
 # Draw the selected chart, then the shared references
 CHARTS[selection]()

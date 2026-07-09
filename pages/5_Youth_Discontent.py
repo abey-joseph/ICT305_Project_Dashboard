@@ -1,5 +1,5 @@
 """
-Member 5 - Youth Discontent & Future Anxiety
+Youth Discontent & Future Anxiety
 Name - Parthiban
 
 Sub-heuristic
@@ -31,7 +31,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 
-st.set_page_config(page_title="Member 5 - Youth Discontent", layout="wide")
+st.set_page_config(page_title="Youth Discontent", layout="wide")
 
 # Shared palette. Red is the youth / danger colour, grey is the older baseline.
 M5_RED = "#D1495B"
@@ -470,7 +470,8 @@ def chart_forecast():
 # ===========================================================================
 # Page layout - intro and the chart selector
 # ===========================================================================
-st.title("Member 5 - Youth Discontent & Future Anxiety")
+st.title("Youth Discontent & Future Anxiety")
+st.markdown("**Author:** Poysollameyyar Parthiban")
 st.markdown(
     """
 My section challenges the happy-city ranking by looking at the one group the
@@ -499,7 +500,7 @@ CHARTS = {
     "8. Forecast to 2030": chart_forecast,
 }
 
-st.sidebar.header("Member 5 - Youth Discontent")
+st.sidebar.header("Youth Discontent")
 st.sidebar.caption("Choose one of my eight charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 

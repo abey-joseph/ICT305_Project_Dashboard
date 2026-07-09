@@ -1,5 +1,5 @@
 """
-Member 1 - Work-Life Balance & Overwork
+Work-Life Balance & Overwork
 Name - Joseph Abey
 Student ID - 35720739
 =======================================
@@ -35,7 +35,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="Member 1 - Work-Life Balance", layout="wide")
+st.set_page_config(page_title="Work-Life Balance", layout="wide")
 
 # One shared palette so every chart on the page looks like it belongs together.
 BLUE = "#2A6FBB"
@@ -779,7 +779,8 @@ def references_section() -> None:
 # ---------------------------------------------------------------------------
 # Page header, hypothesis, and the sidebar chart selector
 # ---------------------------------------------------------------------------
-st.title("Member 1 - Work-Life Balance & Overwork")
+st.title("Work-Life Balance & Overwork")
+st.markdown("**Author:** Joseph Abey")
 st.markdown(
     """
 **Hypothesis:** Singapore's economic success masks a chronic culture of long
@@ -814,7 +815,7 @@ TIME_CHARTS = {
     "5. The Tight Labour Market",
 }
 
-st.sidebar.header("Member 1 - Work-Life Balance")
+st.sidebar.header("Work-Life Balance")
 st.sidebar.caption("Choose one of my eight charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 

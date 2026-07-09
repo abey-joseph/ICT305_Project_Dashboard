@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 
-st.set_page_config(page_title="Member 2 - Cost of Living", layout="wide")
+st.set_page_config(page_title="Cost of Living", layout="wide")
 
 BLUE = "#2A6FBB"
 RED = "#D1495B"
@@ -354,7 +354,8 @@ def references_section() -> None:
         )
 
 
-st.title("Member 2 - Cost of Living & Inflationary Pressures")
+st.title("Cost of Living & Inflationary Pressures")
+st.markdown("**Author:** Chew David Zhi Heng")
 st.markdown(
     """
 My section checks whether household income has really kept up with inflation.
@@ -378,7 +379,7 @@ CHARTS = {
     "5. GDP-Income Gap + Gini": chart_gap_and_gini,
 }
 
-st.sidebar.header("Member 2 - Cost of Living")
+st.sidebar.header("Cost of Living")
 st.sidebar.caption("Choose one of my five charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 
