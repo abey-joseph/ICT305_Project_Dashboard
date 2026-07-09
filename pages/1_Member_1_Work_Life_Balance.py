@@ -620,14 +620,28 @@ def chart_global_map() -> None:
             marker_line_color="white", marker_line_width=0.4,
         )
     )
-    # Star Singapore so it never gets lost among the small nations.
-    fig.add_trace(
-        go.Scattergeo(
-            lon=[103.82], lat=[1.35], text=["Singapore"], mode="markers+text",
-            marker=dict(size=9, color="black", symbol="star"),
-            textposition="top center", showlegend=False, hoverinfo="skip",
+    # Singapore is physically tiny, so a plain marker is easy to lose among the
+    # large landmasses. Instead of a star we drop a red dot on its exact location
+    # and attach a text callout carrying its real values, so it always stands out
+    # and is labelled directly - the geo-map equivalent of the annotation used on
+    # Chart 8. (A true add_annotation arrow can't be used here: annotations are not
+    # anchored to lat/lon, so they would drift when the map projection is changed.)
+    sg = cmap[cmap["country"] == "Singapore"]
+    if not sg.empty:
+        sg = sg.iloc[0]
+        sg_label = (
+            f"  Singapore - {int(sg['annual_hours_2023']):,} h/yr"
+            f" | Happiness {sg['Ladder score']:.2f}"
         )
-    )
+        fig.add_trace(
+            go.Scattergeo(
+                lon=[103.82], lat=[1.35], text=[sg_label], mode="markers+text",
+                marker=dict(size=8, color=RED, line=dict(color="white", width=1)),
+                textposition="middle right",
+                textfont=dict(size=12, color=RED, family="Arial Black"),
+                showlegend=False, hoverinfo="skip",
+            )
+        )
     fig.update_layout(
         title=f"{metric} by country (2023)",
         template="plotly_white", margin=dict(l=10, r=10, t=70, b=10),
