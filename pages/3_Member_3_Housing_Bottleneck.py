@@ -19,7 +19,8 @@ Structure of this page
 The sidebar lists my seven charts. Pick one and only that chart shows, with its
 own analysis and recommendation. A year-range filter in the sidebar feeds into
 whichever chart is open, so every chart is interactive. Chart 7 is the
-choropleth map with its own year slider.
+choropleth map with its own year slider, and also gets its own flat type
+filter since that one does not apply to the other six charts.
 """
 
 import json
@@ -41,7 +42,8 @@ GREEN = "#5B8C5A"
 GREY = "#8A8D91"
 
 # The $400k line I use across the page. It is roughly the old price ceiling for
-# a 3-room flat, which is the entry-level "affordable" tier for a first-timer.
+# a 3-room flat, which is the entry-level "affordable" tier for a first-timer,
+# based on historical HDB data [1].
 AFFORDABLE_LINE = 400_000
 
 # Work out the project root from this file so the data paths keep working no
@@ -163,7 +165,7 @@ def chart_yearly_median():
         "2025, a jump of over 50% in eight years. Prices stayed flat during "
         "2019, then climbed every year after with no year showing a drop.",
         "2019 is when COVID-19 started. Build-To-Order (BTO) construction was "
-        "slowed and the supply of public housing was reduced. The pandemic also "
+        "slowed and the supply of public housing was reduced [2][3]. The pandemic also "
         "drove demand for larger living space. With new-flat supply constrained "
         "at the moment demand rose, buyers were pushed towards the resale "
         "market, driving the yearly climb shown here.",
@@ -210,8 +212,8 @@ def chart_price_index():
         "straight line to above 200 by 2026. Prices have effectively doubled "
         "since the 2009 base, with nearly all of that in the last five years.",
         "Same driver as Chart 1. COVID-era BTO undersupply pushed buyers who "
-        "could not wait 3 to 5 years for a BTO into the resale market instead. "
-        "This chart proves the rise was not a slow drift the whole time, it is a "
+        "could not wait 3 to 5 years for a BTO into the resale market instead "
+        "[3]. This chart proves the rise was not a slow drift the whole time, it is a "
         "distinct acceleration that starts exactly where Chart 1's flat line ends.",
         "HDB and MND policy makers.",
         "Consider phased, targeted cooling measures timed with construction-delay "
@@ -258,7 +260,7 @@ def chart_by_flat_type():
         "The price surge from Charts 1 and 2 was not isolated to one flat type, "
         "it lifted the whole market. Even 3-room and 4-room flats, built across "
         "every town and sized for a typical household, now sit at or above the "
-        "S\\$400k line. This is not about people wanting bigger homes, the flats "
+        "S\\$400k line [4]. This is not about people wanting bigger homes, the flats "
         "people were already buying the most became unaffordable at roughly the "
         "same pace as everything else.",
         "First-time buyers deciding which flat type fits their budget.",
@@ -304,7 +306,7 @@ def chart_affordable_share():
         "As overall prices rise, cheap resale flats are disappearing. Private "
         "downgraders selling private property to buy HDB drove prices up. Even "
         "the government's 15-month wait-out rule, which slowed price growth, did "
-        "not reverse the affordability collapse. The problem is not just "
+        "not reverse the affordability collapse [5]. The problem is not just "
         "downgraders, there is a deeper shortage of available flats.",
         "HDB grant policy team, Ministry of National Development.",
         "Adjust housing grants based on how rare cheap flats are becoming, "
@@ -342,13 +344,19 @@ def chart_town_comparison():
     fig.update_xaxes(title_text="Median price (S$)", row=1, col=2)
     st.plotly_chart(fig, use_container_width=True)
 
+    top_price = top10.iloc[-1]
+    top_name = top10.index[-1]
+    bottom_price = bottom10.iloc[0]
+    bottom_name = bottom10.index[0]
+    gap = top_price - bottom_price
+
     insight_block(
-        "Two panels on different x-axis scales, and that gap is the point. The "
-        "most expensive town leads well above the most affordable, a gap of "
-        "hundreds of thousands of dollars for the median flat. Even the most "
-        "affordable town sits close to or above the S\\$400,000 cut-off, so there "
-        "is barely any town left where the median resale flat sits comfortably "
-        "under the affordability line.",
+        f"Two panels on different x-axis scales, and that gap is the point. "
+        f"{top_name} leads at S\\${top_price:,.0f}, against {bottom_name}'s "
+        f"S\\${bottom_price:,.0f}, a gap of around S\\${gap:,.0f} for the median "
+        f"flat. Even the most affordable town sits close to or above the "
+        f"S\\$400,000 cut-off, so there is barely any town left where the median "
+        f"resale flat sits comfortably under the affordability line.",
         "The most expensive towns are not random, they have the best locations "
         "and the newest resale flats, close to MRT stations, good schools, and "
         "established amenities, which makes them highly sought-after.",
@@ -401,7 +409,7 @@ def chart_income_vs_price():
         "Headline GDP figures include corporate profits and investment returns "
         "that do not flow into household paychecks, so aggregate prosperity "
         "overstates what a typical resident can spend. Singapore's wage share of "
-        "GDP has also lagged behind comparable economies for years. This is the "
+        "GDP has also lagged behind comparable economies for years [9]. This is the "
         "closing argument of the section: it is not just that flats got more "
         "expensive, it is that income never had a chance to keep up.",
         "MTI, MAS, and MND jointly - this is the cross-domain chart that needs "
@@ -419,9 +427,15 @@ def chart_map():
     st.markdown(
         "This map is the interactive extension of Chart 5. Use the year slider "
         "under the map to watch how the price gap between towns opened up over "
-        "time."
+        "time. Use the flat type filter in the sidebar to narrow the map down "
+        "to specific flat types only."
     )
     fdf = get_filtered_txn()
+
+    # apply the flat type filter, only relevant on this chart
+    selected_flat_types = st.session_state.get("map_flat_types", FLAT_ORDER)
+    fdf = fdf[fdf["flat_type"].isin(selected_flat_types)]
+
     if sg_geo is None or fdf.empty:
         st.warning("No data for the selected filters, or the GeoJSON file could not be found.")
         return
@@ -493,9 +507,12 @@ def chart_map():
 # ===========================================================================
 # Page layout - intro, sidebar filters, and the chart selector
 # ===========================================================================
-st.title("Member 3 - The Housing Premium Bottleneck")
+st.title("The Housing Premium Bottleneck")
 st.markdown(
     """
+**Noorul Fahima**
+
+
 My section checks whether Singapore's high homeownership rate is hiding a real
 affordability problem underneath it. I look at resale price, flat type, town,
 and how income has kept pace, because these are the variables that show whether
@@ -504,6 +521,10 @@ and how income has kept pace, because these are the variables that show whether
 **Hypothesis:** the traditional metric of high homeownership hides an
 aggressive, stress-inducing surge in the cost of securing a home, which creates
 financial stress for first-time buyers.
+
+**Affordability cut-off:** the S\\$400,000 line used across these charts is
+based on historical HDB data showing this was roughly the price ceiling for
+3-room flats, the entry-level "affordable" tier for first-time buyers [1].
 
 **My seven charts** each expose one layer of that story. Pick a chart from the
 sidebar to explore it. The year-range filter in the sidebar feeds into
@@ -524,7 +545,7 @@ CHARTS = {
     "7. Price Map (interactive)": chart_map,
 }
 
-st.sidebar.header("Member 3 - Housing")
+st.sidebar.header("Housing")
 st.sidebar.caption("Choose one of my seven charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 
@@ -540,8 +561,91 @@ st.session_state["year_range"] = st.sidebar.slider(
     value=(min_year, max_year), step=1,
 )
 
+# Flat type filter only matters for the map, so only show it when that chart is picked.
+if selection == "7. Price Map (interactive)":
+    st.sidebar.divider()
+    st.sidebar.caption("Flat type filter (map only):")
+    st.session_state["map_flat_types"] = st.sidebar.multiselect(
+        "Flat types shown on the map", FLAT_ORDER, default=FLAT_ORDER,
+    )
+
 st.divider()
 CHARTS[selection]()   # draw the chart the user picked
+
+
+# ---------------------------------------------------------------------------
+# Conclusion
+# ---------------------------------------------------------------------------
+with st.expander("Conclusion", expanded=False):
+    st.markdown(
+        """
+This section set out to test the hypothesis that Singapore's high
+homeownership rate hides a real affordability problem underneath it. Going
+through the story arc, here is how each chart answers that.
+
+**Chart 1: Prices have been climbing for years.** Median resale prices
+went from S\\$410,000 in 2017 to S\\$628,000 by 2025, over 50% higher in eight
+years. Prices only stayed flat in 2019, every year after that it kept
+going up. This tells us the hypothesis has a clear starting point, the
+"asset cost" of a flat really has been getting bigger every year.
+
+**Chart 2: It accelerated sharply after 2020.** The price index shows this
+was not just a slow steady climb the whole way, it sped up hard right
+after 2020, going from around 130 to over 200 in just five years. So the
+hypothesis is not just that prices went up, it is that they went up fast
+and recently, which matches when people started actually feeling the
+squeeze.
+
+**Chart 3: Every flat type is affected, not just big ones.** Even 3-room
+and 4-room flats, the ones most people are actually buying, now sit at or
+above the S\\$400,000 line used as the affordability cut-off. This matters
+because it shows the hypothesis is not only about fancy big flats getting
+pricier, it is the normal, entry-level flats too.
+
+**Chart 4: Affordable flats have basically disappeared.** Back in
+2017-2019 almost half the market was still under S\\$400,000. By 2025 that
+is down to about 1 in 10 transactions. This is the strongest proof of the
+hypothesis, it is not just that flats cost more, it is that the actual
+option to buy something affordable has mostly vanished.
+
+**Chart 5: Some towns are far worse than others.** The most expensive
+towns are way more expensive than the most affordable ones, but even the
+cheapest town in the data is still above the S\\$400,000 line. So the
+hypothesis holds everywhere, just to different degrees, there is genuinely
+no town left where a flat is cheap anymore.
+
+**Chart 6: Income has not kept up with prices.** This is where we link
+back to Member 2's data. Prices grew to an index of over 150 by 2025, but
+household income only grew to about 130 in the same time. This is really
+the core of the hypothesis, homeownership numbers can look fine on paper,
+but if income is not growing as fast as the price of the thing you need to
+buy, that is exactly where the financial stress comes from.
+
+**Chart 7 (the interactive map), built from Chart 5.** This map takes the
+same idea from Chart 5, that some towns are worse than others, and lets
+you actually watch it happen year by year instead of only seeing one
+snapshot. You can see the price gap between towns start small in 2017 and
+widen every year after 2020, right when Charts 2 and 4 show prices
+speeding up and affordable flats disappearing.
+
+**Putting it all together:** going chart by chart against the hypothesis,
+Chart 1 agrees, prices really have been climbing for years. Chart 2 agrees
+and sharpens it, showing the climb turned into a sprint after 2020. Chart 3
+also agrees, and rules out the idea that this is only a big flat problem,
+since even the small, entry-level flats got pulled up too. Chart 4 agrees
+the strongest out of all of them, since it shows the affordable tier of
+the market did not just shrink, it nearly disappeared. Chart 5 agrees but
+adds a twist, it is not one uniform squeeze, some towns are hit far worse
+than others, though none of them are actually affordable anymore either
+way. Chart 6 is really where the hypothesis gets proven, since it is not
+just prices going up, it is income failing to keep pace with them, which
+is the actual mechanism that turns rising prices into financial stress.
+Every chart in this section supports the hypothesis, none of them show
+evidence against it. The interactive map (Chart 7) does not add new
+evidence on its own, it just lets you explore Chart 5's finding yourself,
+year by year, instead of taking our word for it.
+"""
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -564,5 +668,8 @@ https://dollarbackmortgage.com/blog/smaller-resale-hdb-flat-best-2025/
 
 [5] PropNex, "Sell Private, Buy Resale HDB: No More 15-Month Wait?"
 https://www.propnex.com/picks-details/1075/sell-private-buy-resale-hdb-no-more-15-month-wait
+
+[9] MOM/CPF Occasional Paper, "Adequacy of Singapore's Central Provident Fund Payouts"
+mom.gov.sg
 """
     )
