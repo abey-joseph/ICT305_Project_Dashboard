@@ -17,10 +17,9 @@ Target audiences
 Structure of this page
 ----------------------
 The sidebar lists my seven charts. Pick one and only that chart shows, with its
-own analysis and recommendation. A year-range filter in the sidebar feeds into
-whichever chart is open, so every chart is interactive. Chart 7 is the
-choropleth map with its own year slider, and also gets its own flat type
-filter since that one does not apply to the other six charts.
+own analysis and recommendation. Chart 7 is the choropleth map with its own
+year slider built underneath it, plus a flat type filter in the sidebar that
+only applies to that chart.
 """
 
 import json
@@ -31,7 +30,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 
-st.set_page_config(page_title="Housing", layout="wide")
+st.set_page_config(page_title="Member 3 - Housing", layout="wide")
 
 # One shared palette so all seven charts feel like the same page. Blue is the
 # neutral price line, red is the "expensive / unaffordable" warning colour, and
@@ -127,11 +126,10 @@ def insight_block(analysis_md: str, explanation_md: str, audience: str, recommen
 
 
 def get_filtered_txn():
-    """Read the year filter from the sidebar and return that slice of the
-    transactions. Every transaction-based chart calls this, so all of them react
-    to the same year range."""
-    yr = st.session_state.get("year_range", (txn_all["year"].min(), txn_all["year"].max()))
-    return txn_all[(txn_all["year"] >= yr[0]) & (txn_all["year"] <= yr[1])].copy()
+    """Return the full transaction set. No year filter is applied here since
+    that control has been removed - Chart 7 already lets you explore by year
+    on its own slider, so a duplicate filter isn't needed."""
+    return txn_all.copy()
 
 
 # ===========================================================================
@@ -180,10 +178,9 @@ def chart_yearly_median():
 # ===========================================================================
 def chart_price_index():
     st.subheader("It Accelerated Sharply After 2020")
-    yr = st.session_state.get("year_range", (txn_all["year"].min(), txn_all["year"].max()))
-    pidx = price_index[(price_index["year"] >= yr[0]) & (price_index["year"] <= yr[1])]
+    pidx = price_index
     if pidx.empty:
-        st.warning("No index data in the selected year range.")
+        st.warning("No index data available.")
         return
 
     fig = go.Figure()
@@ -192,11 +189,10 @@ def chart_price_index():
         line=dict(color=BLUE, width=2),
         hovertemplate="%{x}<br>Index: %{y:.1f}<extra></extra>",
     ))
-    # Shade the post-2020 sprint only if it falls inside the chosen years.
-    if yr[1] >= 2021:
-        fig.add_vrect(x0="2021-Q1", x1=pidx["quarter"].iloc[-1],
-                      fillcolor=RED, opacity=0.10, line_width=0,
-                      annotation_text="Post-2020 acceleration", annotation_position="top left")
+    # Shade the post-2020 sprint.
+    fig.add_vrect(x0="2021-Q1", x1=pidx["quarter"].iloc[-1],
+                  fillcolor=RED, opacity=0.10, line_width=0,
+                  annotation_text="Post-2020 acceleration", annotation_position="top left")
     fig.update_layout(
         title="HDB Resale Price Index (1Q2009 = 100)",
         xaxis_title="Quarter", yaxis_title="Price index",
@@ -281,17 +277,23 @@ def chart_affordable_share():
 
     g4 = (fdf.assign(is_affordable=fdf["resale_price"] < AFFORDABLE_LINE)
           .groupby("year")["is_affordable"].mean().mul(100).reset_index(name="affordable_pct"))
+
+    # green while affordable flats are still the majority of the market, red
+    # once they slip under 50% - matches the notebook version of this chart.
+    bar_colors = [GREEN if v >= 50 else RED for v in g4["affordable_pct"]]
+
     fig = go.Figure()
-    fig.add_trace(go.Scatter(
-        x=g4["year"], y=g4["affordable_pct"], mode="lines+markers",
-        line=dict(color=RED, width=3), marker=dict(size=8),
-        fill="tozeroy", fillcolor="rgba(209,73,91,0.12)",
+    fig.add_trace(go.Bar(
+        x=g4["year"], y=g4["affordable_pct"], marker_color=bar_colors,
+        text=[f"{v:.0f}%" for v in g4["affordable_pct"]], textposition="outside",
         hovertemplate="Year %{x}<br>%{y:.0f}% affordable<extra></extra>",
     ))
+    fig.add_hline(y=50, line_dash="dash", line_color="#333",
+                  annotation_text="50% of the market", annotation_position="top left")
     fig.update_layout(
         title="Share of Resale Transactions Below S$400,000",
         xaxis_title="Year", yaxis_title="Share below S$400k (%)",
-        template="plotly_white", margin=dict(l=40, r=40, t=70, b=40),
+        template="plotly_white", margin=dict(l=40, r=40, t=70, b=40), showlegend=False,
     )
     st.plotly_chart(fig, use_container_width=True)
 
@@ -371,12 +373,11 @@ def chart_town_comparison():
 # ===========================================================================
 def chart_income_vs_price():
     st.subheader("Income Has Not Kept Up With Prices")
-    yr = st.session_state.get("year_range", (txn_all["year"].min(), txn_all["year"].max()))
     g6 = master[["year", "m2_median_household_income_sgd", "m3_hdb_resale_price_index"]].dropna().copy()
-    g6 = g6[(g6["year"] >= yr[0]) & (g6["year"] <= yr[1])].sort_values("year")
+    g6 = g6.sort_values("year")
 
     if len(g6) < 2:
-        st.info("Not enough years in the selected range to index income against price. Widen the year range.")
+        st.info("Not enough years of data to index income against price.")
         return
 
     # Index both series to 100 at the first year in view so we compare growth,
@@ -510,7 +511,7 @@ def chart_map():
 st.title("The Housing Premium Bottleneck")
 st.markdown(
     """
-**Author:** Noorul Fahima
+**Noorul Fahima**
 
 
 My section checks whether Singapore's high homeownership rate is hiding a real
@@ -527,8 +528,7 @@ based on historical HDB data showing this was roughly the price ceiling for
 3-room flats, the entry-level "affordable" tier for first-time buyers [1].
 
 **My seven charts** each expose one layer of that story. Pick a chart from the
-sidebar to explore it. The year-range filter in the sidebar feeds into
-whichever chart is open.
+sidebar to explore it.
 """
 )
 
@@ -549,19 +549,9 @@ st.sidebar.header("Housing")
 st.sidebar.caption("Choose one of my seven charts:")
 selection = st.sidebar.radio("My charts", list(CHARTS.keys()), label_visibility="collapsed")
 
-st.sidebar.divider()
-st.sidebar.caption("Year filter (applies to the chart on screen):")
-
-# Store the year range in session_state so the chart functions can read it
-# without me passing arguments around everywhere.
-min_year = int(txn_all["year"].min())
-max_year = int(txn_all["year"].max())
-st.session_state["year_range"] = st.sidebar.slider(
-    "Year range", min_value=min_year, max_value=max_year,
-    value=(min_year, max_year), step=1,
-)
-
-# Flat type filter only matters for the map, so only show it when that chart is picked.
+# Flat type filter only matters for the map, so only show it when that chart
+# is picked. Chart 7 already has its own year slider built under the chart,
+# so there's no separate year filter here at all.
 if selection == "7. Price Map (interactive)":
     st.sidebar.divider()
     st.sidebar.caption("Flat type filter (map only):")
