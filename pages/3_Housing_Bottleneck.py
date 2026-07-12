@@ -373,7 +373,7 @@ def chart_town_comparison():
 # ===========================================================================
 def chart_income_vs_price():
     st.subheader("Income Has Not Kept Up With Prices")
-    g6 = master[["year", "m2_median_household_income_sgd", "m3_hdb_resale_price_index"]].dropna().copy()
+    g6 = master[["year", "m2_median_household_income_sgd", "m3_hdb_median_resale_price"]].dropna().copy()
     g6 = g6.sort_values("year")
 
     if len(g6) < 2:
@@ -381,11 +381,12 @@ def chart_income_vs_price():
         return
 
     # Index both series to 100 at the first year in view so we compare growth,
-    # not raw levels (income is in dollars, the price index is unitless).
+    # not raw levels (income is in dollars, resale price is also in dollars but
+    # at a very different scale).
     base_income = g6["m2_median_household_income_sgd"].iloc[0]
-    base_price = g6["m3_hdb_resale_price_index"].iloc[0]
+    base_price = g6["m3_hdb_median_resale_price"].iloc[0]
     g6["income_idx"] = g6["m2_median_household_income_sgd"] / base_income * 100
-    g6["price_idx"] = g6["m3_hdb_resale_price_index"] / base_price * 100
+    g6["price_idx"] = g6["m3_hdb_median_resale_price"] / base_price * 100
 
     fig = go.Figure()
     fig.add_trace(go.Scatter(x=g6["year"], y=g6["price_idx"], mode="lines+markers",
