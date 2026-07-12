@@ -607,13 +607,13 @@ def references() -> None:
 # Chart registry + sidebar navigation
 # ---------------------------------------------------------------------------
 CHARTS = {
-    "Chart 1 - The Peak We Never Returned To": chart_hook,
-    "Chart 2 - Incomes Keep Rising, Happiness Does Not Follow": chart_bridge,
-    "Chart 3 - Ranked Happy, Yet Near the Bottom": chart_peer,
-    "Chart 4 - Winning on Money, Losing on Connection": chart_subscore,
-    "Chart 5 - Pressure Without a Same-Year Echo": chart_stress,
-    "Chart 6 - The Global Sleep-Stress Pattern": chart_sleep,
-    "Chart 7 - The Pressure Chain in One View": chart_chain,
+    "1. The Peak We Never Returned To": chart_hook,
+    "2. Incomes Keep Rising, Happiness Does Not Follow": chart_bridge,
+    "3. Ranked Happy, Yet Near the Bottom": chart_peer,
+    "4. Winning on Money, Losing on Connection": chart_subscore,
+    "5. Pressure Without a Same-Year Echo": chart_stress,
+    "6. The Global Sleep-Stress Pattern": chart_sleep,
+    "7. The Pressure Chain in One View": chart_chain,
 }
 
 st.sidebar.header("Sleep & Happiness")
